@@ -1,6 +1,3 @@
-# TODO:
-# Appendix II: figure image and caption are swapped
-
 .SECONDARY:
 
 #all: $(patsubst %,h4/%,$(wildcard *.html))
