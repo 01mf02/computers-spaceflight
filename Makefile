@@ -15,6 +15,7 @@ download:
 	  --convert-links \
 	  --domains nasa.gov \
 	  --no-parent \
+	  --cut-dirs=2 \
 	      https://history.nasa.gov/computers/contents.html
 
 # convert DOS line endings
