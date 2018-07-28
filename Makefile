@@ -1,30 +1,15 @@
 .SECONDARY:
 
-FILES = $(PROLOGUE) $(PARTS) Epilogue $(SOURCES) $(POSTSRCS)
 PROLOGUE = Foreword Preface Acknow Computing
-SOURCES = $(patsubst %,Source%,$(shell seq 1 9))
 POSTSRCS = Biblio Appendix-I Appendix-II Appendix-III Appendix-IV
+WILDFILES = $(PROLOGUE) Part?-intro Ch?-? Epilogue Source? $(POSTSRCS)
+HNGFILES = $(wildcard $(patsubst %,history.nasa.gov/%.html,$(WILDFILES)))
+FILES = $(patsubst history.nasa.gov/%.html,%,$(HNGFILES))
 
-PARTS = $(PART1) $(PART2) $(PART3)
-PART1 = Part1-intro $(CH1) $(CH2) $(CH3) $(CH4)
-PART2 = Part2-intro $(CH5) $(CH6)
-PART3 = Part3-intro $(CH7) $(CH8) $(CH9)
-CH1 = $(call makechap,1,5)
-CH2 = $(call makechap,2,9)
-CH3 = $(call makechap,3,6)
-CH4 = $(call makechap,4,9)
-CH5 = $(call makechap,5,7)
-CH6 = $(call makechap,6,4)
-CH7 = $(call makechap,7,3)
-CH8 = $(call makechap,8,3)
-CH9 = $(call makechap,9,3)
+all: $(patsubst %,i/nolinkinref/%.html,$(FILES))
+#all: $(patsubst %,i/markdown/%.md,$(FILES))
 
-makechap = $(patsubst %,Ch$(1)-%,$(shell seq 1 $(2)))
-
-#all: $(patsubst %,i/h4/%.html,$(FILES))
-all: $(patsubst %,i/markdown/%.md,$(FILES))
-
-i/history.nasa.gov:
+history.nasa.gov:
 	wget \
 	  --continue \
 	  --recursive \
@@ -34,15 +19,13 @@ i/history.nasa.gov:
 	  --domains nasa.gov \
 	  --no-parent \
 	  --cut-dirs=2 \
-	  --directory-prefix=i \
 	      https://history.nasa.gov/computers/contents.html
 
-images: i/history.nasa.gov
-	echo $(FILES)
+images: history.nasa.gov
 	@mkdir -p $@
 	cp $</*.jpg $@/
 
-i/filenames: i/history.nasa.gov
+i/filenames: history.nasa.gov
 	@mkdir -p `dirname $@`
 	cp -r history.nasa.gov $@
 	mv $@/ch1-1.html $@/Ch1-1.html
@@ -68,6 +51,7 @@ i/fixtags/%.html: i/noxsas/%.html
 	sed -e 's|</SUP></B><SUP>.</A></SUP>|</A></SUP></B>.|' \
 	    -e 's|</SUP></B>.</A>|</A></SUP></B>.|' $< > $@
 
+# TODO: not needed anymore?
 # throw away everything after `</HTML>`, as there is some garbage left
 i/fixend/%.html: i/fixtags/%.html
 	@mkdir -p `dirname $@`
@@ -78,21 +62,28 @@ i/captioncase/%.html: i/fixend/%.html
 	sed -e 's/FIGURE/Figure/g' \
 	    -e 's/TABLE/Table/g' $< > $@
 
-i/tidy/%.html: i/captioncase/%.html
+i/tidy0/%.html: i/captioncase/%.html
 	@mkdir -p `dirname $@`
 	-tidy -wrap $< > $@
 
-i/nofont/%.html: i/tidy/%.html
+i/nofont/%.html: i/tidy0/%.html
 	@mkdir -p `dirname $@`
 	sed -e 's|<font[^>]*>||g' \
 	    -e 's|</font>||g' $< > $@
 
 i/nonbsp/%.html: i/nofont/%.html
 	@mkdir -p `dirname $@`
-	sed -e 's|>.nbsp.|>|g' \
-	    -e 's|.nbsp.>|>|g' $< > $@
+	sed -e 's|\([^]]\).nbsp.|\1|g' \
+	    -e 's|^.nbsp.||g' \
+	    -e 's|.nbsp.<|<|g' $< > $@
 
-i/nodeflists/%.html: i/nonbsp/%.html
+i/nobr/%.html: i/nonbsp/%.html
+	@mkdir -p `dirname $@`
+	sed -e 's|<br>||g' \
+	    -e 's|<br .>||g' $< > $@
+
+# needs to have no brs inside, otherwise tidy recreates brs
+i/nodeflists/%.html: i/nobr/%.html
 	@mkdir -p `dirname $@`
 	sed -e 's|<dl>||g' \
 	    -e 's|</dl>||g' \
@@ -101,7 +92,12 @@ i/nodeflists/%.html: i/nonbsp/%.html
 	    -e 's|<dd>|<p>|g' \
 	    -e 's|</dd>|</p>|g' $< > $@
 
-i/noblockquote/%.html: i/nodeflists/%.html
+# necessary because of nbsp and nobr removal
+i/tidy1/%.html: i/nodeflists/%.html
+	@mkdir -p `dirname $@`
+	-tidy -wrap $< > $@
+
+i/noblockquote/%.html: i/tidy1/%.html
 	@mkdir -p `dirname $@`
 	sed -e '/<blockquote>/d' \
 	    -e '/<.blockquote>/d' $< > $@
@@ -181,6 +177,10 @@ i/headlinepageref/%.html: i/nonav/%.html
 i/h4/%.html: i/headlinepageref/%.html
 	@mkdir -p `dirname $@`
 	sed 's|<center><b>\(.*\)</b></center>|<h4>\1</h4>|g' $< > $@
+
+i/nolinkinref/%.html: i/h4/%.html
+	@mkdir -p `dirname $@`
+	sed 's|\[<a[^>]*></a>|\[|g' $< > $@
 
 i/markdown/%.md: i/h4/%.html
 	@mkdir -p `dirname $@`
