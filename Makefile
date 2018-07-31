@@ -3,10 +3,11 @@
 PROLOGUE = Foreword Preface Acknow Computing
 POSTSRCS = Biblio Appendix-I Appendix-II Appendix-III Appendix-IV
 WILDFILES = $(PROLOGUE) Part?-intro Ch?-? Epilogue Source? $(POSTSRCS)
-HNGFILES = $(wildcard $(patsubst %,history.nasa.gov/%.html,$(WILDFILES)))
-FILES = $(patsubst history.nasa.gov/%.html,%,$(HNGFILES))
 
-all: $(patsubst %,i/nolinkinref/%.html,$(FILES))
+hngfiles = $(wildcard $(patsubst %,i/filenames/%.html,$(1)))
+hngnames = $(patsubst i/filenames/%.html,%,$(call hngfiles,$(1)))
+
+all: $(patsubst %,i/nolinkinref/%.html,$(call hngnames,$(WILDFILES)))
 #all: $(patsubst %,i/markdown/%.md,$(FILES))
 
 history.nasa.gov:
@@ -51,13 +52,7 @@ i/fixtags/%.html: i/noxsas/%.html
 	sed -e 's|</SUP></B><SUP>.</A></SUP>|</A></SUP></B>.|' \
 	    -e 's|</SUP></B>.</A>|</A></SUP></B>.|' $< > $@
 
-# TODO: not needed anymore?
-# throw away everything after `</HTML>`, as there is some garbage left
-i/fixend/%.html: i/fixtags/%.html
-	@mkdir -p `dirname $@`
-	sed '/<.HTML>/q' $< > $@
-
-i/captioncase/%.html: i/fixend/%.html
+i/captioncase/%.html: i/fixtags/%.html
 	@mkdir -p `dirname $@`
 	sed -e 's/FIGURE/Figure/g' \
 	    -e 's/TABLE/Table/g' $< > $@
@@ -182,36 +177,25 @@ i/nolinkinref/%.html: i/h4/%.html
 	@mkdir -p `dirname $@`
 	sed 's|\[<a[^>]*></a>|\[|g' $< > $@
 
+i/markdown/heads/%.md: heads/%.md
+	@mkdir -p `dirname $@`
+	cp $< $@
+
 i/markdown/%.md: i/h4/%.html
 	@mkdir -p `dirname $@`
 	pandoc $< -o $@
 
-#PROLOGUE = foreword Preface Acknow Computing
-#EPILOGUE = markdown/Epilogue $(SOURCES) $(POSTSRCS:%=markdown/%)
-#POSTSRCS = Biblio Appendix-I Appendix-II Appendix-III Appendix-IV
-#SOURCES = heads/Sources $(patsubst %,markdown/Source%,$(shell seq 1 9))
-#
-#PART1 = heads/Part1 markdown/Part1-intro $(CH1) $(CH2) $(CH3) $(CH4)
-#PART2 = heads/Part2 markdown/Part2-intro $(CH5) $(CH6)
-#PART3 = heads/Part3 markdown/Part3-intro $(CH7) $(CH8) $(CH9)
-#CH1 = heads/Ch1 $(patsubst %,markdown/%,ch1-1 Ch1-2 Ch1-3 Ch1-4 Ch1-5)
-#CH2 = $(call makechap,2,9)
-#CH3 = $(call makechap,3,6)
-#CH4 = $(call makechap,4,9)
-#CH5 = $(call makechap,5,7)
-#CH6 = $(call makechap,6,4)
-#CH7 = $(call makechap,7,3)
-#CH8 = $(call makechap,8,3)
-#CH9 = $(call makechap,9,3)
-#
-#makechap = heads/Ch$(1) $(patsubst %,markdown/Ch$(1)-%,$(shell seq 1 $(2)))
-#makepart = heads/Part$(1) markdown/Part$(1)-intro $(2)
+PARTS := 1 2 3
+PART1 := 1 2 3 4
+PART2 := 5 6
+PART3 := 7 8 9
+makechap = heads/Ch$(1) $(sort $(call hngnames,Ch$(1)*))
+makepart = heads/Part$(part) Part$(part)-intro \
+	   $(foreach ch,$(PART$(part)),$(call makechap,$(ch)))
+SOURCES = $(sort $(call hngnames,Source[0-9]))
+BOOK = $(PROLOGUE) $(foreach part,$(PARTS),$(call makepart,$(part))) \
+       Epilogue $(SOURCES) $(POSTSRCS)
+BOOK_MD = $(BOOK:%=i/markdown/%.md)
 
-final.pdf:
-	pandoc -V documentclass:article --toc meta.md \
-	  $(PROLOGUE:%=markdown/%.md) \
-	  $(PART1:%=%.md) \
-	  $(PART2:%=%.md) \
-	  $(PART3:%=%.md) \
-	  $(EPILOGUE:%=%.md) \
-	  -o $@
+book.%: $(BOOK_MD)
+	pandoc -V documentclass:article -s --toc meta.md $(BOOK_MD) -o $@
