@@ -7,7 +7,7 @@ WILDFILES = $(PROLOGUE) Part?-intro Ch?-? Epilogue Source? $(POSTSRCS)
 hngfiles = $(wildcard $(patsubst %,i/filenames/%.html,$(1)))
 hngnames = $(patsubst i/filenames/%.html,%,$(call hngfiles,$(1)))
 
-all: $(patsubst %,i/nolinkinref/%.html,$(call hngnames,$(WILDFILES)))
+all: $(patsubst %,i/fixreffmt/%.html,$(call hngnames,$(WILDFILES)))
 #all: $(patsubst %,i/markdown/%.md,$(FILES))
 
 history.nasa.gov:
@@ -177,13 +177,27 @@ i/nolinkinref/%.html: i/h4/%.html
 	@mkdir -p `dirname $@`
 	sed 's|\[<a[^>]*></a>|\[|g' $< > $@
 
+i/mergefigpages/%.html: i/nolinkinref/%.html
+	@mkdir -p `dirname $@`
+	perl -0777p -e 's|<center>.<b>([0-9]+)</b>.</center>\n<figure>(.*?)<figcaption>(.*?)</figcaption></figure>|<figure>\2<figcaption>[<b>\1</b>] \3</figcaption></figure>|g' $< > $@
+
+i/prefiximages/%.html: i/mergefigpages/%.html
+	@mkdir -p `dirname $@`
+	sed "s|p\(.*\).jpg|images/p\\1.jpg|g" $< > $@
+
+# depends on tidying, because <B> can be sometimes preceded by empty <SUP>
+i/fixreffmt/%.html: i/prefiximages/%.html
+	@mkdir -p `dirname $@`
+	perl -0777p -e 's|\s*<b><sup>|<b><sup>|gs' $< | \
+	perl -0777p -e 's|\.<b><sup>(.*?)</sup></b>|<b><sup>\1</sup></b>.|g' | \
+	sed         -e 's|\.</a></sup></b>|</a></sup></b>\.|' > $@
+
+i/markdown/%.md: i/fixreffmt/%.html
+	@mkdir -p `dirname $@`
+	pandoc $< -o $@
 i/markdown/heads/%.md: heads/%.md
 	@mkdir -p `dirname $@`
 	cp $< $@
-
-i/markdown/%.md: i/h4/%.html
-	@mkdir -p `dirname $@`
-	pandoc $< -o $@
 
 PARTS := 1 2 3
 PART1 := 1 2 3 4
