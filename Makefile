@@ -38,8 +38,12 @@ i/unix/%.html: i/filenames/%.html
 	@mkdir -p `dirname $@`
 	tr "\r" "\n" < $< > $@
 
+i/nofont/%.html: i/unix/%.html
+	@mkdir -p `dirname $@`
+	perl -0777p -e 's|<.?FONT.*?>||gs' $< > $@
+
 # necessary to remove these tags, otherwise `tidy` chokes on them
-i/noxsas/%.html: i/unix/%.html
+i/noxsas/%.html: i/nofont/%.html
 	@mkdir -p `dirname $@`
 	sed -e '/X-SAS-WINDOW/d' \
 	    -e 's/ X-SAS-UseImageHeight//g' \
@@ -47,6 +51,7 @@ i/noxsas/%.html: i/unix/%.html
 	    -e 's/X-SAS-UseImageWidth //g' $< > $@
 
 # fix Ch2-5, Ch2-6, Ch2-8, Ch3-2
+# depends on font information to be removed first!
 i/fixtags/%.html: i/noxsas/%.html
 	@mkdir -p `dirname $@`
 	sed -e 's|</SUP></B><SUP>.</A></SUP>|</A></SUP></B>.|' \
@@ -61,12 +66,7 @@ i/tidy0/%.html: i/captioncase/%.html
 	@mkdir -p `dirname $@`
 	-tidy -wrap $< > $@
 
-i/nofont/%.html: i/tidy0/%.html
-	@mkdir -p `dirname $@`
-	sed -e 's|<font[^>]*>||g' \
-	    -e 's|</font>||g' $< > $@
-
-i/nonbsp/%.html: i/nofont/%.html
+i/nonbsp/%.html: i/tidy0/%.html
 	@mkdir -p `dirname $@`
 	sed -e 's|\([^]]\).nbsp.|\1|g' \
 	    -e 's|^.nbsp.||g' \
