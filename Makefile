@@ -7,7 +7,7 @@ WILDFILES = $(PROLOGUE) Part?-intro Ch?-? Epilogue Source? $(POSTSRCS)
 hngfiles = $(wildcard $(patsubst %,i/filenames/%.html,$(1)))
 hngnames = $(patsubst i/filenames/%.html,%,$(call hngfiles,$(1)))
 
-all: $(patsubst %,i/fixreffmt/%.html,$(call hngnames,$(WILDFILES)))
+all: $(patsubst %,i/footnotes/%.html,$(call hngnames,$(WILDFILES)))
 #all: $(patsubst %,i/markdown/%.md,$(FILES))
 
 history.nasa.gov:
@@ -192,7 +192,13 @@ i/fixreffmt/%.html: i/prefiximages/%.html
 	perl -0777p -e 's|\.<b><sup>(.*?)</sup></b>|<b><sup>\1</sup></b>.|g' | \
 	sed         -e 's|\.</a></sup></b>|</a></sup></b>\.|' > $@
 
-i/markdown/%.md: i/fixreffmt/%.html
+i/footnotes/%.html: i/fixreffmt/%.html
+	@mkdir -p `dirname $@`
+	sed -e 's|<b><sup><a href="[^#]*#\([^\"]*\)\">\**</a></sup></b>|<b><sup><a href="#\1">\1</a></sup></b>|g' \
+	     -e 's|<b><a name=\"\([^\"]*\)\"></a>\**</b>|<b><a name="\1">\1</a></b>|g' $< > $@
+
+
+i/markdown/%.md: i/footnotes/%.html
 	@mkdir -p `dirname $@`
 	pandoc $< -o $@
 i/markdown/heads/%.md: heads/%.md
