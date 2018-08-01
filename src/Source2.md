@@ -74,8 +74,8 @@
 38. Hopkins, "Electronic Navigator," p. 112.
 39. R. H. Battin and F. H. Martin, "Computer Controlled Steering of the
     Apollo Spacecraft," J. Spacecr. Rockets, 5, 402 (1968); A. Drake and B.
-    1. Savage, AGC4 Basic Training Manual MIT, Cambridge, MA, 1967, pp.
-    1.1-1.2.
+    1\. Savage, AGC4 Basic Training Manual MIT, Cambridge, MA, 1967, pp.
+    1\.1-1.2.
 40. F. Bedford, S. P. Cockrell, and R. T. Savely, Apollo Experience
     Report: Onboard Navigational and Alignment Software, MSC-04238, Houston,
     TX, 1971, p. 2; Hopkins, "Electronic Navigator," p. 113.
@@ -130,18 +130,18 @@
 70. Felleman and Fraser, "Digital Fly-By-Wire," p. 30.
 71. W.M. Keese, et al, Management Procedures in Computer Programming for
     Apollo-Interim Report, Bellcomm. Inc., Washington, D.C., November 30,
-    1964.
+    1964\.
 72. Garman interview.
 73. Hopkins, "Design Concepts," June 1963, p. 3.11.
 74. Frank Hughes interview, Johnson Space Center, Houston, TX, June 2,
-    1983.
+    1983\.
 75. Ertel, Apollo Spacecraft, p. 288.
 76. Mann interview.
 77. Guidance Software Validation Commission, Apollo Guidance Software
     Development and Verification Plan, Manned Spacecraft Center, Houston,
     TX, October 4, 1957, p. 2.1.
 78. Ed Lineberry interview, Johnson Space Center, Houston, TX, June 2,
-    1983.
+    1983\.
 79. Dick Parten interview, Johnson Space Center, Houston, TX, June 3,
     1983 and June 16, 1983.
 80. M. D. Richter to multiple addresses, MIT, "Summary of AGC Program
@@ -191,7 +191,7 @@
 110. Lawton and Muntz, Verification Plan, p. 5; MIT, Guidance System
     Operations Plan for Manned CM Earth Orbital and Lunar Missions Using
     Program COLLOSSUS, Sec. 5, NASA CR-97515, MIT, Cambridge, MA, n.d., p.
-    6.2.
+    6\.2.
 111. Mann interview.
 112. Carey and Sturm, "Space Software," p. 63.
 113. Mann interview.
@@ -301,7 +301,7 @@
 172. Kurten, Abort Guidance System, pp. 8-9.
 173. Kurten, Abort Guidance System, p. 42.
 174. Tindall, notes in review of the draft of this chapter, August,
-    1985.
+    1985\.
 175. Kurten, Abort Guidance System, p. 38.
 176. Kurten, Abort Guidance System, pp. 22-23.
 177. TRW, news release, July l, 1969.

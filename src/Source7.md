@@ -20,7 +20,7 @@
     Description, IBM Federal System Division, Huntsville. AL, March 14,
     1972, p. 12.
 12. Interview with Jim Willbanks, IBM, Kennedy Space Center, June 29,
-    1983.
+    1983\.
 13. J.W. Dahnke, "Computer-Directed Checkout for NASA's Biggest
     Booster", Control Eng., 84 (August 1962); Lewis interview.
 14. C.O. Brooks to multiple addressees, October 5, 1962, Marshall Space
@@ -28,7 +28,7 @@
 15. R. Dutton and W. Jafferis, Utilization of Saturn/Apollo Control and
     Checkout System for Prelaunch Checkout and Launch Operations,
     NASATM-X-65271, Kennedy Space Center, Cocoa Beach, FL, July 22, 1968, p.
-    5.2.
+    5\.2.
 16. Swearingen interview.
 17. Willbanks interview.
 18. Interview with Thomas S. Walton, Kennedy Space Center, July 6, 1983.
@@ -186,11 +186,11 @@
 123. H.C. Paul, "LPS-A System to Support the Space Shuttle," p. 8.4.
 124. Springer, "The Launch Processing System for Space Shuttle," p. 2.
 125. Interview with Jack Bogan, IBM, Kennedy Space Center, June 29,
-    1983.
+    1983\.
 126. Shuttle Ground Operations Simulator Users' Reference Manual,
     Revision 1, KSC-LPS-UM073, February 1983.
 127. Interview with Dr., Carl Delaune, Kennedy Space Center, July 5,
-    1983.
+    1983\.
 128. Delaune interview.
 129. Biegert interview; IBM Corporation, Launch Processing System
     Checkout Control and Monitor Subsystem Detailed Software Design

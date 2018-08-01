@@ -1,7 +1,7 @@
 ### Source Notes: Chapter Eight
 
 1. Interview with John Morton, Goddard Spaceflight Center, June 27,
-    1984.
+    1984\.
 2. Frederick P. Brooks, Jr., The Mythical Man-Month, Addison-Wesley,
     Reading, MA, 1975, p. 56.
 3. Morton interview, June 27, 1984.
@@ -54,7 +54,7 @@
 32. Philco Corporation, "IMCC Systems and Performance Requirements
     Specification," p. 4.1.2.
 33. Philco Corporation', "IMCC Systems and Performance Requirements," p.
-    4.3.5.1.
+    4\.3.5.1.
 34. IBM Corporation, Real-Time Computer Complex for NASA Manned
     Spacecraft Center, Houston, Texas, IBM Federal Systems Division,
     Rockville, MD, September 1, 1962, pp. 1.1,1.2,2.5,2.53.
@@ -64,7 +64,7 @@
     IBM Corporation, Real-Time Computer Complex for NASA Manned Spacecraft
     Center,
 37. IBM Corporation, Project Gemini Final Report-Summary, no date, p,
-    39.
+    39\.
 38. Corliss, Space Tracking and Data Acquisition Network, p. 145.
 39. Stokes interview, June 1, 1983.
 40. IBM Corporation, Real-Time Computer Complex for NASA Manned
@@ -119,9 +119,9 @@
     Spaceflight Operations, AIAA-83-294, given by Lattu at International
     Aerospace Foundation Meeting, Budapest, October 10-l5, 1983, pp. 2-3.
 70. Interview with Ann Merwarth, Goddard Spaceflight Center, July 3,
-    1984.
+    1984\.
 71. Interview with Carl Johnson, Jet Propulsion Laboratory, May 23,
-    1984.
+    1984\.
 72. See Corliss, Histories of the Space Tracking and Data Acquisition
     Network; N.A. Renzetti, ed., A History of the Deep Space Network From
     Inception to January 1, 1969, Jet Propulsion Laboratory TR 32-1533,
@@ -134,7 +134,7 @@
 75. W.D. Menrick; E. Rechtin; R. Stevens; and W.K. Victor, "Deep Space
     Communications," IRE Trans. Military Electron., 160 (April/July 1960).
 76. Interview with George Gianopolis, Jet Propulsion Laboratory, June 4,
-    1984.
+    1984\.
 77. NASA, Mariner-Venus 1962: Final Project Report, NASA SP-59,
     Washington, 1965, pp. 278-279,294.
 78. NASA, Mariner-Venus 1962,1965, p. 294.
@@ -157,7 +157,7 @@
 88. Gianopolis interview, June 4,1984.
 89. NASA, Mariner Mars 1964: Final Project Report, p. 220.
 90. Interview with Frank Jordan, Jet Propulsion Laboratory, May 31,
-    1984.
+    1984\.
 91. NASA, Mariner-Venus 1967: Final Project Report, NASA SP-190,
     Washington, D.C., 1971, pp. 166, 182.
 92. Jet Propulsion Laboratory, Surveyor Final Project Report, Volume I,

@@ -1,9 +1,9 @@
 ### Source Notes: Chapter Three
 
 1. Bill Chubb interview, Marshall Space Center, Huntsville, AL, June 22,
-    1983.
+    1983\.
 2. Steve Bales interview, Johnson Space Center, Houston, TX, May 31,
-    1983.
+    1983\.
 3. IBM, Skylab Reactivation Mission, IBM Federal Systems Division,
     Huntsville, AL, September 12, 1979, p. 1.2.
 4. See Charles D. Benson and W. David Compton, [Living and Working in
@@ -22,7 +22,7 @@
     Center, Huntsville, AL, n.d,, p. 4.13.
 12. IBM, Design and Operation Assessment, p. 1.1.3.
 13. John Copeland interview, IBM at Marshall Space Center, June 23,
-    1983.
+    1983\.
 14. IBM, Design and Operation Assessment, p. 1.1.22.
 15. Ibid.,p. 1.1.1.
 16. Copeland interview.
@@ -35,7 +35,7 @@
 23. Ibid., p. 1.1.12.
 24. Ibid., p. 1.1.11.
 25. For a complete discussion of these problems, see Ibid., pp.
-    1.1.18-1.1.22.
+    1\.1.18-1.1.22.
 26. IBM, Design and Operation Assessment, p. 1.1.24.
 27. Ibid., p. 1.1.3.
 28. For the complete story, see Frederick P. Brooks, The Mythical
@@ -74,7 +74,7 @@
 56. IBM, Skylab Reactivation Mission, p. 3.16.
 57. Ibid., pp. 3.17-3.18.
 58. IBM, Design and Operation Assessment, pp. 1.2.38-1.2.39,
-    1.2.51-1.2.52.
+    1\.2.51-1.2.52.
 59. Ibid., pp. 1.2.1-1.2.3,1.2.6.
 60. Ibid., p. 1.2.67; IBM, Skylab Reactivation Mission, p. 3.25.
 61. Copeland Interview.

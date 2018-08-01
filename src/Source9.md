@@ -17,12 +17,12 @@
     Interview with Ken Office; Woodling et al., Apollo Experience Report, p.
     48; Intervie with Ken Mansfield, Johnson Space Center, June 1, 1983.
 9. Interview with Ray Palikowsky, Singer, Johnson Space Center, June 10,
-    1983.
+    1983\.
 10. Mansfield interview, June 1,1983.
 11. Erickson interview, June 14, 1983.
 12. A.W. Vogeley, Piloted Spaceflight Simulation at Langley Research
     Center, NASA-TM-X-59598, Langley Research Center, Hampton, VA, 1966, p.
-    11.
+    11\.
 13. Woodling et al., Apollo Experience Report, p. 3.
 14. Woodling et al., Apollo Experience Report, p. 50.
 15. Ivan Ertel, News release, September 21,1966, Johnson Space Center.
@@ -37,7 +37,7 @@
     Division, "Simulation of Spacecraft Guidance Computer in the CM and LEM
     Mission Simulators," April 5, 1966, files of James Raney.
 23. Raney, Use of a Simulated AGC In the Apollo Trainers, February 24,
-    1966.
+    1966\.
 24. Raney interview, May 31, 1983; Raney, ISCMC, Johnson Space Center,
     Houston, TX, April 1, 1969, Johnson Space enter History Office, pp.
     5,11, 13, 14; Raney, Use of a Simulated AGC In the Apollo Trainers,
@@ -63,7 +63,7 @@
 39. J. Boehm and H.H. Hosenthien, "Flight Simulation of Rockets and
     Spacecraft," in From Peenemunde to Outer Space, eds. E. Stuhlinger, et
     al., Marshall Space Flight Center, Huntsville, AL, March 23, 1962, p.
-    437.
+    437\.
 40. See James E. Tomayko, "Helmut Hoelzer's Fully Electronic Analog
     Computer, Ann. Hist. Comput., 7(3)227-240 (July, 1985).
 41. W.K. Polstroff and F.L. Vinz, "General-Purpose Simulation At
@@ -92,11 +92,11 @@
     Jet Propulsion Laboratory in his Appendix I, pp. 383-400, including an
     effective selected bibliography.
 52. Interview with Robert Nathan, Jet Propulsion Laboratory, May 30,
-    1984.
+    1984\.
 53. J. A. Dunne et al., "Digital Processing of the Mariner 6 and 7
     Pictures," J. Geophys. Res., 395(1976).
 54. Interview with Albert Zobrist, Jet Propulsion Laboratory, May 23,
-    1984.
+    1984\.
 55. W.B. Green and D.A. O'Handley, "Recent Developments in Digital Image
     Processing at the Image Processing Laboratory at the Jet Propulsion
     Laboratory, Proc. IEEE,60(7)822 (July 1972).

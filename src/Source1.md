@@ -15,9 +15,9 @@
     pp. 356,358.
 6. Grimwood and Hacker, [On The Shoulders of
     Titans](http://www.hq.nasa.gov/office/pao/History/SP-4203/cover.htm), p.
-    370.
+    370\.
 7. McDonnell Corporation, Gemini Familiarization Manual, pp. 8.10-8.11,
-    8.48-8.49.
+    8\.48-8.49.
 8. J. M. Grimwood, B. C. Hacker, and P. J. Vorzimmer, Project Gemini;
     Technology and Operations, G.P.O., Washington, D.C., 1969, p. 40.
 9. Grimwood, Hacker, and Vorzimmer, Technology and Operations, p. 110;
@@ -32,7 +32,7 @@
 15. P. W. Malik and G. A. Souris, Project Gemini: A Technical Summary,
     NASA CR-1106 Washington, D.C., 1968, p. 117.
 16. McDonnell Corporation, Gemini Familiarization Manual, pp. 8.75,
-    8.80; Lenz, in Babb, Dunn, Lenz, and Sweeney interview.
+    8\.80; Lenz, in Babb, Dunn, Lenz, and Sweeney interview.
 17. Lenz, in Babb, Dunn, Lenz, and Sweeney interview.
 18. Homer W. Hutchison interview, Owego, NY, by Ivan Ertel, April 25,
     1968; transcript in Johnson Space Center History Office.
@@ -48,10 +48,10 @@
     1968; transcript at Johnson Space Center History Office.
 26. Grimwood and Hacker, [On the Shoulders of
     Titans](http://www.hq.nasa.gov/office/pao/History/SP-4203/cover.htm), p.
-    252.
+    252\.
 27. Grimwood and Hacker, [On the Shoulders of
     Titans](http://www.hq.nasa.gov/office/pao/History/SP-4203/cover.htm), p.
-    254.
+    254\.
 28. McDonnell Corporation, Gemini Familiarization Manual, pp. 8.82-8.89.
 29. See the October 1983 issue of the Annals of the History of Computing
     (Vol. 5, \[4\]) for several articles on SAGE.
@@ -60,7 +60,7 @@
 31. Lenz, in Babb, Dunn, Lenz, and Sweeney interview.
 32. James Joachim interview, April 25, 1968; transcript in Johnson Space
     Center History Office; Malik and Souris, Gemini Technical Summary, p.
-    251.
+    251\.
 33. Grimwood, Hacker, and Vorzimmer, Technology and Operations, p. 102;
     Malik and Souris, Gemini Technical Summary, p. 251.
 34. Malik and Souris, Gemini Technical Summary, p. 254.
@@ -77,7 +77,7 @@
 38. Malik and Souris, Gemini Technical Summary, p. 118.
 39. Dodge interview; Malik and Souris, Gemini Technical Summary, p. 118;
     McDonnell Corporation, Gemini Familiarization Manual, pp. 8.44,
-    8.51-8.52, 8.121,8.123.
+    8\.51-8.52, 8.121,8.123.
 40. Malik and Souris, Gemini Technical Summary, p. 137; McDonnell
     Corporation, Gemini Familiarization Manual, pp. 8.46,8.48.
 41. Gene Cernan interview, telephone from Houston, November 7, 1983.

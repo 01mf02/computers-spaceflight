@@ -19,7 +19,7 @@
 10. N.H. Herman and U.S. Lingon, "Mariner 4 Timing and Sequencing."
     Astronaut. Aeronaut., 40 (October 1965).
 11. Interview with Edward Greenberg, Jet Propulsion Laboratory, May 30,
-    1984.
+    1984\.
 12. Greenberg interview.
 13. J.R. Scull, "Mariner Mars 1969 Navigation, Guidance, and Control,"
     Jet Propulsion Lab, Pasadena, CA, 1970; A.J. Aukstikalnis, "Spacecraft
@@ -71,16 +71,16 @@
 39. Avizienis et al., "Automatic Maintenance of Aerospace Computers,"
     pp. 10-11.
 40. Avizienis et al., "Automatic Maintenance of Aerospace Computers," p.
-    10.
+    10\.
 41. A. Avizienis, "Design Methods for Fault-Tolerant Navigation
     Computers," Tech Rep. no. 32-1409, Jet Propulsion Laboratory, Pasadena,
     CA, October 15, 1969, p. 4.
 42. Avizienis et al, "Automatic Maintenance of Aerospace Computers," p.
-    9.
+    9\.
 43. A. Avizienis, An Experimental Self-Repairing Computer,
     NASA-TR-32-1356, Jet Propulsion Laboratory, Pasadena, CA, 1968, p. E30.
 44. Avizienis et al, "Automatic Maintenance of Aerospace. Computers," p.
-    10.
+    10\.
 45. Avizienis, An Experimental Self-Repairing Computer, p. E31.
 46. Avizienis, An Experimental Self-Repairing Computer. p. E32.
 47. A. Avizienis, "The STAR Computer: A Self-Testing-and-Repairing
@@ -95,15 +95,15 @@
     An Investigationof the Theory and Practice of Fault-Tolerant Computer
     Design," IEEE Trans. Comput., C (1971), p. 1316.
 51. Avizienis et al, "Automatic Maintenance of Aerospace Computers," p.
-    2.
+    2\.
 52. Avizienis, An Experimental Self-Reparing Computer, p. E33.
 53. Avizienis et al., "Automatic Maintenance of Aerospace Computers," p.
-    6.
+    6\.
 54. Avizienis et al., "The STAR (Self-Testing and Repairing) Computer:
     An Investigation of the Theory and Practice of Fault-Tolerant Computer
     Design," p. 1314.
 55. Avizienis et al., "Automatic Maintenance of Aerospace Computers," p.
-    7.
+    7\.
 56. Avizienis, "The STAR Computer: A Self-Testing-and-Repairing Computer
     for Spacecraft Guidance, Control, and Automatic Maintenance," p. 17.8.
 57. Avizienis, "Design Methods for Fault-Tolerant Navigation Computers,"
@@ -123,7 +123,7 @@
 64. Avizienis, "The STAR Computer: A Self-Testing-and-Repairing Computer
     for Spacecraft Guidance, Control, and Automatic Maintenance," p. 17.8.
 65. Interview with William Stewart, Goddard Spaceflight Center, July 10,
-    1984.
+    1984\.
 66. J. Rhea, "Space Electronics: Electronics Research Center is Focal
     Point of Future Efforts," Aerospace Tech., 54 (November 20, 1967).
 67. Greenberg interview.

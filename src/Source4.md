@@ -2,7 +2,7 @@
 
 1. Interview with Arnold Aldrich, Johnson Space Center, June 13, 1983.
 2. Interview with Lynn Killingbeck, IBM, Johnson Space Center, June 7,
-    1983.
+    1983\.
 3. For a full discussion of the evolution of Shuttle design concepts,
     see the first two chapters of the forthcoming Space Shuttle Chronology.
 4. NASA, Space Vehicle Design Criteria: Spaceborne Digital Computer
@@ -126,7 +126,7 @@
 74. Poupard, "Redundant Computer," p. 23.
 75. NASA, Shuttle Operations Manual, pp. 4.28-4.29.
 76. NASA, Overview Workbook, p. 6; NASA, Shuttle Operations Manual, p.
-    4.22.
+    4\.22.
 77. Garman interview, June 1, 1983; Killingbeck interview.
 78. Mann interview, June 8, 1983.
 79. Interview with Kyle Rone, IBM, Johnson Space Center, June 3, 1983.
@@ -230,7 +230,7 @@
 149. Mann interview, June 8, 983.
 150. Parten interview, June 16, 1983.
 151. See NASA, OFTIS-19 Program Notes and Waivers, Houston, November
-    1983.
+    1983\.
 152. Macina interview.
 153. Mann interview, June 8, 1983.
 154. Gifford and Spector, "Case Study," p. 893.
@@ -243,7 +243,7 @@
 160. Hughes interview.
 161. Interview with Vance Brand, Johnson Space Center, June 2, 1983.
 162. Interview with Henry Hartsfield, Johnson Space Center, June 2,
-    1983. 41
+    1983\. 41
 163. Young interview; Brand interview; Interview with Terry Hart,
     Johnson Space Center, June 10, 1983.
 164. Hart interview.

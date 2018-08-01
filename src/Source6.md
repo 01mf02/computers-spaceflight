@@ -7,7 +7,7 @@
     Spacecraft System Concept," December 8, 1972. From the files of E.
     Greenberg.
 3. Interview with Edward H. Kopf, Jet Propulsion Laboratory, May 18,
-    1984.
+    1984\.
 4. E. C. Litty and R.D. Rasmussen, "A Voyager Attitude Control
     Perspective on Fault Tolerant Systems," AIAA Paper 81-1812, 1981.
 5. F. T. Surber to H.M. Schurmeier, "Clarification of Spacecraft Memory
@@ -40,7 +40,7 @@
 18. Otamura interview.
 19. Interview with Ted Kopf Jet Propulsion Laboratory, May 18, 1984.
 20. Interview with William Charlen, Jet Propulsion Laboratory, May 18,
-    1984.
+    1984\.
 21. Kopf interview, May 18, 1984.
 22. E.H. Kopf and L.S. Smith, "The Development and Demonstration of
     Hybrid Programmable Attitude Control Electronics with Adaptable
@@ -70,14 +70,14 @@
 38. Kopf interview, January 31, 1985.
 39. Kopf interview, May 18, 1984.
 40. Interview with John Wooddell, Jet Propulsion Laboratory, May 21,
-    1984.
+    1984\.
 41. B.D. Martin, "Data Systems for 12-Year Missions," Astronaut.
     Aeronaut., September 1970, p. 58.
 42. Interview with Don Johnson, Jet Propulsion laboratory, May 16 1984;
     Undated at the time, Wooddell thinks he wrote the "Design of a CMOS
     Process for Use in the Flight Data Subsystem of a Deep Space Probe" in
     1974, which makes sense as the development process lasted from 1972 to
-    1974.
+    1974\.
 43. J. Wooddell, "Design of a CMOS Processor," pp. 2-3, files of J.
     Wooddell.
 44. J. Morecroft to K. Frewing, "FDS Programming," January 14,
@@ -90,7 +90,7 @@
 50. Rice interview.
 51. Wooddell, "Design of a CMOS Processor," p. 9-11.
 52. Interview with John Morecroft, Jet Propulsion Laboratory, 29 May,
-    1984.
+    1984\.
 53. D. Johnson interview.
 54. Wooddell to multiple addressees, "FDS Processor Changes Allowing
     Better Utilization of the Added Memory," June 6, 1975, files of R.J.
@@ -143,11 +143,11 @@
 86. Larman, Functional Requirement Galileo Orbiter Data System
     Intercommunication Requirements, p.34.
 87. Telephone Interview with Bill Tindal, Washington, D.C., August 10,
-    1984.
+    1984\.
 88. D. A. Rennels, B. Riss-Vestergaard, and V.C. Tyree, "The Unified
     Data System: A Distributed Processing Network for Control and Data
     Handling on a Spacecraft," NAECON \`76 Record, New York: IEEE, 1976, p.
-    283.
+    283\.
 89. Greenberg interview; Rennels et al Unified Data System," p. 283.
 90. D.A. Rennels, "Reconfigurable Modular Computer Networks for
     Spacecraft On-board Processing," Computer, July 1978, p.57.
