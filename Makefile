@@ -23,7 +23,7 @@ history.nasa.gov:
 
 images: history.nasa.gov
 	@mkdir -p $@
-	cp $</*.jpg $@/
+	ln -sfr $</*.jpg $@/
 
 i/filenames: history.nasa.gov
 	@mkdir -p `dirname $@`
