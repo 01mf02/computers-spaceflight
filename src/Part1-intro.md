@@ -1,6 +1,4 @@
-### Part One: Manned Spacecraft Computers
-
-#### Introduction
+### Introduction
 
 \[**7**\] In the first 25 years of its existence, NASA conducted five
 manned spaceflight programs: Mercury, Gemini, Apollo, Skylab, and

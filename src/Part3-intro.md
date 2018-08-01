@@ -1,6 +1,4 @@
-### Part III: Ground-Based Computers For Spaceflight Operations
-
-#### Introduction
+### Introduction
 
 \[**205**\] NASA's ground computer systems are characterized by large
 size, by the implementation of real-time programming, and by the use of

@@ -1,6 +1,4 @@
-### Part Two: Computers On Board Unmanned Spacecraft
-
-#### Introduction
+### Introduction
 
 \[**135**\] Unmanned spacecraft computers differ from manned spacecraft
 computers in that they are designed to work much longer and use much
