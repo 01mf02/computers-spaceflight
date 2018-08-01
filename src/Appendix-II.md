@@ -83,6 +83,6 @@ MA, 1978.
 
 ![Figure II-1](images/p395.jpg)
 
-![Figure II-I (continued)](images/p396.jpg)
+![Figure II-I (Continued)](images/p396.jpg)
 
 ![Figure II-2](images/p397.jpg)

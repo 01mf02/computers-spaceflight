@@ -2,7 +2,7 @@
 
 \[**404**\]
 
-Figure IV-1
+![Figure IV-1](images/p404.jpg)
 
 This segment of a Mariner programmable sequencer flight program is given
 as an example of the sort of flexibility gained by adding a memory to

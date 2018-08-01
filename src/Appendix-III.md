@@ -47,6 +47,6 @@ Canaveral, FL, June 3, 1983.
 Monitor Subsystem: GOAL On-Board Interface Language, KSC-LPS-OP-033-4,
 release S33, Cape Canaveral, FL, April 27, 1983.
 
-Figure III-1
+![Figure III-1](images/p400.jpg)
 
-![Figure III-1- continued](images/p400.jpg)
+![Figure III-1 (Continued)](images/p401.jpg)
