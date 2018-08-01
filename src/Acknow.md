@@ -51,7 +51,7 @@ Frank Penovich of Kennedy was especially helpful in obtaining a tour of
 the Shuttle facilities.
 
 After the termination of the actual contract, I spent a year and a half
-at the Software Engineering Institute (SKI) located at CarnegieMellon
+at the Software Engineering Institute (SKI) located at Carnegie Mellon
 University. The SKI was kind enough to permit use of their equipment to
 assist in preparing the final drafts of the manuscript. My assistants
 Katherine Harvey and Suzanne Woolf did yeoman work editing and

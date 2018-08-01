@@ -62,10 +62,10 @@ this history but not crucial to following the flow of events is set
 apart in boxes. I have retained the technical material in an attempt to
 fulfill the second objective of the NASA internal history program:
 
-Thoughtful study of NASA history can help agency managers accomplish the
-missions assigned to the agency. Understanding NASA's past aids in
-understanding its present situation and illuminates possible future
-directions.
+> Thoughtful study of NASA history can help agency managers accomplish the
+> missions assigned to the agency. Understanding NASA's past aids in
+> understanding its present situation and illuminates possible future
+> directions.
 
 Hopefully, my choice of the level of the material does not interfere
 with the first objective, which is the wide "dissemination of
@@ -87,6 +87,6 @@ times I had to credit the development to the institution. Hopefully
 those who are not mentioned but should have been can take pride that
 their collective achievements are now part of history.
 
-    James E. Tomayko
-    Pittsburgh, Pennsylvania
-    April, 1987
+| James E. Tomayko
+| Pittsburgh, Pennsylvania
+| April, 1987

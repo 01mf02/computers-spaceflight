@@ -1,4 +1,6 @@
-\[**377-392**\] **Appendix I: Glossary Of Computer Terms**
+### Appendix I: Glossary Of Computer Terms
+
+\[**377-392**\]
 
 *Accumulator* ---The register in the central processing unit of a
 computer used to store the current results of calculations.

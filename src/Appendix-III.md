@@ -1,4 +1,6 @@
-\[**399-401**\] **Appendix III: GOAL, A Language for Launch Processing**
+### Appendix III: GOAL, A Language for Launch Processing
+
+\[**399-401**\]
 
 GOAL is a high-level language that uses the terminology of test
 engineers to write tests and procedures to certify that a Shuttle

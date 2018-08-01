@@ -1,5 +1,6 @@
-\[**393-397**\] **Appendix II: HAL/S, A Real-Time Language for
-Spaceflight**
+### Appendix II: HAL/S, A Real-Time Language for Spaceflight
+
+\[**393-397**\]
 
 HAL/S is a high-level programming language commissioned by NASA in the
 late 1960s to meet the real-time programming needs of the Agency. At the

@@ -1,4 +1,6 @@
-\[**404**\] **Appendix IV - Mariner Mars 1969 Flight Program**
+### Appendix IV: Mariner Mars 1969 Flight Program
+
+\[**404**\]
 
 Figure IV-1
 
