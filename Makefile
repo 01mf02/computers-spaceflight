@@ -152,7 +152,7 @@ i/figorder/%.html: i/figalts/%.html
 
 i/figures/%.html: i/figorder/%.html
 	@mkdir -p `dirname $@`
-	perl -0777p -e 's|<center>.*<img src=\"(.*?)\" alt=\"(.*?)\s*\" .*?/>.*\n<.*?>(.*?)</.*?>|<figure><img src=\"\1\" alt=\"\2\"><figcaption>\3</figcaption></figure>|g' $< > $@
+	perl -0777p -e 's|<center>.*<img src=\"(.*?)\" alt=\"(.*?)\s*\" .*?/>.*\n<.*?>(.*?)</.*?>|<figure><img src=\"\1\" alt=\"\3\"></figure>|g' $< > $@
 
 i/largefigs/%.html: i/figures/%.html
 	@mkdir -p `dirname $@`
@@ -176,11 +176,7 @@ i/nolinkinref/%.html: i/h4/%.html
 	@mkdir -p `dirname $@`
 	sed 's|\[<a[^>]*></a>|\[|g' $< > $@
 
-i/mergefigpages/%.html: i/nolinkinref/%.html
-	@mkdir -p `dirname $@`
-	perl -0777p -e 's|<center>.<b>([0-9]+)</b>.</center>\n<figure>(.*?)<figcaption>(.*?)</figcaption></figure>|<figure>\2<figcaption>[<b>\1</b>] \3</figcaption></figure>|g' $< > $@
-
-i/prefiximages/%.html: i/mergefigpages/%.html
+i/prefiximages/%.html: i/nolinkinref/%.html
 	@mkdir -p `dirname $@`
 	sed "s|p\(.*\).jpg|images/p\\1.jpg|g" $< > $@
 
@@ -212,6 +208,11 @@ i/markfoot/%.md: i/markdown/%.md
 	sed -e 's|\*\*^\[\([^]]*\)\](#[^)]*)^\*\*|[^\1]|g' \
 	    -e 's|^\[\](){#\(.*\)}\*\*[^*]*\*\*|[^\1]:|g' $< > $@
 
+i/markfigpage/%.md: i/markfoot/%.md
+	@mkdir -p `dirname $@`
+	perl -0777p -e 's|\\\[\*\*([0-9]+)\*\*\\\]\s+!\[(.*)|![\\[**\1**\\] \2|g' $< > $@
+
+
 
 PARTS := 1 2 3
 PART1 := 1 2 3 4
@@ -220,10 +221,13 @@ PART3 := 7 8 9
 makechap = heads/Ch$(1) $(sort $(call hngnames,Ch$(1)*))
 makepart = heads/Part$(part) Part$(part)-intro \
 	   $(foreach ch,$(PART$(part)),$(call makechap,$(ch)))
-SOURCES = $(sort $(call hngnames,Source[0-9]))
+SOURCES = heads/Sources $(sort $(call hngnames,Source[0-9]))
 BOOK = $(PROLOGUE) $(foreach part,$(PARTS),$(call makepart,$(part))) \
-       Epilogue $(SOURCES) $(POSTSRCS)
-BOOK_MD = $(BOOK:%=i/markfoot/%.md)
+       heads/Reset Epilogue $(SOURCES) heads/Reset $(POSTSRCS)
+BOOK_MD = $(BOOK:%=i/markfigpage/%.md)
+
+book.pdf: $(BOOK_MD)
+	pandoc -V documentclass:book -H header.tex --toc meta.md $(BOOK_MD) -o $@
 
 book.%: $(BOOK_MD)
 	pandoc -V documentclass:article -s --toc meta.md $(BOOK_MD) -o $@
