@@ -224,7 +224,7 @@ makepart = heads/Part$(part) Part$(part)-intro \
 SOURCES = heads/Sources $(sort $(call hngnames,Source[0-9]))
 BOOK = $(PROLOGUE) $(foreach part,$(PARTS),$(call makepart,$(part))) \
        heads/Reset Epilogue $(SOURCES) heads/Reset $(POSTSRCS)
-BOOK_MD = $(BOOK:%=i/markfigpage/%.md)
+BOOK_MD = $(BOOK:%=src/%.md)
 
 book.pdf: $(BOOK_MD)
 	pandoc -V documentclass:book -H header.tex --toc meta.md $(BOOK_MD) -o $@
