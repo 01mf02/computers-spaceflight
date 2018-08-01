@@ -1,6 +1,4 @@
-### Bibliographic Note and [Interview List](Biblio.html#interview)
-
-**Bibliographic Note:**
+### Bibliographic Note
 
 The detailed references to sources given with each numbered note in the
 text serve as the primary record of the evidence used in writing this
@@ -314,7 +312,8 @@ these informants, or they directed me to them. The monograph Digital
 Processing of Remotely Sensed Images, by Johannes G. Moik (NASA SP-431),
 is a good reference for NASA's work in this field.
 
-[^interview]:
+
+### Interview List
 
 Note: Unless identified otherwise, all persons on this list were NASA
 employees at the time they were interviewed. Locations are also
@@ -364,8 +363,7 @@ COPELAND, JOHN, IBM, Marshall Space Center, June 23, 1983.
 
 COX, KENNETH, Johnson Space Center, June 14, 1983.
 
-DEESE, SAMUEL, Jet Propulsion Laboratory, telephone interview, January
-31, 1985.
+DEESE, SAMUEL, Jet Propulsion Laboratory, telephone interview, January 31, 1985.
 
 DEETS, DWAIN, Dryden Flight Research Center, May 25, 1984.
 
@@ -413,11 +411,9 @@ JORDAN, FRANK, Jet Propulsion Laboratory, May 31, 1984.
 
 KILLINGBECK, LYNN, IBM, Houston, June 7, 1983.
 
-KOHL, WAYNE, Jet Propulsion Laboratory, telephone interview, January 31,
-1985.
+KOHL, WAYNE, Jet Propulsion Laboratory, telephone interview, January 31, 1985.
 
-KOPF, EDWARD H., Jet Propulsion Laboratory, May 18, 1984., telephone
-interview, January 31, 1985.
+KOPF, EDWARD H., Jet Propulsion Laboratory, May 18, 1984, telephone interview, January 31, 1985.
 
 LANIER, RONALD, Johnson Space Center, June 16, 1983.
 
@@ -443,8 +439,7 @@ MANN, STANLEY, Johnson Space Center, June 6 and 8, 1983.
 
 MANSFIELD, KENNETH, Johnson Space Center, June 1, 1983.
 
-MATTOX, RUSSELL, Marshall Space Center, June 23, 1983, telephone
-interview, November 16, 1984.
+MATTOX, RUSSELL, Marshall Space Center, June 23, 1983, telephone interview, November 16, 1984.
 
 MAZUR, RAYMOND, Goddard Spaceflight Center, June 28, 1984.
 
@@ -516,8 +511,7 @@ SULLIVAN, WILLIAM, Johnson Space Center, June 14, 1983.
 
 SWEARINGEN, CHARLES, Huntsville, AL, June 21, 1983.
 
-TINDALL HOWARD W., telephone interview from Washington, D.C., August 10,
-1984.
+TINDALL HOWARD W., telephone interview from Washington, D.C., August 10, 1984.
 
 VICK, H.G., Marshall Space Center, June 21, 1983.
 
@@ -531,8 +525,7 @@ WOODDELL, JOHN, Jet Propulsion Laboratory, May 21, 1984.
 
 YARBOROUGH, ROBERT, Kennedy Space Center, July 6, 1983.
 
-YOUNG, JOHN, telephone interview from Johnson Spaceflight Center, March
-6, 1984.
+YOUNG, JOHN, telephone interview from Johnson Spaceflight Center, March 6, 1984.
 
 ZIPSE, JOHN, Jet Propulsion Laboratory, 22 May 1984.
 
