@@ -1,28 +1,18 @@
 ### Source Notes: Chapter Three
 
-1. Bill Chubb interview, Marshall Space Center, Huntsville, AL, June 22,
-    1983\.
-2. Steve Bales interview, Johnson Space Center, Houston, TX, May 31,
-    1983\.
-3. IBM, Skylab Reactivation Mission, IBM Federal Systems Division,
-    Huntsville, AL, September 12, 1979, p. 1.2.
-4. See Charles D. Benson and W. David Compton, [Living and Working in
-    Space: A History of Skylab](http://history.nasa.gov/SP-4208/sp4208.htm),
-    NASA SP-4208, Washington, D.C., 1983.
-5. IBM, Design and Operation Assessment of Skylab ATMDC/WCIU Flight
-    Hardware and Software, IBM Federal Systems Division Electronics System
-    Center, Huntsville, AL, May 9, 1974, p. 1.1.3.
-6. IBM, Skylab Reactivation Mission, p. 1.1.
-7. IBM, Design and Operation Assessment, p. 1.1.1.
-8. James McMillion interview, Marshall Space Center, Huntsville, AL,
-    June 22, 1983.
-9. Charles Swearingen interview, Huntsville, AL, June 21, 1983.
+1.  Bill Chubb interview, Marshall Space Center, Huntsville, AL, June 22, 1983.
+2.  Steve Bales interview, Johnson Space Center, Houston, TX, May 31, 1983.
+3.  IBM, Skylab Reactivation Mission, IBM Federal Systems Division, Huntsville, AL, September 12, 1979, p. 1.2.
+4.  See Charles D. Benson and W. David Compton, [Living and Working in Space: A History of Skylab](http://history.nasa.gov/SP-4208/sp4208.htm), NASA SP-4208, Washington, D.C., 1983.
+5.  IBM, Design and Operation Assessment of Skylab ATMDC/WCIU Flight Hardware and Software, IBM Federal Systems Division Electronics System Center, Huntsville, AL, May 9, 1974, p. 1.1.3.
+6.  IBM, Skylab Reactivation Mission, p. 1.1.
+7.  IBM, Design and Operation Assessment, p. 1.1.1.
+8.  James McMillion interview, Marshall Space Center, Huntsville, AL, June 22, 1983.
+9.  Charles Swearingen interview, Huntsville, AL, June 21, 1983.
 10. IBM, Design and Operation Assessment, p. 1.1.14.
-11. Martin Marietta Corporation, Skylab Data Handbook, Marshall Space
-    Center, Huntsville, AL, n.d,, p. 4.13.
+11. Martin Marietta Corporation, Skylab Data Handbook, Marshall Space Center, Huntsville, AL, n.d,, p. 4.13.
 12. IBM, Design and Operation Assessment, p. 1.1.3.
-13. John Copeland interview, IBM at Marshall Space Center, June 23,
-    1983\.
+13. John Copeland interview, IBM at Marshall Space Center, June 23, 1983.
 14. IBM, Design and Operation Assessment, p. 1.1.22.
 15. Ibid.,p. 1.1.1.
 16. Copeland interview.
@@ -34,16 +24,11 @@
 22. Ibid., pp. 1.1.7,1.1.15,1.1.18.
 23. Ibid., p. 1.1.12.
 24. Ibid., p. 1.1.11.
-25. For a complete discussion of these problems, see Ibid., pp.
-    1\.1.18-1.1.22.
+25. For a complete discussion of these problems, see Ibid., pp. 1.1.18-1.1.22.
 26. IBM, Design and Operation Assessment, p. 1.1.24.
 27. Ibid., p. 1.1.3.
-28. For the complete story, see Frederick P. Brooks, The Mythical
-    Man-Month, Addison-Wesley, Reading, MA, 1975, Harlan D. Mills, Software
-    Productivity, Little, Brown, and Co., Boston, MA, 1983.
-29. Madeline S. Johnson, MIT's Role in Project Apollo: The Software
-    Effort, Charles Stark Draper Laboratory, Cambridge, MA, 1971, vol., 5,
-    p. 18.
+28. For the complete story, see Frederick P. Brooks, The Mythical Man-Month, Addison-Wesley, Reading, MA, 1975, Harlan D. Mills, Software Productivity, Little, Brown, and Co., Boston, MA, 1983.
+29. Madeline S. Johnson, MIT's Role in Project Apollo: The Software Effort, Charles Stark Draper Laboratory, Cambridge, MA, 1971, vol., 5, p. 18.
 30. Copeland interview.
 31. IBM, Design and Operation Assessment, p. 1.2.8.
 32. Ibid., p. 1.2.9.
@@ -59,8 +44,7 @@
 42. Ibid., p. 1.2.36.
 43. Ibid., p. 1.2.47.
 44. Ibid., p. 1.2.3-l.2.37.
-45. IBM, NASA Skylab A: Apollo Telescope Mount Digital Computer Program
-    Definition Document, Electronic Systems Center, 1972, p. I.5.1.
+45. IBM, NASA Skylab A: Apollo Telescope Mount Digital Computer Program Definition Document, Electronic Systems Center, 1972, p. I.5.1.
 46. IBM, Design and Operation Assessment, p. 1.2.48.
 47. Ibid., p. 1.2.31.
 48. Ibid., p. 1.2.64.
@@ -73,8 +57,7 @@
 55. IBM, NASA Skylab A, p. I.7.3.
 56. IBM, Skylab Reactivation Mission, p. 3.16.
 57. Ibid., pp. 3.17-3.18.
-58. IBM, Design and Operation Assessment, pp. 1.2.38-1.2.39,
-    1\.2.51-1.2.52.
+58. IBM, Design and Operation Assessment, pp. 1.2.38-1.2.39, 1.2.51-1.2.52.
 59. Ibid., pp. 1.2.1-1.2.3,1.2.6.
 60. Ibid., p. 1.2.67; IBM, Skylab Reactivation Mission, p. 3.25.
 61. Copeland Interview.
