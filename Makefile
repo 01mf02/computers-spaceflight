@@ -8,7 +8,6 @@ hngfiles = $(wildcard $(patsubst %,i/filenames/%.html,$(1)))
 hngnames = $(patsubst i/filenames/%.html,%,$(call hngfiles,$(1)))
 
 all: $(patsubst %,i/footnotes/%.html,$(call hngnames,$(WILDFILES)))
-#all: $(patsubst %,i/markdown/%.md,$(FILES))
 
 history.nasa.gov:
 	wget \
@@ -195,8 +194,11 @@ i/fixreffmt/%.html: i/prefiximages/%.html
 i/footnotes/%.html: i/fixreffmt/%.html
 	@mkdir -p `dirname $@`
 	sed -e 's|<b><sup><a href="[^#]*#\([^\"]*\)\">\**</a></sup></b>|<b><sup><a href="#\1">\1</a></sup></b>|g' \
-	     -e 's|<b><a name=\"\([^\"]*\)\"></a>\**</b>|<b><a name="\1">\1</a></b>|g' $< > $@
-
+	     -e 's|<b><a name=\"\([^\"]*\)\"></a>\**</b>|<a id="\1"></a><b>\1</b>|g' \
+	     -e 's|<a name=\"\([^\"]*\)[^>]*\"></a><b><sup>\**</sup></b>|<a id="\1"></a><b>\1</b>|g' \
+	     -e 's|<a name=\"\([^\"]*\)\"></a><b>\**</b>|<a id="\1"></a><b>\1</b>|g' \
+	     -e 's|<a name=\"\([^\"]*\)\"></a>\**|<a id="\1"></a><b>\1</b>|g' \
+	     $< > $@
 
 i/markdown/%.md: i/footnotes/%.html
 	@mkdir -p `dirname $@`
@@ -204,6 +206,12 @@ i/markdown/%.md: i/footnotes/%.html
 i/markdown/heads/%.md: heads/%.md
 	@mkdir -p `dirname $@`
 	cp $< $@
+
+i/markfoot/%.md: i/markdown/%.md
+	@mkdir -p `dirname $@`
+	sed -e 's|\*\*^\[\([^]]*\)\](#[^)]*)^\*\*|[^\1]|g' \
+	    -e 's|^\[\](){#\(.*\)}\*\*[^*]*\*\*|[^\1]:|g' $< > $@
+
 
 PARTS := 1 2 3
 PART1 := 1 2 3 4
@@ -215,7 +223,7 @@ makepart = heads/Part$(part) Part$(part)-intro \
 SOURCES = $(sort $(call hngnames,Source[0-9]))
 BOOK = $(PROLOGUE) $(foreach part,$(PARTS),$(call makepart,$(part))) \
        Epilogue $(SOURCES) $(POSTSRCS)
-BOOK_MD = $(BOOK:%=i/markdown/%.md)
+BOOK_MD = $(BOOK:%=i/markfoot/%.md)
 
 book.%: $(BOOK_MD)
 	pandoc -V documentclass:article -s --toc meta.md $(BOOK_MD) -o $@
