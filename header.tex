@@ -5,3 +5,10 @@
 
 \usepackage{tcolorbox}
 \newenvironment{inbox}{\begin{tcolorbox}}{\end{tcolorbox}}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE]{\footnotesize \bfseries \thepage\ \MakeUppercase{Computers in Spaceflight: The NASA Experience}}
+\fancyhead[RO]{\footnotesize \bfseries \MakeUppercase{\rightmark}\ \thepage}
+\renewcommand{\headrulewidth}{0pt}
