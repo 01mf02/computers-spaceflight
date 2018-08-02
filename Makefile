@@ -227,7 +227,7 @@ BOOK = $(PROLOGUE) $(foreach part,$(PARTS),$(call makepart,$(part))) \
 BOOK_MD = $(BOOK:%=src/%.md)
 
 book.pdf: $(BOOK_MD)
-	pandoc -V documentclass:book -H header.tex --toc meta.md $(BOOK_MD) -o $@
+	pandoc -V documentclass:book -H header.tex --toc -F pandoc_latex_environment.py meta.md $(BOOK_MD) -o $@
 
 book.%: $(BOOK_MD)
 	pandoc -V documentclass:article -s --toc meta.md $(BOOK_MD) -o $@
