@@ -1,4 +1,4 @@
-### Epilogue: Themes in NASA's Computing Experience
+## Epilogue: Themes in NASA's Computing Experience {-}
 
 \[**299**\] Running throughout the individual histories of American
 space flight computer systems are five themes that encapsulate NASA's
