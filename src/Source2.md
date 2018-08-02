@@ -121,16 +121,16 @@
 119. Tindall, "Program Development Newsletter."
 120. See Madeline S. Johnson, MIT's Role in Project Apollo: The Software Effort, Charles Stark Draper Laboratory, Cambridge, MA, 1971, vol. 2, pp. 21-22 for a chart showing the "manloading" at MIT during the Apollo effort.
 121. Mann interview.
-122. Tindall to multiple addresses, "Apollo Spacecraft Computer Programs-Or, A Bucket of Worms," memo, June 13, 1966, JSC History Office.
+122. Tindall to multiple addresses, "Apollo Spacecraft Computer Programs---Or, A Bucket of Worms," memo, June 13, 1966, JSC History Office.
 123. Tindall to multiple addresses, "Another Apollo Spacecraft Computer Status Report," memo, July 1, 1966, JSC History Office.
 124. Tindall to multiple addresses, "Spacecraft Computer Programming Development Improvements to be Utilized by MIT," memo, 67-FM-1-T:85, October 18, 1967.
 125. Tindall, "Program Development Newsletter."
 126. Tindall to multiple addresses, untitled memos, May 13, 1966 and May 14, 1966, JSC History Office.
-127. Tindall, "Apollo Spacecraft Computer ProgramsóOr, A Bucket of Worms."
-128. Tindall, "Apollo Spacecraft Computer ProgramsóOr, A Bucket of Worms."
+127. Tindall, "Apollo Spacecraft Computer Programs---Or, A Bucket of Worms."
+128. Tindall, "Apollo Spacecraft Computer Programs---Or, A Bucket of Worms."
 129. Tindall to multiple addresses, "AS-204 Computer Program Status," memo, July 21,1966, JSC History Office.
 130. Tindall to multiple addresses, "Spacecraft Computer Program Status for AS-501," memo, September 20, 1966, JSC History Office.
-131. Tindall, "Apollo Spacecraft Computer ProgramsóOr, A Bucket of Worms."
+131. Tindall, "Apollo Spacecraft Computer Programs---Or, A Bucket of Worms."
 132. Ray Morth, "De-orbit Burn Program," (Flight 204), memo no: 35, January 23, 1967, MIT, Cambridge, MA, JSC History Office.
 133. Hughes interview; Tindall concurs. He wrote in a memo for distribution on April 28,1967 that "it is almost certain that deficiencies will exist in the program we will ultimately fly." He then proceeded to improve the software during the delay in the Apollo program caused by the fire.
 134. Tindall to multiple addresses, "In Which is Described the Apollo Spacecraft Computer Programs Currently Being Developed," memo, March 24, 1967, JSC History Office.

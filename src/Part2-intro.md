@@ -69,4 +69,4 @@ The result was a series of innovative and flexible on-board computers.
 [^2-intro.a]:See Raymond G. Hartenstein, Ann C.
 Merwarth, William N. Stewart, Thomas D. Taylor, and Charles E.
 Trevathan, "Development and Application of NASA's First Standard
-Spacecraft Computer," Commun. ACM, 27(9), 902-913 (September 1984.)
+Spacecraft Computer," *Commun. ACM*, 27(9), 902--913 (September 1984.)

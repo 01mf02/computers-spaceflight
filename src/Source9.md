@@ -15,7 +15,7 @@
 13. Woodling et al., Apollo Experience Report, p. 3.
 14. Woodling et al., Apollo Experience Report, p. 50.
 15. Ivan Ertel, News release, September 21,1966, Johnson Space Center.
-16. J.L. Raney, Feasibility StudyóUse of a Simulated AGC in the Apollo Trainers, February 24,1966, p. 4, Johnson Space Center History Office.
+16. J.L. Raney, Feasibility Study---Use of a Simulated AGC in the Apollo Trainers, February 24,1966, p. 4, Johnson Space Center History Office.
 17. Woodling et al., Apollo Experience Report, p. 49.
 18. Interview with James Raney, Johnson Space Center, May 31, 1983.
 19. Woodling et al., Apollo Experience Report. p. 10.
