@@ -3,4 +3,5 @@ documentclass: extbook
 fontsize: 14pt
 geometry: top=1in, bottom=1in, inner=2cm, outer=4cm
 indent: true
+subparagraph: true
 ---

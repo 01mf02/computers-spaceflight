@@ -12,3 +12,13 @@
 \fancyhead[LE]{\footnotesize \bfseries \thepage\ \MakeUppercase{Computers in Spaceflight: The NASA Experience}}
 \fancyhead[RO]{\footnotesize \bfseries \MakeUppercase{\rightmark}\ \thepage}
 \renewcommand{\headrulewidth}{0pt}
+% omit "chapter n: " prefix in front of chapter name in header
+% https://tex.stackexchange.com/questions/228362/get-sectionmark-in-fancyhdr-without-chapter-number/228363#228363
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+
+% requires "subparagraph" in Pandoc template to be enabled
+% https://stackoverflow.com/questions/40439701/cant-knit-to-pdf-with-custom-styles/40442970#40442970
+\usepackage{titlesec}
+\titleformat{\chapter}[display]
+{\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
+[\clearpage]
