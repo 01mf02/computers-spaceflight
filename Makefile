@@ -227,7 +227,7 @@ BOOK = $(PROLOGUE) heads/FigA \
        heads/Reset Epilogue $(SOURCES) heads/Reset $(POSTSRCS)
 BOOK_MD = $(BOOK:%=src/%.md)
 
-book.tex: $(BOOK_MD)
+book.tex: header.tex prologue.tex meta.yaml latex.yaml $(BOOK_MD)
 	pandoc -H header.tex -B prologue.tex --toc -F pandoc_latex_environment.py meta.yaml latex.yaml $(BOOK_MD) -o $@
 
 book.pdf: book.tex
