@@ -3,8 +3,7 @@
 
 \usepackage{bookmark}
 
-\usepackage{tcolorbox}
-\newenvironment{inbox}{\begin{tcolorbox}}{\end{tcolorbox}}
+\newenvironment{inbox}{\hrule}{\hrule}
 
 \usepackage{fancyhdr}
 \pagestyle{fancy}
@@ -23,4 +22,4 @@
 {\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
 [\clearpage]
 
-\newcommand{\newpageon}[1]{\marginpar{#1}\newpage}
+\newcommand{\newpageon}[1]{\marginpar{#1}\pagebreak}
