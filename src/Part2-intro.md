@@ -56,7 +56,9 @@ and the Hubble Space telescope used the computer. Goddard Space Flight
 Center led development of the device over a 10-year period from the late
 1960s to the late 1970s.
 
-![\[**136**\] Figure B: The NASA Standard Spacecraft Computer I in its packaging.
+\newpageon{136}
+
+![Figure B: The NASA Standard Spacecraft Computer I in its packaging.
 (NASA photo)](images/p136.jpg)
 
 In contrast, machines built at JPL have had a longer and more related
