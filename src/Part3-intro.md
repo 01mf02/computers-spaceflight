@@ -1,6 +1,8 @@
+\newpageon{205}
+
 ### Introduction
 
-\[**205**\] NASA's ground computer systems are characterized by large
+NASA's ground computer systems are characterized by large
 size, by the implementation of real-time programming, and by the use of
 may computers connected together. The need for these three attributes
 has caused NASA and its contractors to devise new techniques for

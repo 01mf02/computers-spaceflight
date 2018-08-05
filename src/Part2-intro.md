@@ -1,6 +1,8 @@
+\newpageon{135}
+
 ### Introduction
 
-\[**135**\] Unmanned spacecraft computers differ from manned spacecraft
+Unmanned spacecraft computers differ from manned spacecraft
 computers in that they are designed to work much longer and use much
 less spacecraft resources. A typical manned mission lasts a week or
 less; the exception was Skylab, whose computers operated for 9 months

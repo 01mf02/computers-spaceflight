@@ -1,6 +1,8 @@
+\newpageon{299}
+
 ## Epilogue: Themes in NASA's Computing Experience {-}
 
-\[**299**\] Running throughout the individual histories of American
+Running throughout the individual histories of American
 space flight computer systems are five themes that encapsulate NASA's
 intentions and experiences. Developing and evolving over the last
 quarter century, they promise to dominate NASA's use of computers for
@@ -40,9 +42,11 @@ working on the same calculations, made necessary the development of
 redundancy management techniques. Thus, again, NASA pioneered an area
 which was as yet poorly developed.
 
+\newpageon{300}
+
 #### Proven Equipment
 
-\[**300**\] Even though NASA led the way in the development and use of
+Even though NASA led the way in the development and use of
 some aspects of modern computing, one area in which innovation was
 purposely avoided was hardware. Acting in the belief that existing
 equipment is inherently more reliable and less risky than new,
