@@ -86,7 +86,7 @@ Station project. Obviously, NASA is committed to improvement and high
 quality in this field, as more and more functions on space flights are
 taken over by computers.
 
-\[**301**\] In all, NASA has very effectively adapted its operations to
+\newpageon{301} In all, NASA has very effectively adapted its operations to
 the Computer Age. Computers, frankly, make useful spaceflight possible.
 Even though a spacecraft could theoretically be placed in orbit using a
 World War II tilt-table missile guidance system and mechanical clocks,
