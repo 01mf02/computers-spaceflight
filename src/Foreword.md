@@ -1,6 +1,8 @@
+\newpageon{vii}
+
 ### Foreword
 
-\[**vii**\] The Editors have taken the unusual step of devoting an
+The Editors have taken the unusual step of devoting an
 entire Supplement volume of the Encyclopedia to a single topic:
 "Computers in Spaceflight: the NASA Experience." The reason will
 hopefully become apparent upon reading this volume. NASA's use of

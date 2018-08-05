@@ -1,6 +1,8 @@
+\newpageon{xi}
+
 ### Acknowledgements
 
-\[**xi**\] No author can fool himself into thinking that his work is
+No author can fool himself into thinking that his work is
 entirely of his own making. In a project of this size and length, many
 people, both within NASA and outside it, contributed mightily or it
 would never have been either finished or of its present quality.
@@ -44,7 +46,7 @@ John Young.
 
 At each site individuals opened doors for me and found office space
 where none was available. I want to especially thank Wanda Thrower of
-Johnson Space Center, Bob Sheppard of Marshall \[**xii**\] Flight
+Johnson Space Center, Bob Sheppard of Marshall \newpageon{xii} Flight
 Center, Harriet Brown and Mike Konjevich of Kennedy Space Center, and
 Andrew Danni of the Jet Propulsion Laboratory for their hospitality.
 Frank Penovich of Kennedy was especially helpful in obtaining a tour of

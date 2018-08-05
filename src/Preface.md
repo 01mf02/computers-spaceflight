@@ -1,6 +1,8 @@
+\newpageon{ix}
+
 ### Preface
 
-\[**ix**\] NASA's use of computers in spaceflight operations is a very
+NASA's use of computers in spaceflight operations is a very
 important and large topic. Any attempt to tell the complete story of the
 people, calculating machines, and computer programs involved in
 spaceflight would fill many volumes, if, in fact, it could be told at
@@ -44,7 +46,7 @@ this organization actually reflects reality. Nearly all the systems
 described here were developed independently, by different teams, at
 different sites. Continuity occured only when a series of systems were
 built under the auspices of a single center, such as the Gemini, Apollo,
-and Shuttle systems through the Johnson Space \[**x**\] Flight Center.
+and Shuttle systems through the Johnson Space \newpageon{x} Flight Center.
 In the rare instances that some technological exchange occurred, it is
 highlighted. Despite the independent development of the various systems,
 some common problems and experiences provided threads with which to bind
