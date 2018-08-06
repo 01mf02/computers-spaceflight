@@ -1,6 +1,6 @@
 .SECONDARY:
 
-PROLOGUE = Foreword Preface Acknow Computing
+PROLOGUE = Foreword Preface Acknow heads/Main Computing
 POSTSRCS = Biblio Appendix-I Appendix-II Appendix-III Appendix-IV
 WILDFILES = $(PROLOGUE) Part?-intro Ch?-? Epilogue Source? $(POSTSRCS)
 
@@ -224,7 +224,7 @@ makepart = heads/Part$(part) Part$(part)-intro \
 	   $(foreach ch,$(PART$(part)),$(call makechap,$(ch)))
 SOURCES = heads/Sources $(sort $(call hngnames,Source[0-9]))
 BOOK = $(PROLOGUE) heads/FigA \
-       heads/Main $(foreach part,$(PARTS),$(call makepart,$(part))) \
+       $(foreach part,$(PARTS),$(call makepart,$(part))) \
        heads/Reset Epilogue $(SOURCES) heads/Reset $(POSTSRCS)
 BOOK_MD = $(BOOK:%=src/%.md)
 
