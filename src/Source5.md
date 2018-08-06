@@ -29,7 +29,7 @@
 27. J.A. Gleason, Mariner Mars 1971 Space Flight Operations Plan: Mission Operation Specifications and Constraints, Jet Propulsion Laboratory, Pasadena, CA, April 6, 1971, Vol. 4, pp. 2, 112-113.
 28. Hooke, "Mariner 10 Spacecraft Computer," p. 275.
 29. C.E. Kohlhase, H.W. Norris, H.M. Shurmeier, and J.A. Stallkamp, "The 1969 Mariner Mission to Mars," Astronaut. Aeronaut., 84 (July, 1969).
-30. Jet Propulsion Laboratory, Development and Testing of the Central Computer and Sequencer for the Mariner Mars 1971 Spacecraft ,Tech. Rep. no. 33-501, October 15, 1971, pp. 2-3.
+30. Jet Propulsion Laboratory, Development and Testing of the Central Computer and Sequencer for the Mariner Mars 1971 Spacecraft, Tech. Rep. no. 33-501, October 15, 1971, pp. 2-3.
 31. Hooke, "Mariner 10 Spacecraft Computer," p. 273.
 32. Hooke, "Mariner 10 Spacecraft Computer," pp. 279-81.
 33. Hooke, "Mariner 10 Spacecraft Computer," p. 285.
