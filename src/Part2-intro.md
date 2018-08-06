@@ -36,7 +36,7 @@ California Institute of Technology, a long time NASA contractor, has
 dominated computer construction for deep space flight, designing and
 building an evolving series of computers for the Agency's interplanetary
 probes. These two lines of development represent the most fruitful of
-NASA's forays into computer \newpageon{136} research. Computers on manned
+NASA's forays into computer \pagebreakon{136} research. Computers on manned
 spacecraft were generally developed from other computers (Apollo from
 Polaris; 4Pi from the System 360). Computers in ground operations were
 adapted from commercial machines. However, computers on unmanned
@@ -57,7 +57,7 @@ Center led development of the device over a 10-year period from the late
 
 In contrast, machines built at JPL have had a longer and more related
 history. Although some reuse has occurred, the, various space probes
-built at JPL carried mission-unique computers of increasing \newpageon{137}
+built at JPL carried mission-unique computers of increasing \pagebreakon{137}
 power and complexity, paralleling the development of computers for
 manned spacecraft. Unlike the manned programs, however, JPL sponsored
 fundamental research into spacecraft computing, which was then
