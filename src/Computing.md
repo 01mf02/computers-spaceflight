@@ -1,6 +1,6 @@
 \newpageon{2}
 
-### Computing and Spaceflight: An Introduction
+## Computing and Spaceflight: An Introduction {-}
 
 When the National Aeronautics and Space Administration came
 into existence in 1958, the stereotypical computer was the "UNIVAC," a

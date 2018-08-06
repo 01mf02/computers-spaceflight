@@ -1,7 +1,3 @@
-\newpageon{135}
-
-### Introduction
-
 Unmanned spacecraft computers differ from manned spacecraft
 computers in that they are designed to work much longer and use much
 less spacecraft resources. A typical manned mission lasts a week or
@@ -55,8 +51,6 @@ it has done to good effect. For example, both the Solar Maximum Mission
 and the Hubble Space telescope used the computer. Goddard Space Flight
 Center led development of the device over a 10-year period from the late
 1960s to the late 1970s.
-
-\newpageon{136}
 
 ![Figure B: The NASA Standard Spacecraft Computer I in its packaging.
 (NASA photo)](images/p136.jpg)
