@@ -202,7 +202,7 @@ in the memory. Since it is often necessary to have more memory than the
 number of locations a single word can represent, indirect addressing
 schemes must be devised. The 4 bit computer can indirectly represent a
 memory location by using two words; one word can indicate which bank of
-l6 words to access, the second word can indicate which of the 16
+16 words to access, the second word can indicate which of the 16
 addresses in that bank to read.
 
 Direct Memory Access

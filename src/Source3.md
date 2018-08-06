@@ -40,10 +40,10 @@
 38. Ibid., p. 1.2.54.
 39. Ibid., p. 1.2.29.
 40. Ibid., p. 1.2.30.
-41. Ibid., pp. l.2.36-1.2.37.
+41. Ibid., pp. 1.2.36-1.2.37.
 42. Ibid., p. 1.2.36.
 43. Ibid., p. 1.2.47.
-44. Ibid., p. 1.2.3-l.2.37.
+44. Ibid., p. 1.2.3-1.2.37.
 45. IBM, NASA Skylab A: Apollo Telescope Mount Digital Computer Program Definition Document, Electronic Systems Center, 1972, p. I.5.1.
 46. IBM, Design and Operation Assessment, p. 1.2.48.
 47. Ibid., p. 1.2.31.
@@ -67,7 +67,7 @@
 65. Ibid., p. 1.7.2.
 66. IBM, Skylab Reactivation Mission, pp. 1.3,2.1-2.2,2.4.
 67. Ibid., pp. 1.2,5.3.
-68. Ibid., pp. 3.l9-3.20.
+68. Ibid., pp. 3.19-3.20.
 69. Ibid., pp. 3.3-3.4,3,9.
 70. Ibid., pp. 3.10-ll, 3.20, 3.22.
 71. Ibid., pp. 3.30, 3.33.

@@ -19,7 +19,7 @@
 17. Woodling et al., Apollo Experience Report, p. 49.
 18. Interview with James Raney, Johnson Space Center, May 31, 1983.
 19. Woodling et al., Apollo Experience Report. p. 10.
-20. Mansfield interview, June l, 1983.
+20. Mansfield interview, June 1, 1983.
 21. Raney interview, May 31, 1983.
 22. Warren J. North, memorandum to chief, Computational Analysis Division, "Simulation of Spacecraft Guidance Computer in the CM and LEM Mission Simulators," April 5, 1966, files of James Raney.
 23. Raney, Use of a Simulated AGC In the Apollo Trainers, February 24, 1966.
@@ -45,9 +45,9 @@
 43. Interview with Frank Vinz, Marshall Space Center, June 21, 1983.
 44. P.W. Hampton and H.G. Vick, Space Shuttle Main Engine Hardware Simulation, Marshall Spaceflight Center, Huntsville, AL, no date, pp. 1,2,7,8.
 45. T.V. Chambers, "Shuttle Avionics Integration Laboratory," AIAA Paper, 1977, p. 212.
-46. Mansfield interview, June l, 1983.
+46. Mansfield interview, June 1, 1983.
 47. Chambers, "Shuttle Avionics Integration Laboratory," 1977, pp. 219-220.
-48. J.T.B. Mayer, "The Space Shuttle Vehicle Checkout Involving Flight Avionics Software," AIAA Paper no. 1981-2141, pp. 174-l75.
+48. J.T.B. Mayer, "The Space Shuttle Vehicle Checkout Involving Flight Avionics Software," AIAA Paper no. 1981-2141, pp. 174-175.
 49. Chambers, "Shuttle Avionics Integration Laboratory," 1977, p. 216.
 50. Mansfield interview, June 1, 1983.
 51. Kenneth R. Castleman, Digital Image Processing, Prentice-Hall, Englewood Cliffs, NJ, 1979, p. 389. Castleman's book contains an excellent short history of the development of image processing at the Jet Propulsion Laboratory in his Appendix I, pp. 383-400, including an effective selected bibliography.

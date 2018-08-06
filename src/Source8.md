@@ -68,11 +68,11 @@
 66. M. Forthoffer, "A Comparison of Time-Shared vs. Batch Development of Space Software," Proceedings of 12th International Symposium on Space Technology and Science, Tokyo, Japan, 16-20 May 1977, National Aerospace Laboratory, Chofu, Tokyo, 1977, pp. 1056,1057,1059.
 67. James, "Evolution of Real-Time Computer Systems," p. 419.
 68. Pollen interview, June 13, 1983; Interview with Gene Campbell, IBM, Houston, TX, June 13, 1983; Interview with Fred Riddle, IBM, Johnson Space Center, June 13, 1983.
-69. Frank Hughes (JSC) and Kristan Lattu (JPL), A Comparative Study of the Evolution of Command and Control Activities for Manned and Unmanned Spaceflight Operations, AIAA-83-294, given by Lattu at International Aerospace Foundation Meeting, Budapest, October 10-l5, 1983, pp. 2-3.
+69. Frank Hughes (JSC) and Kristan Lattu (JPL), A Comparative Study of the Evolution of Command and Control Activities for Manned and Unmanned Spaceflight Operations, AIAA-83-294, given by Lattu at International Aerospace Foundation Meeting, Budapest, October 10-15, 1983, pp. 2-3.
 70. Interview with Ann Merwarth, Goddard Spaceflight Center, July 3, 1984.
 71. Interview with Carl Johnson, Jet Propulsion Laboratory, May 23, 1984.
 72. See Corliss, Histories of the Space Tracking and Data Acquisition Network; N.A. Renzetti, ed., A History of the Deep Space Network From Inception to January 1, 1969, Jet Propulsion Laboratory TR 32-1533, September 1, 1971.
-73. C.R. Gates and M.S. Johnson, "A Study of On-Site Computing and Data Processing for a World Tracking Network," Jet Propulsion Laboratory Publication no. 154, Jet Propulsion Laboratory, Pasadena, CA, February 9, 195 9, p.1l.
+73. C.R. Gates and M.S. Johnson, "A Study of On-Site Computing and Data Processing for a World Tracking Network," Jet Propulsion Laboratory Publication no. 154, Jet Propulsion Laboratory, Pasadena, CA, February 9, 195 9, p. 11.
 74. C. Johnson interview, May 23, 1984.
 75. W.D. Menrick; E. Rechtin; R. Stevens; and W.K. Victor, "Deep Space Communications," IRE Trans. Military Electron., 160 (April/July 1960).
 76. Interview with George Gianopolis, Jet Propulsion Laboratory, June 4, 1984.

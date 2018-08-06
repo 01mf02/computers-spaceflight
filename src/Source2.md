@@ -59,7 +59,7 @@
 57. Drake and Savage, AGC4, p. 1.6.
 58. John R. Garman interview, Johnson Space Center, Houston, TX, May 25, 1983 and June 1,1983.
 59. Raytheon Corporation, Final Report, p. 4.5.
-60. A. Laats and J. E. Miller, Aollo Guidance and Control System Flight Experience, NASA CR- 101823, MIT, Cambridge, MA, 1969, p. l.
+60. A. Laats and J. E. Miller, Aollo Guidance and Control System Flight Experience, NASA CR- 101823, MIT, Cambridge, MA, 1969, p. 1.
 61. Raytheon Corporation, Final Report, p. 2.56.
 62. Ragan interview.
 63. R. C. Seamans, Jr., to multiple addresses, "Raytheon Negotiations on Apollo Guidance Computer," memo, November 9, 1962, JSC History Office.
@@ -84,7 +84,7 @@
 82. RASPO to MIT memo, JSC History Office Archives, October 22,1963.
 83. Hopkins, "Guidance Computer Design," p. 48.
 84. Mann interview.
-85. C. A. Muntz, Users Guide to the Block 2 AGC/LGC Interpreter, NASACR-1268l5, MIT, Cambridge, MA, April 1965.
+85. C. A. Muntz, Users Guide to the Block 2 AGC/LGC Interpreter, NASACR-126815, MIT, Cambridge, MA, April 1965.
 86. Hopkins, "Electronic Navigator," p. 117.
 87. Battin and Martin, "Computer Controlled Steering," p. 403.
 88. Hopkins, "Electronic Navigator," p. 117.
@@ -100,7 +100,7 @@
 98. Howard "Bill Tidall to multiple addresses, "Spacecraft Computer Program Names," memo, May 23, 1967, JSC History Office.
 99. Ertel, Apollo Spacecraft, p. 238.
 100. Copps, Recovery From Transient Failures, p. 4; Hall, Reliability History, pp. 7-8.
-101. Copps, Recovery From Transient Failures, pp. l, 5; Cherry, "Exegesis of the 1201 and 1202 Alarms."
+101. Copps, Recovery From Transient Failures, pp. 1, 5; Cherry, "Exegesis of the 1201 and 1202 Alarms."
 102. Copps, Recovery From Transient Failures, p. 3.
 103. Hopkins, "Design Concepts," p. 2.11.
 104. Hopkins, "Design Concepts," p. 2.11.
@@ -166,7 +166,7 @@
 164. Kurten, Abort Guidance System, p. 5.
 165. Kurten, Abort Guidance System, p. 6.
 166. B. Miller, "Abort Backup," p. 4.
-167. J.J. Seidman, "LEM/AGS Marco 4418", mimeograph, September 1966, JSC History Office, p. l.
+167. J.J. Seidman, "LEM/AGS Marco 4418", mimeograph, September 1966, JSC History Office, p. 1.
 168. Kurten, Abort Guidance System, p. 7; B. Miller, "Abort Backup," p. 4; TRW, news release, July 1, 1969.
 169. B. Miller, "Abort Backup," p. 3.
 170. Jonas Beraru, "The TRW Systems MARCO 4418-A Man Rated Computer," (TRW, 1979), p. 26.
@@ -176,7 +176,7 @@
 174. Tindall, notes in review of the draft of this chapter, August, 1985.
 175. Kurten, Abort Guidance System, p. 38.
 176. Kurten, Abort Guidance System, pp. 22-23.
-177. TRW, news release, July l, 1969.
+177. TRW, news release, July 1, 1969.
 178. Young interview.
 179. Young interview.
 180. Apollo Guidance Software Task Force, Final Report, pp. 5-6; R. R. Regelbrugge, Apollo Experience Report: Apollo Spacecraft and Ground Software Development for Rendezvous, MSC-02676, 1970, p 5. S. A. Sjoberg, "Objectives for Software Controlled Aerospace Systems in the Next Decade," memo for distribution, Manned Spacecraft Center, July 14, 1970, p. 2.

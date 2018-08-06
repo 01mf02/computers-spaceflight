@@ -89,11 +89,11 @@
 87. Parten interview, June 16, 1983.
 88. Parten interview, June 16, 1983.
 89. Interview with Anthony Macina, IBM, Houston, TX, June 7,1983.
-90. There are widely disparate estimates of how many people actually contributed to the shuttle software. Macina of IBM says 275, but l think he means coders. John Aaron of NASA, head of Spacecraft Software in 1983, estimates 900 contractors and 90 civil servants. Parten said 2,000 but that may include everyone in all contracting organizations working on hardware and software. The figure of 1,000 seems reasonable for software developers, as it is consistent with similar projects.
+90. There are widely disparate estimates of how many people actually contributed to the shuttle software. Macina of IBM says 275, but I think he means coders. John Aaron of NASA, head of Spacecraft Software in 1983, estimates 900 contractors and 90 civil servants. Parten said 2,000 but that may include everyone in all contracting organizations working on hardware and software. The figure of 1,000 seems reasonable for software developers, as it is consistent with similar projects.
 91. Frederick Brooks, *The Mythical Man--Month*, Addison-Wesley, Reading, MA, 1975.
 92. Parten interview, June 16, 1983.
 93. Aaron interview; Sullivan interview.
-94. NASA, *Development Specification*, Volume Five, Book l, pp. 3.72--3.75.
+94. NASA, *Development Specification*, Volume Five, Book 1, pp. 3.72--3.75.
 95. Sullivan interview.
 96. Parten interview, June 3, 1985.
 97. M. Hamilton and S. Zeldin, *Higher Order Software Requirements*, MIT Draper Laboratory, Cambridge, MA, August 1973.

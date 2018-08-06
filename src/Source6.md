@@ -1,6 +1,6 @@
 ### Source Notes: Chapter Six
 
-1.  See General Electric Missile and Space Division, "Final Report, Voyager Spacecraft, "Volume l, Volume IV, Book 3, Volume VII, Book 3; October 16,
+1.  See General Electric Missile and Space Division, "Final Report, Voyager Spacecraft, "Volume 1, Volume IV, Book 3, Volume VII, Book 3; October 16,
 2.  E. Greenberg to T. Gottlieb, "A Proposal for the Development of a New Spacecraft System Concept," December 8, 1972. From the files of E. Greenberg.
 3.  Interview with Edward H. Kopf, Jet Propulsion Laboratory, May 18, 1984.
 4.  E. C. Litty and R.D. Rasmussen, "A Voyager Attitude Control Perspective on Fault Tolerant Systems," AIAA Paper 81-1812, 1981.
@@ -114,7 +114,7 @@
 112. Zipse interview.
 113. Kohl, Galileo Orbiter Flight Equipment, p. 48.
 114. D. Johnson interview.
-115. O.W. Adams, Project Galileo.- Software Requirements Document Command and Data Subsystem, 625-340-006000, Rev. A, Jet Propulsion Laboratory, Pasadena, CA, Jan 16, 1984, pp. 144-l45.
+115. O.W. Adams, Project Galileo.- Software Requirements Document Command and Data Subsystem, 625-340-006000, Rev. A, Jet Propulsion Laboratory, Pasadena, CA, Jan 16, 1984, pp. 144-145.
 116. Adams, Project Galileo: Software Requirements, p.215.
 117. C. Chadwick to W.J. O'Neil, "Some Thoughts on the HAL/S System," June 19,1978, Galileo file, Jet Propulsion Laboratory Record Center.
 118. Adams, Project Galileo: Software Requirements, p. 12.
