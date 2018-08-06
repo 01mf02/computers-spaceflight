@@ -6,16 +6,16 @@
 \usepackage{caption}
 \captionsetup[figure]{labelformat=empty}
 
+% to reset chapters to root (startatroot)
 \usepackage{bookmark}
 
-\usepackage{fancyhdr}
-\pagestyle{fancy}
-\fancyhf{}
-\fancyhead[LE]{\footnotesize \bfseries \thepage\ \MakeUppercase{Computers in Spaceflight: The NASA Experience}}
-\fancyhead[RO]{\footnotesize \bfseries \MakeUppercase{\leftmark}\ \thepage}
-\renewcommand{\headrulewidth}{0pt}
-% omit "chapter n: " prefix in front of chapter name in header
-% https://tex.stackexchange.com/questions/228362/get-sectionmark-in-fancyhdr-without-chapter-number/228363#228363
+\usepackage{scrlayer-scrpage}
+\clearpairofpagestyles
+\lehead{\thepage\ \MakeUppercase{Computers in Spaceflight: The NASA Experience}}
+\rohead{\MakeUppercase{\leftmark}\ \thepage}
+\setkomafont{pagehead}{\normalfont \footnotesize \bfseries}
+%% omit "chapter n: " prefix in front of chapter name in header
+%% https://tex.stackexchange.com/questions/228362/get-sectionmark-in-fancyhdr-without-chapter-number/228363#228363
 \renewcommand{\chaptermark}[1]{\markboth{#1}{}}
 
 % space between paragraphs
@@ -37,4 +37,4 @@
 \renewcommand{\partheadendvskip}{\vspace{1.5em}\hrule\vspace{1.5em}}
 \renewcommand{\partheademptypage}{}
 
-\addtokomafont{section}{\large\MakeUppercase}
+\setkomafont{section}{\large\MakeUppercase}
