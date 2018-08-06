@@ -1,1 +1,1 @@
-## The Gemini Digital Computer: First Machine in Orbit
+## The Gemini Computer: First Machine in Space

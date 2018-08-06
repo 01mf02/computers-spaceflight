@@ -1,7 +1,3 @@
-\newpageon{7}
-
-### Introduction
-
 In the first 25 years of its existence, NASA conducted five
 manned spaceflight programs: Mercury, Gemini, Apollo, Skylab, and
 Shuttle. The latter four programs produced spacecraft that had on-board

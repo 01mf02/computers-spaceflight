@@ -1,1 +1,1 @@
-## Computers On Board The Apollo Spacecraft
+## Computers on Board the Apollo Spacecraft
