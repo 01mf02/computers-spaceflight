@@ -1,5 +1,6 @@
-\newenvironment{inbox}{\hrule}{\hrule}
-\newcommand{\newpageon}[1]{\marginpar{#1}\pagebreak}
+\usepackage{mdframed}
+\newenvironment{inbox}{\begin{mdframed}}{\end{mdframed}}
+\newcommand{\newpageon}[1]{\pagebreak}
 
 \usepackage{caption}
 \captionsetup[figure]{labelformat=empty}
