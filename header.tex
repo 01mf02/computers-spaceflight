@@ -15,11 +15,19 @@
 % https://tex.stackexchange.com/questions/228362/get-sectionmark-in-fancyhdr-without-chapter-number/228363#228363
 \renewcommand{\chaptermark}[1]{\markboth{#1}{}}
 
+% space between paragraphs
+\setlength{\parskip}{0pt}
+% space between lines
+\linespread{0.8}
+
 % requires "subparagraph" in Pandoc template to be enabled
 % https://stackoverflow.com/questions/40439701/cant-knit-to-pdf-with-custom-styles/40442970#40442970
-\usepackage{titlesec}
+\usepackage[explicit]{titlesec}
 \titleformat{\chapter}[display]
 {\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
 [\clearpage]
+
+\titleformat{\section}{\bfseries}{\thesection}{1em}{\MakeUppercase{#1}}
+
 
 \newcommand{\newpageon}[1]{\marginpar{#1}\pagebreak}
