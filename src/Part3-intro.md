@@ -1,7 +1,3 @@
-\newpageon{205}
-
-### Introduction
-
 NASA's ground computer systems are characterized by large
 size, by the implementation of real-time programming, and by the use of
 may computers connected together. The need for these three attributes
@@ -37,7 +33,7 @@ launch processing from the manual era to the fully automated Shuttle
 flight preparation. The chief result from this effort was a large
 integrated network of computers that proved to be highly innovative.
 Chapter 8 presents computer systems in both the manned Mission Control
-Center in Houston and the unmanned control \[206\] centers at the Jet
+Center in Houston and the unmanned control \pagebreakon{206} centers at the Jet
 Propulsion Laboratory (JPL) and Goddard Space Flight Center. In Chapter
 9, the uses of computers in simulations and data reduction are
 discussed.
