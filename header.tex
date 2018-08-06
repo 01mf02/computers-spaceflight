@@ -24,7 +24,7 @@
 % https://stackoverflow.com/questions/40439701/cant-knit-to-pdf-with-custom-styles/40442970#40442970
 \usepackage[explicit]{titlesec}
 \titleformat{\chapter}[display]
-{\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
+{\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge #1}
 [\clearpage]
 
 \titleformat{\section}{\bfseries}{\thesection}{1em}{\MakeUppercase{#1}}
