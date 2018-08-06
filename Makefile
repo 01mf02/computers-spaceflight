@@ -7,7 +7,8 @@ WILDFILES = $(PROLOGUE) Part?-intro Ch?-? Epilogue Source? $(POSTSRCS)
 hngfiles = $(wildcard $(patsubst %,i/filenames/%.html,$(1)))
 hngnames = $(patsubst i/filenames/%.html,%,$(call hngfiles,$(1)))
 
-all: $(patsubst %,i/footnotes/%.html,$(call hngnames,$(WILDFILES)))
+#all: $(patsubst %,i/footnotes/%.html,$(call hngnames,$(WILDFILES)))
+all: book.pdf
 
 history.nasa.gov:
 	wget \
@@ -228,7 +229,7 @@ BOOK = $(PROLOGUE) heads/FigA \
 BOOK_MD = $(BOOK:%=src/%.md)
 
 book.tex: header.tex prologue.tex meta.yaml latex.yaml $(BOOK_MD)
-	pandoc -H header.tex -B prologue.tex --toc -F pandoc_latex_environment.py meta.yaml latex.yaml $(BOOK_MD) -o $@
+	pandoc -H header.tex -B prologue.tex --toc --top-level-division=part -F pandoc_latex_environment.py meta.yaml latex.yaml $(BOOK_MD) -o $@
 
 book.pdf: book.tex
 	latexmk -pdf $<
