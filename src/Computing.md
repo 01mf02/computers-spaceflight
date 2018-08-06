@@ -52,7 +52,7 @@ which is one reason why the three fields are considered in separate
 parts of this volume.
 
 Computers are an integral part of all current spacecraft. Today they are
-used for guidance and navigation functions such as \newpageon{3} rendezvous,
+used for guidance and navigation functions such as \pagebreakon{3} rendezvous,
 re-entry, and mid-course corrections, as well as for system management
 functions, data formatting, and attitude control. However, Mercury, the
 first manned spacecraft, did not carry a computer. Fifteen years of
@@ -99,7 +99,7 @@ asynchronous inputs and outputs and continuous processing, similar to a
 telephone operator who does not know on which line the next call will
 come. For example, computers used for controlling the descending Shuttle
 can hardly process commands to the aerodynamic surfaces in batch mode.
-The spacecraft would go out of control or at least lose \newpageon{4} track
+The spacecraft would go out of control or at least lose \pagebreakon{4} track
 of where it was if data were only utilized in small bunches. The
 requirement for real-time processing leads to other requirements for
 spacecraft computers not normally found on earth-based systems. Software
@@ -147,7 +147,7 @@ confined to software that handled the real-time needs. Preflight
 checkout, mission control, simulations, and image processing all have
 used varying combinations of standard mainframe and minicomputers. So
 NASA's impact on computing driven by ground support requirements was
-largely in the area of operating systems \newpageon{5} and other software
+largely in the area of operating systems \pagebreakon{5} and other software
 and not as much in hardware, whereas many of the on-board computers had
 to be custom built. Some of the software innovations needed on the
 ground have naturally had greater impact on the wider world than those

@@ -1,4 +1,4 @@
-\newpageon{299}
+\pagebreakon{299}
 
 ## Epilogue: Themes in NASA's Computing Experience {-}
 
@@ -42,7 +42,7 @@ working on the same calculations, made necessary the development of
 redundancy management techniques. Thus, again, NASA pioneered an area
 which was as yet poorly developed.
 
-\newpageon{300}
+\pagebreakon{300}
 
 #### Proven Equipment
 
@@ -86,7 +86,7 @@ Station project. Obviously, NASA is committed to improvement and high
 quality in this field, as more and more functions on space flights are
 taken over by computers.
 
-\newpageon{301} In all, NASA has very effectively adapted its operations to
+\pagebreakon{301} In all, NASA has very effectively adapted its operations to
 the Computer Age. Computers, frankly, make useful spaceflight possible.
 Even though a spacecraft could theoretically be placed in orbit using a
 World War II tilt-table missile guidance system and mechanical clocks,
