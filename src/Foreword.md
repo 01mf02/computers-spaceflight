@@ -28,5 +28,8 @@ This report could not be compressed to typical article size without
 destroying its usefulness and interest. We trust that the readers will
 find this work to be as fascinating as did the editors.
 
-| Allen Kent
-| James G. Williams
+\vspace{1em}
+
+\hfill Allen Kent
+
+\hfill James G. Williams

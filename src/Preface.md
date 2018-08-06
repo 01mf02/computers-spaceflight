@@ -89,6 +89,10 @@ times I had to credit the development to the institution. Hopefully
 those who are not mentioned but should have been can take pride that
 their collective achievements are now part of history.
 
-| James E. Tomayko
-| Pittsburgh, Pennsylvania
-| April, 1987
+\vspace{1em}
+
+\hfill James E. Tomayko
+
+\hfill Pittsburgh, Pennsylvania
+
+\hfill April, 1987
