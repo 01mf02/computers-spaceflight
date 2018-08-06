@@ -1,5 +1,6 @@
 ---
-documentclass: extbook
+documentclass: scrbook
+classoption: openany
 fontsize: 14pt
 geometry: top=2cm, bottom=1in, inner=2cm, outer=4cm
 indent: true

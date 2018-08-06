@@ -1,9 +1,10 @@
+\newenvironment{inbox}{\hrule}{\hrule}
+\newcommand{\newpageon}[1]{\marginpar{#1}\pagebreak}
+
 \usepackage{caption}
 \captionsetup[figure]{labelformat=empty}
 
 \usepackage{bookmark}
-
-\newenvironment{inbox}{\hrule}{\hrule}
 
 \usepackage{fancyhdr}
 \pagestyle{fancy}
@@ -20,14 +21,17 @@
 % space between lines
 \linespread{0.8}
 
-% requires "subparagraph" in Pandoc template to be enabled
-% https://stackoverflow.com/questions/40439701/cant-knit-to-pdf-with-custom-styles/40442970#40442970
-\usepackage[explicit]{titlesec}
-\titleformat{\chapter}[display]
-{\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge #1}
-[\clearpage]
+% for Numberstring
+\usepackage{fmtcount}
 
-\titleformat{\section}{\bfseries}{\thesection}{1em}{\MakeUppercase{#1}}
+\renewcommand*{\partformat}{\partname~\Numberstring{part}:}
+\addtokomafont{partnumber}{\normalfont\raggedright\sffamily}
+\addtokomafont{part}{\huge\raggedright}
 
+\RedeclareSectionCommand[
+    beforeskip=8em,
+    innerskip=10pt
+]{part}
+\renewcommand{\partheadendvskip}{\vspace{1.5em}\hrule\vspace{1.5em}}
+\renewcommand{\partheademptypage}{}
 
-\newcommand{\newpageon}[1]{\marginpar{#1}\pagebreak}
