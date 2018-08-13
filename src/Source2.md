@@ -1,13 +1,13 @@
 ### Source Notes: Chapter Two
 
-1.  D. G. Hoag, Apollo Navigation Guidance Computer Systems, Report E-2411 MIT, Cambridge, MA, April 1969, p. 2.
-2.  A. L. Hopkins, "Electronic Navigator Charts Man's Path to the Moon," Electronics, 109 (January 9, 1967); Ralph Ragan interview, MIT, Cambridge, MA, by Ivan Ertel, April 28, 1966, Johnson Space Center transcript.
-3.  Hoag, Apollo Navigation Systems, p. 3.
-4.  Hoag, Apollo Navigation Systems, pp. 3-4
-5.  P. Hersch, "Engineers Reassessing Electronic Hardware in the Light of Some Near Failures on Apollo 12" IEEE Spec., 23 (January 1970).
-6.  B. K. Thomas, Jr., "Apollo 8 Proves Value of Onboard Control," Aviation Week, 43 (January 20, 1969).
+1.  D. G. Hoag, *Apollo Navigation Guidance Computer Systems*, Report E-2411 MIT, Cambridge, MA, April 1969, p. 2.
+2.  A. L. Hopkins, "Electronic Navigator Charts Man's Path to the Moon," *Electronics*, 109 (January 9, 1967); Ralph Ragan interview, MIT, Cambridge, MA, by Ivan Ertel, April 28, 1966, Johnson Space Center transcript.
+3.  Hoag, *Apollo Navigation Systems*, p. 3.
+4.  Hoag, *Apollo Navigation Systems*, pp. 3--4
+5.  P. Hersch, "Engineers Reassessing Electronic Hardware in the Light of Some Near Failures on Apollo 12" *IEEE Spec.*, 23 (January 1970).
+6.  B. K. Thomas, Jr., "Apollo 8 Proves Value of Onboard Control," *Aviation Week*, 43 (January 20, 1969).
 7.  Steve Bales interview, Johnson Space Center, Houston, TX, May 31, 1983; Howard W. Tindall, notes in review of draft chapter, August 1985.
-8.  John R. Garman interview, Johnson Space Center, Houston, TX, May 25,1983 and June 1, 1983.
+8.  John R. Garman interview, Johnson Space Center, Houston, TX, May 25, 1983 and June 1, 1983.
 9.  C. G. Brooks, L. S. Grimwood, and L. S. Swenson, Jr., [Chariots or Apollo: A History of Manned Lunar Spacecraft](http://www.hq.nasa.gov/office/pao/History/SP-4205/cover.html); NASA SP-205 Washington, D.C., 1979, p. 355.
 10. Hopkins, "Electronic Navigator," p. 116.
 11. Brooks, Grimwood, and Swenson, [Chariots for Apollo](http://www.hq.nasa.gov/office/pao/History/SP-4205/cover.html), pp. 38-39
