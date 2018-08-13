@@ -81,14 +81,14 @@
 79. Interview with Kyle Rone, IBM, Johnson Space Center, June 3, 1983.
 80. Killingbeck interview.
 81. Interview with John Aaron, Johnson Space Center, June 17, 1983.
-82. Interview with William Sullivan, Johnson Space Center June 14, 1983.
+82. Interview with William Sullivan, Johnson Space Center, June 14, 1983.
 83. Parten interview, June 3, 1983.
 84. Sullivan interview.
 85. Parten interview, June 3, 1983.
 86. Mann interview, June 8, 1983.
 87. Parten interview, June 16, 1983.
 88. Parten interview, June 16, 1983.
-89. Interview with Anthony Macina, IBM, Houston, TX, June 7,1983.
+89. Interview with Anthony Macina, IBM, Houston, TX, June 7, 1983.
 90. There are widely disparate estimates of how many people actually contributed to the shuttle software. Macina of IBM says 275, but I think he means coders. John Aaron of NASA, head of Spacecraft Software in 1983, estimates 900 contractors and 90 civil servants. Parten said 2,000 but that may include everyone in all contracting organizations working on hardware and software. The figure of 1,000 seems reasonable for software developers, as it is consistent with similar projects.
 91. Frederick Brooks, *The Mythical Man--Month*, Addison-Wesley, Reading, MA, 1975.
 92. Parten interview, June 16, 1983.

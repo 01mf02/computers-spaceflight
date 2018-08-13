@@ -68,6 +68,6 @@
 66. IBM, Skylab Reactivation Mission, pp. 1.3,2.1-2.2,2.4.
 67. Ibid., pp. 1.2,5.3.
 68. Ibid., pp. 3.19-3.20.
-69. Ibid., pp. 3.3-3.4,3,9.
-70. Ibid., pp. 3.10-ll, 3.20, 3.22.
+69. Ibid., pp. 3.3--3.4, 3.9.
+70. Ibid., pp. 3.10--11, 3.20, 3.22.
 71. Ibid., pp. 3.30, 3.33.

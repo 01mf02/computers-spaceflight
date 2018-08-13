@@ -135,14 +135,14 @@
 133. Hughes interview; Tindall concurs. He wrote in a memo for distribution on April 28,1967 that "it is almost certain that deficiencies will exist in the program we will ultimately fly." He then proceeded to improve the software during the delay in the Apollo program caused by the fire.
 134. Tindall to multiple addresses, "In Which is Described the Apollo Spacecraft Computer Programs Currently Being Developed," memo, March 24, 1967, JSC History Office.
 135. Tindall to multiple addresses, "Spacecraft Computer Program Status, memo, October 17,1967, JSC History Office.
-136. Tindall to multiple addresses, "A New Spacecraft Computer Program Development Working Philosophy is Taking Shape," memo, 67-TM-1-39, May 17,19.
+136. Tindall to multiple addresses, "A New Spacecraft Computer Program Development Working Philosophy is Taking Shape," memo, 67-TM-1-39, May 17, 1967.
 137. Ertel, Apollo Spacecraft, p. 250.
-138. Ertel, Apollo Spacecraft, pp. 203 204.
+138. Ertel, Apollo Spacecraft, pp. 203--204.
 139. John P. Mayer to multiple addresses, "Notes on Meeting of the Apollo Guidance Software Task Force in Washington on February 9, 1968," memo no. 68-RM-10, February 13, 1968.
 140. Apollo Guidance Software Task Force, "Final Report," memo, September 23, 1968, JSC History Office, p. 4.
 141. Apollo Guidance Software Task Force, "Final Report," p. 7; Ertel, Apollo Spacecraft, p. 250.
 142. Ertel, Apollo Spacecraft, p. 288.
-143. Mann interview
+143. Mann interview.
 144. W. J. North and C. H. Woodling, "Apollo Crew Procedures, Simulation, and Flight Planning," Astronaut. and Aeronaut. 58 (March 1970).
 145. Howard W. Tindall, in his review of the draft of this chapter, noted that the crew insisted on flexibility and control from the start of the program, so in a way they set the level of computer-related activity for themselves.
 146. Raytheon Corporation, Final Report, p. 2.9.
