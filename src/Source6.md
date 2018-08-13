@@ -136,7 +136,7 @@
 134. Kopf interview.
 135. Kopf interview.
 136. Kopf interview.
-137. Buchman, Galileo.. General Design Document, pp. 1.7,4.1.
+137. Buchman, Galileo: General Design Document, pp. 1.7,4.1.
 138. Kopf, "Gracos," p. 9.
 139. Kopf, "Gracos," p. 25.
 140. Charlan interview; Kopf interview.
