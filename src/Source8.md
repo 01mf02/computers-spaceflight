@@ -20,8 +20,8 @@
 18. Interview with Lynwood Dunseith, Johnson Space Center, June 2, 1983.
 19. Chambers interview, June 28, 1984.
 20. Chambers interview, June 28, 1984.
-21. IBM, Goddard Monitor Programs, Project Mercury, pp. 1.13,1.18.
-22. IBM, Goddard Monitor Programs, Project Mercury, pp. 1.15,1.16,3.1.
+21. IBM, Goddard Monitor Programs, Project Mercury, pp. 1.13, 1.18.
+22. IBM, Goddard Monitor Programs, Project Mercury, pp. 1.15, 1.16, 3.1.
 23. Chambers interview, June 28, 1984.
 24. Stokes interview, June 14, 1983.
 25. Chambers interview, June 28, 1984; P. Herget, The Computation of Orbits, Cincinnati, by the author, 1948.
@@ -33,7 +33,7 @@
 31. T.L. Kraft, WDL Tech. Rep. El 67: Mission Display Study, Philco Corp., Palo Alto, CA, June 15, 1964, p. 2.1.
 32. Philco Corporation, "IMCC Systems and Performance Requirements Specification," p. 4.1.2.
 33. Philco Corporation', "IMCC Systems and Performance Requirements," p. 4.3.5.1.
-34. IBM Corporation, Real-Time Computer Complex for NASA Manned Spacecraft Center, Houston, Texas, IBM Federal Systems Division, Rockville, MD, September 1, 1962, pp. 1.1,1.2,2.5,2.53.
+34. IBM Corporation, Real-Time Computer Complex for NASA Manned Spacecraft Center, Houston, Texas, IBM Federal Systems Division, Rockville, MD, September 1, 1962, pp. 1.1, 1.2, 2.5, 2.53.
 35. IBM Corporation, Project Gemini Final Report-Summary, NASA CR-72180, no date, p. 2.
 36. IBM Corporation, Project Gemini Final Report-Summary, no date, p. 2; IBM Corporation, Real-Time Computer Complex for NASA Manned Spacecraft Center,
 37. IBM Corporation, Project Gemini Final Report-Summary, no date, p, 39.
@@ -47,25 +47,25 @@
 45. James, "Evolution of Real-Time Computer Systems," p. 421.
 46. IBM Corporation, Project Gemini Final Report-Summary, p. 36.
 47. James, "Evolution of Real-Time Computer Systems," p. 422.
-48. Interview with William Sullivan, Johnson Space Center, June 14,1983.
+48. Interview with William Sullivan, Johnson Space Center, June 14, 1983.
 49. IBM Corporation, Real-Time Computer Complex for NASA Manned Spacecraft Center, p. 2.14.
 50. Interview with Dub Pollen, IBM, Johnson Space Center, June 13, 1983.
 51. James, "Evolution of Real-Time Computer Systems," p. 424.
 52. B.C. Hacker and J.M. Grimwood, [On the Shoulders of Titans](http://www.hq.nasa.gov/office/pao/History/SP-4203/cover.htm), NASA SP-4203, 1977, p. 386.
 53. Stokes interview, June 14, 1983.
-54. R.C. Seamans, RTCC Computer Requirement for Project Apollo, memorandum, Washington, D.C., October 7,1965, Johnson Space Center History Office,
+54. R.C. Seamans, RTCC Computer Requirement for Project Apollo, memorandum, Washington, D.C., October 7, 1965, Johnson Space Center History Office,
 55. Pollen interview, June 13, 1983.
 56. Stokes, "Managing the Development of Large Software Systems-Apollo Real-Time Control Center," IEEE Proc., A/3 1-A/3 15, p. 1(1970).
 57. Stokes interview, June 14, 1983.
 58. Dunseith interview, June 9, 1983.
 59. Stokes interview, June 14, 1983.
 60. Stokes, RTCC Computer Supervisorís Report for the AS-205/CSM-101 Mission, memorandum, November 1, 1968, Johnson Space Center History Office.
-61. Stokes, RTCC Computer Supervisor's Report for the Apollo 10 Mission, memorandum, June 27,1969, Johnson Space Center History Office.
+61. Stokes, RTCC Computer Supervisor's Report for the Apollo 10 Mission, memorandum, June 27, 1969, Johnson Space Center History Office.
 62. Stokes interview, June 14, 1983.
 63. James, "Evolution of Real-Time Computer Systems," p. 419.
 64. Stokes interview, June 14, 1983.
 65. James, "Evolution of Real-Time Computer Systems," p. 424.
-66. M. Forthoffer, "A Comparison of Time-Shared vs. Batch Development of Space Software," Proceedings of 12th International Symposium on Space Technology and Science, Tokyo, Japan, 16-20 May 1977, National Aerospace Laboratory, Chofu, Tokyo, 1977, pp. 1056,1057,1059.
+66. M. Forthoffer, "A Comparison of Time-Shared vs. Batch Development of Space Software," Proceedings of 12th International Symposium on Space Technology and Science, Tokyo, Japan, 16-20 May 1977, National Aerospace Laboratory, Chofu, Tokyo, 1977, pp. 1056, 1057, 1059.
 67. James, "Evolution of Real-Time Computer Systems," p. 419.
 68. Pollen interview, June 13, 1983; Interview with Gene Campbell, IBM, Houston, TX, June 13, 1983; Interview with Fred Riddle, IBM, Johnson Space Center, June 13, 1983.
 69. Frank Hughes (JSC) and Kristan Lattu (JPL), A Comparative Study of the Evolution of Command and Control Activities for Manned and Unmanned Spaceflight Operations, AIAA-83-294, given by Lattu at International Aerospace Foundation Meeting, Budapest, October 10-15, 1983, pp. 2-3.
@@ -76,8 +76,8 @@
 74. C. Johnson interview, May 23, 1984.
 75. W.D. Menrick; E. Rechtin; R. Stevens; and W.K. Victor, "Deep Space Communications," IRE Trans. Military Electron., 160 (April/July 1960).
 76. Interview with George Gianopolis, Jet Propulsion Laboratory, June 4, 1984.
-77. NASA, Mariner-Venus 1962: Final Project Report, NASA SP-59, Washington, 1965, pp. 278-279,294.
-78. NASA, Mariner-Venus 1962,1965, p. 294.
+77. NASA, Mariner-Venus 1962: Final Project Report, NASA SP-59, Washington, 1965, pp. 278-279, 294.
+78. NASA, Mariner-Venus 1962, 1965, p. 294.
 79. Eberhardt Rechtin, interviewed by Cargill Hall, 1970?, Hall's files in the JPL Library Vault.
 80. W.H. Pickering to multiple addresses, "Establishment of the Deep Space Network," December 24, 1963, memo. no. 218.
 81. B. Sparks to multiple addresses, "Deep Space network Appointments, January 23, 1964, memo. no. 128; Rechtin interview.
@@ -87,13 +87,13 @@
 85. Interview with Don Royer, Jet Propulsion Laboratory, June 7, 1984.
 86. NASA, Mariner Mars 1964: Final Project Report, pp. 224-225.
 87. Jet Propulsion Laboratory, "Spaceflight Operations Facility Data Processing System," Spec. no. SFOF 372-III-310, Jet Propulsion Laboratory, Pasadena, CA, October 1, 1963, p. 3.
-88. Gianopolis interview, June 4,1984.
+88. Gianopolis interview, June 4, 1984.
 89. NASA, Mariner Mars 1964: Final Project Report, p. 220.
 90. Interview with Frank Jordan, Jet Propulsion Laboratory, May 31, 1984.
 91. NASA, Mariner-Venus 1967: Final Project Report, NASA SP-190, Washington, D.C., 1971, pp. 166, 182.
-92. Jet Propulsion Laboratory, Surveyor Final Project Report, Volume I, Tech. Rep. no. 32-1265, Jet Propulsion Laboratory, Pasadena, CA, July 1,1969, p. 142.
+92. Jet Propulsion Laboratory, Surveyor Final Project Report, Volume I, Tech. Rep. no. 32-1265, Jet Propulsion Laboratory, Pasadena, CA, July 1, 1969, p. 142.
 93. Jet Propulsion Laboratory, Mariner Mars 1969 Final Project Report: Development, Design, and Test, Vol. 1, Tech. Rep. no. 32-1460, Jet Propulsion Laboratory, Pasadena, CA, November 1, 1970, p.556.
-94. Royer interview, June 7,1984; Jet Propulsion Laboratory, Mariner Mars 1971 Project Final Report, Vol. III, Tech. Rep. No. 32-1550, Jet Propulsion Laboratory, Pasadena, CA, July 1,1973, p. 27; Interview with Richard Moulder, Jet Propulsion Laboratory, May 21, 1984.
+94. Royer interview, June 7, 1984; Jet Propulsion Laboratory, Mariner Mars 1971 Project Final Report, Vol. III, Tech. Rep. No. 32-1550, Jet Propulsion Laboratory, Pasadena, CA, July 1, 1973, p. 27; Interview with Richard Moulder, Jet Propulsion Laboratory, May 21, 1984.
 95. Royer interview, June 7, 1984.
 96. Jet Propulsion Laboratory, The Deep Space Network, Space Programs Summary 37-66, Vol. II, Jet Propulsion Laboratory, Pasadena, CA, November 30, 1970, p. 91.
 97. Gianopolis interview, June 4, 1984.
@@ -102,7 +102,7 @@
 100. R. Scott to W.J. Koselka, "History of the MCIF," memorandum no. RS-75- 103, Jet Propulsion Laboratory, August 27, 1975, files of R. Scott.
 101. JPL, Mariner Mars 1971 Final Report, p. .7.
 102. Martin Marietta Corp., Viking Software Data, Rome Air Development Center, TR-77-168, May 1977, pp. 5, 6.
-103. Hughes and Lattu, Evolution of Command and Control Activities, October 10-15, 1983, pp. 5,6.
+103. Hughes and Lattu, Evolution of Command and Control Activities, October 10-15, 1983, pp. 5, 6.
 104. Royer interview, June 7, 1984; Interview with Frank Singleton, Jet Propulsion Laboratory, May 17, 1984.
 105. Carl W. Johnson, letter to the author, September 12, 1985.
 106. Moulder interview, May 21, 1984; Interview with Lloyd Jennings, Jet Propulsion Laboratory, May 15, 1984.

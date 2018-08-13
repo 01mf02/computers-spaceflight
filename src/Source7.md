@@ -1,13 +1,13 @@
 ### Source Notes: Chapter Seven
 
-1.  Interview with Dr. Helmut Hoelzer, Huntsville, AL, June 24,1983.
-2.  Interview with Charles Swearingen, Huntsville, AL, June 21,1983.
+1.  Interview with Dr. Helmut Hoelzer, Huntsville, AL, June 24, 1983.
+2.  Interview with Charles Swearingen, Huntsville, AL, June 21, 1983.
 3.  Interview with Jim Lewis, Marshall Space Center, June 20, 1983; IBM Corporation, "Apollo Study Report," October 1, 1963, p. 6.2.
 4.  Interview with Kyle Rone, IBM, Johnson Space Center June 3, 1983.
 5.  See IBM, "Apollo Study Report," Volume II, for a complete technical description.
 6.  IBM, "Apollo Study Report," p. 3.4.
 7.  IBM, "Apollo Study Report," Vol. II p. 3.5; F.B. Moore and J.B. White, Applications of Redundancy in, the Saturn V Guidance and Control System, NASA-TM-X-73352, Huntsville, AL, Marshall Space Flight Center, November, 1976, p. 10.
-8.  IBM, "Apollo Study Report," Vol. II, pp. 3.2,3.3.
+8.  IBM, "Apollo Study Report," Vol. II, pp. 3.2, 3.3.
 9.  Swearingen interview; R. Alonso and G.C. Randa, "Flight-Computer Hardware Trends," Astronaut. Aeronaut., 33-34 (April 1967).
 10. Lewis interview.
 11. IBM Corporation, Saturn Launch Computer Complex Software System Description, IBM Federal System Division, Huntsville. AL, March 14, 1972, p. 12.
@@ -25,7 +25,7 @@
 23. W.E. Parsons et al., "PACE: Preflight Acceptance Checkout Equipment," Astronaut. Aerospace Eng., 52 (July 1963).
 24. Walton interview.
 25. Dutton and Jafferis, p. 3.40.
-26. A. Lasts and J.E. Miller, Apollo Guidance and Control System Flight Experience, NASA-CR- 101823, MIT, Cambridge, MA, June, 1969, pp. 1,3.
+26. A. Lasts and J.E. Miller, Apollo Guidance and Control System Flight Experience, NASA-CR- 101823, MIT, Cambridge, MA, June, 1969, pp. 1, 3.
 27. Interview with Bruce Miller, Kennedy Space Center, July 5, 1983.
 28. Interview with James E. Deming, Kennedy Space Center, July 6, 1983.
 29. Miller interview.
@@ -37,7 +37,7 @@
 35. Deming interview.
 36. IBM Corporation, Saturn Software Systems, December 8, 1972.
 37. IBM Corporation, Saturn Software Systems, p. 4.16.
-38. IBM Corporation, Saturn Software Systems, pp. 4.18,2.3.
+38. IBM Corporation, Saturn Software Systems, pp. 4.18, 2.3.
 39. James J. Hart "Analysis Apollo Launch Operating Experience" in Space Shuttle Technology Conference, ASA, Kennedy Space Center, TR-1113, May 3, 1971, p.15.
 40. Hart, "Analysis of Apollo Launch Operating Experience," p. 26.
 41. Interview with Pam Biegert, Kennedy Space Center, June 30, 1983.
@@ -49,13 +49,13 @@
 47. A.B. Sloan, "Vandenberg Planning for the Space Transportation System," Astronaut. Aeronaut., 47 (November 1981).
 48. Interview with R.C. Bulkley, IBM, Kennedy Space Center, June 27 and 29, 1983.
 49. W.E. Parsons, "Kennedy Launch Processing System," Technology Today and Tomorrow: Canaveral Council of Technical Societies, Proceedings of the Eighth Space Congress, Cocoa Beach, FL, 19-23 April 1971, 1:11.31-11.40, Canaveral Council of Technical Societies, Cocoa Beach, FL, 1971, p. 11.34.
-50. Space Shuttle Launch Operations Center Study, pp. 2.1,4.2.
+50. Space Shuttle Launch Operations Center Study, pp. 2.1, 4.2.
 51. E.A. Dalke, "Unified Test Equipment: A Concept for the Shuffle Ground Test System," NASA Manned Space Center Proceedings of the Space Shuttle integrated Electronics Conference, vol. 2, pp. 329-354, Johnson Space Center, Houston, TX, p. 330.
 52. Dalke, "Unified Test Equipment," p. 348.
 53. General Electric Co., "Summary Report for the Universal Control and Display Console," NASA CR-1 15350, July 1971.
 54. Interview with Henry Paul, Kennedy Space Center, July 7, 1983.
 55. Interview with Bill Bailey, Kennedy Space Center, June 30, 1983.
-56. C. Covault, "Cape Shuttle Capabilities Broadened," Aviation Week and Space Technol., 40 (October 13,1975).
+56. C. Covault, "Cape Shuttle Capabilities Broadened," Aviation Week and Space Technol., 40 (October 13, 1975).
 57. Bailey interview.
 58. Interview with Frank Byrne, Kennedy Space Center, June 29, 1983; Walton interview.
 59. Henry C. Paul, letter to the author, July 3, 1985.
@@ -84,7 +84,7 @@
 82. Parrish interview.
 83. Walton interview.
 84. Paul interview.
-85. Byrne interview, June 29,1983.
+85. Byrne interview, June 29, 1983.
 86. Cunningham and Welsh, "Launch Processing System," p. 10.
 87. CCMS Hardware Project Requirements, Pamphlet, no date, p. 189.
 88. Byrne, et al., "Launch Processing System," p. 81.
@@ -128,7 +128,7 @@
 126. Shuttle Ground Operations Simulator Users' Reference Manual, Revision 1, KSC-LPS-UM073, February 1983.
 127. Interview with Dr., Carl Delaune, Kennedy Space Center, July 5, 1983.
 128. Delaune interview.
-129. Biegert interview; IBM Corporation, Launch Processing System Checkout Control and Monitor Subsystem Detailed Software Design Specifications Book 1, part 2: Control Logic Language Design, KSC-LPS-IB-070-1, part 2, S33 release, Kennedy Documents Library, Cape Canaveral, FL, May 5,1983, p 13.
+129. Biegert interview; IBM Corporation, Launch Processing System Checkout Control and Monitor Subsystem Detailed Software Design Specifications Book 1, part 2: Control Logic Language Design, KSC-LPS-IB-070-1, part 2, S33 release, Kennedy Documents Library, Cape Canaveral, FL, May 5, 1983, p 13.
 130. Bogan interview; Rerner Prince, a NASA employee, wrote most of the first GOAL compiler interpreter on this machine m such a short time it paid great dividends in gaining recognition of the Kennedy effort to build the Launch Processing System (Paul letter).
 131. Byrne interview, June 29, 1983.
 132. Utsman, "KSC Ground Support Operation and Equipment," p. 76.

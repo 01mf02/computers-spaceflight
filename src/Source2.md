@@ -59,7 +59,7 @@
 57. Drake and Savage, AGC4, p. 1.6.
 58. John R. Garman interview, Johnson Space Center, Houston, TX, May 25, 1983 and June 1,1983.
 59. Raytheon Corporation, Final Report, p. 4.5.
-60. A. Laats and J. E. Miller, Aollo Guidance and Control System Flight Experience, NASA CR- 101823, MIT, Cambridge, MA, 1969, p. 1.
+60. A. Laats and J. E. Miller, Aollo Guidance and Control System Flight Experience, NASA CR-101823, MIT, Cambridge, MA, 1969, p. 1.
 61. Raytheon Corporation, Final Report, p. 2.56.
 62. Ragan interview.
 63. R. C. Seamans, Jr., to multiple addresses, "Raytheon Negotiations on Apollo Guidance Computer," memo, November 9, 1962, JSC History Office.

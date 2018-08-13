@@ -4,7 +4,7 @@
 2.  Interview with Richard Malm, Jet Propulsion Laboratory, May 31, 1984.
 3.  Malm interview.
 4.  Casani et al, "Mariner 4 - A Point of Departure," p. 17.
-5.  Jet Propulsion Laboratory, The Mariner R Project Progress Report, September 1, 1962 to January 3,1963, Tech. Rep. no. 32-422, Vol. 1, Pasadena, CA, 1963.
+5.  Jet Propulsion Laboratory, The Mariner R Project Progress Report, September 1, 1962 to January 3, 1963, Tech. Rep. no. 32-422, Vol. 1, Pasadena, CA, 1963.
 6.  H.K. Bouvier, R.G. Farney, and S.Z. Szirmay, "Mariner 4 Maneuver and Attitude Control," Astronaut. Aeronaut.," 38 (October 1965).
 7.  Casani et al, "Mariner 4 - A Point of Departure," p. 17.
 8.  Jet Propulsion Laboratory, Mariner-Venus 1962 : Final Project Report, NASA SP-59 Washington, D.C., 1965.
@@ -107,7 +107,7 @@
 105. Martin-Marietta Corp., p. 110.
 106. Martin-Marietta Corp., p. 111.
 107. Martin-Marietta Corp., p. 114.
-108. Martin-Marietta Corp., pp. 150,154.
+108. Martin-Marietta Corp., pp. 150, 154.
 109. Martin-Marietta Corp., p. 104.
 110. Martin-Marietta Corp., p. 149.
 111. RADC-TR-77-168, May, 1977.
