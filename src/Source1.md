@@ -4,7 +4,7 @@
 2.  McDonnell Corporation, *NASA Project Gemini Familiarization Manual*, 1965, vol. 2, pp. 8.7, 8.45.
 3.  Lenz, in Conrad D. Babb, Charles E. Dunn, John J. Lenz, and John L. Sweeney interview, IBM at Owego, NY, by Ivan Ertel, April 25, 1968, transcript in Johnson Space Center History Office; McDonnell Corporation, *Gemini Familiarization Manual*, p. 8.45.
 4.  McDonnell Corporation, *Gemini Familiarization Manual*, p. 8.8.
-5.  Grimwood and Hacker, [*On The Shoulders of Titans*](http://www.hq.nasa.gov/office/pao/History/SP-4203/cover.htm), pp. 356,358.
+5.  Grimwood and Hacker, [*On The Shoulders of Titans*](http://www.hq.nasa.gov/office/pao/History/SP-4203/cover.htm), pp. 356, 358.
 6.  Grimwood and Hacker, [*On The Shoulders of Titans*](http://www.hq.nasa.gov/office/pao/History/SP-4203/cover.htm), p. 370.
 7.  McDonnell Corporation, *Gemini Familiarization Manual*, pp. 8.10-8.11, 8.48-8.49.
 8.  J. M. Grimwood, B. C. Hacker, and P. J. Vorzimmer, *Project Gemini: Technology and Operations*, G.P.O., Washington, D.C., 1969, p. 40.

@@ -21,7 +21,7 @@
 19. Ibid., p. 1.1.28.
 20. Ibid., p. 1.1.11.
 21. Ibid., p. 1.1.5.
-22. Ibid., pp. 1.1.7,1.1.15,1.1.18.
+22. Ibid., pp. 1.1.7, 1.1.15, 1.1.18.
 23. Ibid., p. 1.1.12.
 24. Ibid., p. 1.1.11.
 25. For a complete discussion of these problems, see Ibid., pp. 1.1.18-1.1.22.
@@ -58,15 +58,15 @@
 56. IBM, Skylab Reactivation Mission, p. 3.16.
 57. Ibid., pp. 3.17-3.18.
 58. IBM, Design and Operation Assessment, pp. 1.2.38-1.2.39, 1.2.51-1.2.52.
-59. Ibid., pp. 1.2.1-1.2.3,1.2.6.
+59. Ibid., pp. 1.2.1-1.2.3, 1.2.6.
 60. Ibid., p. 1.2.67; IBM, Skylab Reactivation Mission, p. 3.25.
 61. Copeland Interview.
 62. Jack Lousma, telephone interview from Houston, July 5, 1983.
 63. Copeland interview.
 64. IBM, NASA Skylab A, p. 1.5.3.
 65. Ibid., p. 1.7.2.
-66. IBM, Skylab Reactivation Mission, pp. 1.3,2.1-2.2,2.4.
-67. Ibid., pp. 1.2,5.3.
+66. IBM, Skylab Reactivation Mission, pp. 1.3, 2.1-2.2, 2.4.
+67. Ibid., pp. 1.2, 5.3.
 68. Ibid., pp. 3.19-3.20.
 69. Ibid., pp. 3.3--3.4, 3.9.
 70. Ibid., pp. 3.10--11, 3.20, 3.22.

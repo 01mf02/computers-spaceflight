@@ -25,7 +25,7 @@
 23. Hopkins, "Electronic Navigator", p. 110.
 24. Ragan interview.
 25. E. C. Hall, Reliability History of the Apollo Guidance Computer;. NASA CR-140340 MIT, Cambridge, MA,1972, p. 25.
-26. C. D. Brady to multiple addresses, "Integrated Circuit Packages for the AGC," memo, June 19,1964, JSC History Office.
+26. C. D. Brady to multiple addresses, "Integrated Circuit Packages for the AGC," memo, June 19, 1964, JSC History Office.
 27. D. G. Hoag interview, MIT, Cambridge, MA, by Ivan Ertel, April 29, 1966, Johnson Space Center transcript.
 28. Brooks, Grimwood, and Swenson, [Chariots for Apollo](http://www.hq.nasa.gov/office/pao/History/SP-4205/cover.html), p. 187.
 29. R. Alonso, H. Blair-Smith, and A. Hopkins, "Logical Description for the Apollo Guidance Computer," MIT, Cambridge, MA, March 1963, p. 1.1.
@@ -42,7 +42,7 @@
 40. F. Bedford, S. P. Cockrell, and R. T. Savely, Apollo Experience Report: Onboard Navigational and Alignment Software, MSC-04238, Houston, TX, 1971, p. 2; Hopkins, "Electronic Navigator," p. 113.
 41. Drake and Savage, AGC4, p. 1.3.
 42. Hopkins, "Electronic Navigator," p. 118.
-43. Hall, Reliability History, p. 10; Raytheon Corporation, Apollo Guidance Computer Program Block 1 (100) and Block 2-Final Report (July 25, 1969-December 31,1969), p. 2.17.
+43. Hall, Reliability History, p. 10; Raytheon Corporation, Apollo Guidance Computer Program Block 1 (100) and Block 2 Final Report (July 25, 1969--December 31, 1969), p. 2.17.
 44. Hall lecture, p. 5.
 45. R. Alonso and A. Hopkins, The Apollo Guidance Computer, NASA CR-118183, MIT, Cambridge, MA, p. 8.
 46. E. M. Copps, Recovery from Transient Failures of the Apollo Guidance Computer, NASA CR-92255, MIT, Cambridge, MA, 1968, p. 2.
@@ -57,7 +57,7 @@
 55. Hopkins, "Electronic Navigator," p. 114.
 56. Raytheon Corporation, Final Report, p. 2.29.
 57. Drake and Savage, AGC4, p. 1.6.
-58. John R. Garman interview, Johnson Space Center, Houston, TX, May 25, 1983 and June 1,1983.
+58. John R. Garman interview, Johnson Space Center, Houston, TX, May 25, 1983 and June 1, 1983.
 59. Raytheon Corporation, Final Report, p. 4.5.
 60. A. Laats and J. E. Miller, Aollo Guidance and Control System Flight Experience, NASA CR-101823, MIT, Cambridge, MA, 1969, p. 1.
 61. Raytheon Corporation, Final Report, p. 2.56.
@@ -67,7 +67,7 @@
 65. Hall, Reliability History, p. 43.
 66. C. W. Frasier to multiple addresses, Johnson Space Center, "Block II Computer Design Deficiency," memo, August 10, 1965, JSC History Office.
 67. I. V. Ertel, The Apollo Spacecraft, GPO, Washington, D.C., 1969, pp. 31-32.
-68. Hall, Reliability History, pp. 15-16,19.
+68. Hall, Reliability History, pp. 15-16, 19.
 69. Raytheon Corporation, Final Report, p. 3.12.
 70. Felleman and Fraser, "Digital Fly-By-Wire," p. 30.
 71. W.M. Keese, et al, Management Procedures in Computer Programming for Apollo-Interim Report, Bellcomm. Inc., Washington, D.C., November 30, 1964.
@@ -81,7 +81,7 @@
 79. Dick Parten interview, Johnson Space Center, Houston, TX, June 3, 1983 and June 16, 1983.
 80. M. D. Richter to multiple addresses, MIT, "Summary of AGC Program Processing Procedures," memo, August 13, 1965, JSC History Office.
 81. Garman interview.
-82. RASPO to MIT memo, JSC History Office Archives, October 22,1963.
+82. RASPO to MIT memo, JSC History Office Archives, October 22, 1963.
 83. Hopkins, "Guidance Computer Design," p. 48.
 84. Mann interview.
 85. C. A. Muntz, Users Guide to the Block 2 AGC/LGC Interpreter, NASACR-126815, MIT, Cambridge, MA, April 1965.
@@ -128,13 +128,13 @@
 126. Tindall to multiple addresses, untitled memos, May 13, 1966 and May 14, 1966, JSC History Office.
 127. Tindall, "Apollo Spacecraft Computer Programs---Or, A Bucket of Worms."
 128. Tindall, "Apollo Spacecraft Computer Programs---Or, A Bucket of Worms."
-129. Tindall to multiple addresses, "AS-204 Computer Program Status," memo, July 21,1966, JSC History Office.
+129. Tindall to multiple addresses, "AS-204 Computer Program Status," memo, July 21, 1966, JSC History Office.
 130. Tindall to multiple addresses, "Spacecraft Computer Program Status for AS-501," memo, September 20, 1966, JSC History Office.
 131. Tindall, "Apollo Spacecraft Computer Programs---Or, A Bucket of Worms."
 132. Ray Morth, "De-orbit Burn Program," (Flight 204), memo no: 35, January 23, 1967, MIT, Cambridge, MA, JSC History Office.
-133. Hughes interview; Tindall concurs. He wrote in a memo for distribution on April 28,1967 that "it is almost certain that deficiencies will exist in the program we will ultimately fly." He then proceeded to improve the software during the delay in the Apollo program caused by the fire.
+133. Hughes interview; Tindall concurs. He wrote in a memo for distribution on April 28, 1967 that "it is almost certain that deficiencies will exist in the program we will ultimately fly." He then proceeded to improve the software during the delay in the Apollo program caused by the fire.
 134. Tindall to multiple addresses, "In Which is Described the Apollo Spacecraft Computer Programs Currently Being Developed," memo, March 24, 1967, JSC History Office.
-135. Tindall to multiple addresses, "Spacecraft Computer Program Status, memo, October 17,1967, JSC History Office.
+135. Tindall to multiple addresses, "Spacecraft Computer Program Status, memo, October 17, 1967, JSC History Office.
 136. Tindall to multiple addresses, "A New Spacecraft Computer Program Development Working Philosophy is Taking Shape," memo, 67-TM-1-39, May 17, 1967.
 137. Ertel, Apollo Spacecraft, p. 250.
 138. Ertel, Apollo Spacecraft, pp. 203--204.
@@ -160,8 +160,8 @@
 158. Cernan interview.
 159. Mann interview.
 160. P. M. Kurten, Apollo Experience Report: Guidance and Control Systems-Lunar Module Abort Guidance System, NASA TN -D-7990, Johnson Space Center, Houston, TX, 1975, p. 4.
-161. TRW, news release, July 1,1969, JSC History Office Archives.
-162. TRW, news release, July 1,1969.
+161. TRW, news release, July 1, 1969, JSC History Office Archives.
+162. TRW, news release, July 1, 1969.
 163. Kurten, Abort Guidance System, p. 1; B. Miller, "Abort Backup for LEM Near Production," TRW Executive Clips, 1 (January 15, 1966).
 164. Kurten, Abort Guidance System, p. 5.
 165. Kurten, Abort Guidance System, p. 6.
