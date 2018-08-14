@@ -12,13 +12,13 @@
 10. S. Lingon, "Functional Requirement Mariner Jupiter/Saturn 1977 Flight Equipment-Computer Command Subsystem Hardware, No. MJS77-4-2005-1B, Pasadena, CA Jet Propulsion Lab, August 16, 1977.
 11. Interview with Roy Otamura, Jet Propulsion Laboratory, 29 May 1984.
 12. Interview with Dick Rice, Jet Propulsion Laboratory, 29 May 1984.
-13. Lingon, "Equipment-Computer Command Subsystem Hardware," p. 35; U.S. Lingon et al., Voyager Command Subsystem flight Software Design Description," Rev. G, Vol. I, No. 618-235, Pasadena, CA Jet Propulsion Laboratory, July 1983, p. 3.30-38.
-14. U.SA Lingon et al Voyager Computer Command Subsystem Flight Software Design Description," pp. 3.3--38.
+13. Lingon, "Equipment-Computer Command Subsystem Hardware," p. 35; U.S. Lingon et al., "Voyager Command Subsystem Flight Software Design Description," Rev. G, Vol. I, No. 618-235, Pasadena, CA Jet Propulsion Laboratory, July 1983, p. 3.141.
+14. U.S. Lingon et al., "Voyager Computer Command Subsystem Flight Software Design Description," pp. 3.30--38.
 15. D. Linick to Laeser, R.P., "Preliminary List of MOS Concerns About Spacecraft Software Design." August 21, 1975, From the files of R.J. Rice, Jet Propulsion Laboratory.
 16. Otamura interview.
 17. Otamura interview.
 18. Otamura interview.
-19. Interview with Ted Kopf Jet Propulsion Laboratory, May 18, 1984.
+19. Interview with Ted Kopf, Jet Propulsion Laboratory, May 18, 1984.
 20. Interview with William Charlen, Jet Propulsion Laboratory, May 18, 1984.
 21. Kopf interview, May 18, 1984.
 22. E.H. Kopf and L.S. Smith, "The Development and Demonstration of Hybrid Programmable Attitude Control Electronics with Adaptable Analog/Digital Design Approach," AGARD Real-Time Computer-Based Systems,: Kopf interview May 18, 1984.
