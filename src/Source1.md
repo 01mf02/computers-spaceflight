@@ -6,7 +6,7 @@
 4.  McDonnell Corporation, *Gemini Familiarization Manual*, p. 8.8.
 5.  Grimwood and Hacker, [*On The Shoulders of Titans*](http://www.hq.nasa.gov/office/pao/History/SP-4203/cover.htm), pp. 356, 358.
 6.  Grimwood and Hacker, [*On The Shoulders of Titans*](http://www.hq.nasa.gov/office/pao/History/SP-4203/cover.htm), p. 370.
-7.  McDonnell Corporation, *Gemini Familiarization Manual*, pp. 8.10-8.11, 8.48-8.49.
+7.  McDonnell Corporation, *Gemini Familiarization Manual*, pp. 8.10--8.11, 8.48--8.49.
 8.  J. M. Grimwood, B. C. Hacker, and P. J. Vorzimmer, *Project Gemini: Technology and Operations*, G.P.O., Washington, D.C., 1969, p. 40.
 9.  Grimwood, Hacker, and Vorzimmer, *Technology and Operations*, p. 110; Lenz in Babb, Dunn, Lenz, and Sweeney interview.
 10. Lenz, in Babb, Dunn, Lenz, and Sweeney interview.
@@ -27,7 +27,7 @@
 25. Harold E. Dodge interview, Owego, NY, by John J. Lenz, April 25, 1968; transcript at Johnson Space Center History Office.
 26. Grimwood and Hacker, [*On the Shoulders of Titans*](http://www.hq.nasa.gov/office/pao/History/SP-4203/cover.htm), p. 252.
 27. Grimwood and Hacker, [*On the Shoulders of Titans*](http://www.hq.nasa.gov/office/pao/History/SP-4203/cover.htm), p. 254.
-28. McDonnell Corporation, *Gemini Familiarization Manual*, pp. 8.82-8.89.
+28. McDonnell Corporation, *Gemini Familiarization Manual*, pp. 8.82--8.89.
 29. See the October 1983 issue of the *Annals of the History of Computing* (Vol. 5, \[4\]) for several articles on SAGE.
 30. See Frederick P. Brooks, *The Mythical Man-Month* Addison-Wesley, Reading, MA, 1975.
 31. Lenz, in Babb, Dunn, Lenz, and Sweeney interview.

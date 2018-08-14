@@ -10,7 +10,7 @@
 8.  John R. Garman interview, Johnson Space Center, Houston, TX, May 25, 1983 and June 1, 1983.
 9.  C. G. Brooks, L. S. Grimwood, and L. S. Swenson, Jr., [Chariots or Apollo: A History of Manned Lunar Spacecraft](http://www.hq.nasa.gov/office/pao/History/SP-4205/cover.html); NASA SP-205 Washington, D.C., 1979, p. 355.
 10. Hopkins, "Electronic Navigator," p. 116.
-11. Brooks, Grimwood, and Swenson, [Chariots for Apollo](http://www.hq.nasa.gov/office/pao/History/SP-4205/cover.html), pp. 38-39
+11. Brooks, Grimwood, and Swenson, [Chariots for Apollo](http://www.hq.nasa.gov/office/pao/History/SP-4205/cover.html), pp. 38--39
 12. Ragan interview.
 13. Hoag, Apollo Navigation Systems, p. 5.
 14. Ragan interview.
@@ -36,9 +36,9 @@
 34. Ragan interview.
 35. Ragan interview.
 36. Hall, Reliability History, p. 5.
-37. Hopkins, "Guidance Computer Design," Spacecraft Navigation, Guidance, and Control MIT, Cambridge, MA, 1965, pp. 13-15.
+37. Hopkins, "Guidance Computer Design," Spacecraft Navigation, Guidance, and Control MIT, Cambridge, MA, 1965, pp. 13--15.
 38. Hopkins, "Electronic Navigator," p. 112.
-39. R. H. Battin and F. H. Martin, "Computer Controlled Steering of the Apollo Spacecraft," J. Spacecr. Rockets, 5, 402 (1968); A. Drake and B. 1. Savage, AGC4 Basic Training Manual MIT, Cambridge, MA, 1967, pp. 1.1-1.2.
+39. R. H. Battin and F. H. Martin, "Computer Controlled Steering of the Apollo Spacecraft," J. Spacecr. Rockets, 5, 402 (1968); A. Drake and B. 1. Savage, AGC4 Basic Training Manual MIT, Cambridge, MA, 1967, pp. 1.1--1.2.
 40. F. Bedford, S. P. Cockrell, and R. T. Savely, Apollo Experience Report: Onboard Navigational and Alignment Software, MSC-04238, Houston, TX, 1971, p. 2; Hopkins, "Electronic Navigator," p. 113.
 41. Drake and Savage, AGC4, p. 1.3.
 42. Hopkins, "Electronic Navigator," p. 118.
@@ -49,7 +49,7 @@
 47. Drake and Savage, AGC4, p. 1.13.
 48. H. Kreide and D. W. Lambert, "Computation: Aerospace Computers in Aircraft, Missiles, and Spacecraft," Space/Aeronaut., 42 77 (1964).
 49. Alonso and Hopkins, Apollo Computer, p. 12.
-50. L. J. Carey and W. A. Sturm, "Space Software at the Crossroads," Space/Aeronaut. 63 (December 1968); Kreide and Lambert, "Computation," pp. 97-98.
+50. L. J. Carey and W. A. Sturm, "Space Software at the Crossroads," Space/Aeronaut. 63 (December 1968); Kreide and Lambert, "Computation," pp. 97--98.
 51. A. Hopkins, "Design Concepts of the Apollo Guidance Computer," Mimeograph, MIT Instrumentation Lab, Cambridge, MA, June 1963, p. 2.1.
 52. Alonso, Blair-Smith, and Hopkins, "Logical Description," p. 1.3; Stan Mann interview, Johnson Space Center, Houston, TX, June 6, 1983.
 53. E. C. Hall, MIT's Role in Project Apollo: Computer Subsystem, Charles Stark Draper Laboratory, Cambridge, MA, 1972, vol. 3, p. 3.
@@ -66,8 +66,8 @@
 64. J. F. Shea to multiple addresses, Johnson Space Center, "Integrated Circuit Packages for the Block II Apollo Guidance Computer (AGC)," memo, September 9, 1964, JSC History Office.
 65. Hall, Reliability History, p. 43.
 66. C. W. Frasier to multiple addresses, Johnson Space Center, "Block II Computer Design Deficiency," memo, August 10, 1965, JSC History Office.
-67. I. V. Ertel, The Apollo Spacecraft, GPO, Washington, D.C., 1969, pp. 31-32.
-68. Hall, Reliability History, pp. 15-16, 19.
+67. I. V. Ertel, The Apollo Spacecraft, GPO, Washington, D.C., 1969, pp. 31--32.
+68. Hall, Reliability History, pp. 15--16, 19.
 69. Raytheon Corporation, Final Report, p. 3.12.
 70. Felleman and Fraser, "Digital Fly-By-Wire," p. 30.
 71. W.M. Keese, et al, Management Procedures in Computer Programming for Apollo-Interim Report, Bellcomm. Inc., Washington, D.C., November 30, 1964.
@@ -94,12 +94,12 @@
 92. Hopkins, "Electronic Navigator," p. 117; T. Lawton and C.A. Muntz, Organization of Computation and Control of the Apollo Guidance Computer, MIT Instrumentation Lab., Cambridge, MA, E-1758, 1965, p. 15.
 93. Drake and Savage, AGC4, p. 1.21.
 94. Garman interview.
-95. Hopkins, "Design Concepts," June 1963, pp. 2.8-2.9; Lawton and Muntz, Computation and Control, p.15.
+95. Hopkins, "Design Concepts," June 1963, pp. 2.8--2.9; Lawton and Muntz, Computation and Control, p.15.
 96. Gatman interview.
 97. Raytheon Corporation, Final Report, p. 2.32.
 98. Howard "Bill Tidall to multiple addresses, "Spacecraft Computer Program Names," memo, May 23, 1967, JSC History Office.
 99. Ertel, Apollo Spacecraft, p. 238.
-100. Copps, Recovery From Transient Failures, p. 4; Hall, Reliability History, pp. 7-8.
+100. Copps, Recovery From Transient Failures, p. 4; Hall, Reliability History, pp. 7--8.
 101. Copps, Recovery From Transient Failures, pp. 1, 5; Cherry, "Exegesis of the 1201 and 1202 Alarms."
 102. Copps, Recovery From Transient Failures, p. 3.
 103. Hopkins, "Design Concepts," p. 2.11.
@@ -119,7 +119,7 @@
 117. Hoag interview.
 118. Tindall to multiple addresses, "Apollo Spacecraft Computer Program Development Newsletter," memo, May 31, 1966, JSC History Office.
 119. Tindall, "Program Development Newsletter."
-120. See Madeline S. Johnson, MIT's Role in Project Apollo: The Software Effort, Charles Stark Draper Laboratory, Cambridge, MA, 1971, vol. 2, pp. 21-22 for a chart showing the "manloading" at MIT during the Apollo effort.
+120. See Madeline S. Johnson, MIT's Role in Project Apollo: The Software Effort, Charles Stark Draper Laboratory, Cambridge, MA, 1971, vol. 2, pp. 21--22 for a chart showing the "manloading" at MIT during the Apollo effort.
 121. Mann interview.
 122. Tindall to multiple addresses, "Apollo Spacecraft Computer Programs---Or, A Bucket of Worms," memo, June 13, 1966, JSC History Office.
 123. Tindall to multiple addresses, "Another Apollo Spacecraft Computer Status Report," memo, July 1, 1966, JSC History Office.
@@ -171,13 +171,13 @@
 169. B. Miller, "Abort Backup," p. 3.
 170. Jonas Beraru, "The TRW Systems MARCO 4418-A Man Rated Computer," (TRW, 1979), p. 26.
 171. TRW, news release, July 1, 1969.
-172. Kurten, Abort Guidance System, pp. 8-9.
+172. Kurten, Abort Guidance System, pp. 8--9.
 173. Kurten, Abort Guidance System, p. 42.
 174. Tindall, notes in review of the draft of this chapter, August, 1985.
 175. Kurten, Abort Guidance System, p. 38.
-176. Kurten, Abort Guidance System, pp. 22-23.
+176. Kurten, Abort Guidance System, pp. 22--23.
 177. TRW, news release, July 1, 1969.
 178. Young interview.
 179. Young interview.
-180. Apollo Guidance Software Task Force, Final Report, pp. 5-6; R. R. Regelbrugge, Apollo Experience Report: Apollo Spacecraft and Ground Software Development for Rendezvous, MSC-02676, 1970, p 5. S. A. Sjoberg, "Objectives for Software Controlled Aerospace Systems in the Next Decade," memo for distribution, Manned Spacecraft Center, July 14, 1970, p. 2.
+180. Apollo Guidance Software Task Force, Final Report, pp. 5--6; R. R. Regelbrugge, Apollo Experience Report: Apollo Spacecraft and Ground Software Development for Rendezvous, MSC-02676, 1970, p 5. S. A. Sjoberg, "Objectives for Software Controlled Aerospace Systems in the Next Decade," memo for distribution, Manned Spacecraft Center, July 14, 1970, p. 2.
 181. Bowler, Improvement Study.

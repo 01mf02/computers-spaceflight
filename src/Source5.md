@@ -26,19 +26,19 @@
 24. Greenberg interview.
 25. After the example given by A.J. Hooke, "The 1973 Mariner Mission to Venus and Mercury," Spaceflight, 30 (January, 1974).
 26. Greenberg interview.
-27. J.A. Gleason, Mariner Mars 1971 Space Flight Operations Plan: Mission Operation Specifications and Constraints, Jet Propulsion Laboratory, Pasadena, CA, April 6, 1971, Vol. 4, pp. 2, 112-113.
+27. J.A. Gleason, Mariner Mars 1971 Space Flight Operations Plan: Mission Operation Specifications and Constraints, Jet Propulsion Laboratory, Pasadena, CA, April 6, 1971, Vol. 4, pp. 2, 112--113.
 28. Hooke, "Mariner 10 Spacecraft Computer," p. 275.
 29. C.E. Kohlhase, H.W. Norris, H.M. Shurmeier, and J.A. Stallkamp, "The 1969 Mariner Mission to Mars," Astronaut. Aeronaut., 84 (July, 1969).
-30. Jet Propulsion Laboratory, Development and Testing of the Central Computer and Sequencer for the Mariner Mars 1971 Spacecraft, Tech. Rep. no. 33-501, October 15, 1971, pp. 2-3.
+30. Jet Propulsion Laboratory, Development and Testing of the Central Computer and Sequencer for the Mariner Mars 1971 Spacecraft, Tech. Rep. no. 33-501, October 15, 1971, pp. 2--3.
 31. Hooke, "Mariner 10 Spacecraft Computer," p. 273.
-32. Hooke, "Mariner 10 Spacecraft Computer," pp. 279-81.
+32. Hooke, "Mariner 10 Spacecraft Computer," pp. 279--81.
 33. Hooke, "Mariner 10 Spacecraft Computer," p. 285.
 34. Jet Propulsion Laboratory, Development and Testing of the Central Computer and Sequencer for the Mariner Mars 1971 Spacecraft. p. 12.
 35. A.J. Hooke, "Mariner Mission to Venus and Mercury," p. 29.
 36. Jet Propulsion Laboratory, Development and Testing of the Central Computer and Sequencer for the Mariner Mars 1971 Spacecraft, p. 4.
 37. Hooke, "Mariner 10 Spacecraft Computer," p. 285.
 38. A. Avizienis, F.P. Mathur, D. A. Rennels, and J.A. Rohr, "Automatic Maintenance of Aerospace Computers and Spacecraft Information and Control Systems," Tech. Rep. no. 32-1449, Jet Propulsion Laboratory, Pasadena, CA, 1969, p.1.
-39. Avizienis et al., "Automatic Maintenance of Aerospace Computers," pp. 10-11.
+39. Avizienis et al., "Automatic Maintenance of Aerospace Computers," pp. 10--11.
 40. Avizienis et al., "Automatic Maintenance of Aerospace Computers," p. 10.
 41. A. Avizienis, "Design Methods for Fault-Tolerant Navigation Computers," Tech Rep. no. 32-1409, Jet Propulsion Laboratory, Pasadena, CA, October 15, 1969, p. 4.
 42. Avizienis et al, "Automatic Maintenance of Aerospace Computers," p. 9.
@@ -75,7 +75,7 @@
 73. Greenberg interview.
 74. Kohl, Functional Requirement Viking Orbiter 1975 Flight Equipment Computer Command Subsystem Hardware, p. 20; Kohl, Functional Requirement Viking Orbiter 1975 Flight Equipment Computer Command Subsystem Software, No. 075-4.2005-2A, Pasadena, CA Jet Propulsion Lab, January 17, 1975, p. 7.
 75. Kohl, Functional Requirement Viking Orbiter 1975 Flight Equipment Computer Command Subsystem Hardware, p. 13.
-76. R.A. Proud et al., Viking 75 Orbiter Computer Command Subsystem Flight Software Design Description, 612-28 (DRL Line Item No. N4-SE24), Vol. 1, Pasadena, CA Jet Propulsion Lab, November 20, 1974, pp. A.1.21-22; Kohl, Functional Requirement Viking Orbiter 1975 Flight Equipment Computer Command Subsystem Software, p. 30.
+76. R.A. Proud et al., Viking 75 Orbiter Computer Command Subsystem Flight Software Design Description, 612-28 (DRL Line Item No. N4-SE24), Vol. 1, Pasadena, CA Jet Propulsion Lab, November 20, 1974, pp. A.1.21--22; Kohl, Functional Requirement Viking Orbiter 1975 Flight Equipment Computer Command Subsystem Software, p. 30.
 77. Kohl, Functional Requirement Viking Orbiter 1975 Flight Equipment Computer Command Subsystem Hardware, p. 13.
 78. Kohl, Functional Requirement Viking Orbiter 1975 Flight Equipment Computer Command Subsystem Hardware, p. 5.
 79. Greenberg interview.
@@ -84,8 +84,8 @@
 82. Kohl, Functional Requirement Viking Orbiter 1975 Flight Equipment Computer Command Subsystem Software, p. 16.
 83. Proud et al., Viking 75 Orbiter Computer Command Subsystem Flight Software Design Description, p. 3.125.
 84. Proud et al., Viking 75 Orbiter Computer Command Subsystem Flight Software Design Description, p. 3.165.
-85. Proud et al., Viking 75 Orbiter Computer Command Subsystem Flight Software Design Description, pp. 228-234.
-86. Kohl, Functional Requirement Viking Orbiter 1975 Flight Equipment Computer Command Subsystem Software, pp. 31-33 contains a complete list of the instructions.
+85. Proud et al., Viking 75 Orbiter Computer Command Subsystem Flight Software Design Description, pp. 228--234.
+86. Kohl, Functional Requirement Viking Orbiter 1975 Flight Equipment Computer Command Subsystem Software, pp. 31--33 contains a complete list of the instructions.
 87. Proud et al., Viking 75 Orbiter Computer Command Subsystem Flight Software Design Description, p. 3.6.
 88. Kohl, Functional Requirement Viking Orbiter 1975 Flight Equipment Computer Command Subsystem Hardware; Kohl, Functional Requirement Viking Orbiter 1975 Flight Equipment Computer Command Subsystem Software.
 89. Proud et al., Viking 75 Orbiter Computer Command Subsystem Flight Software Design Description, p. 4.2.
@@ -103,7 +103,7 @@
 101. Claussen and Wachs, p. 108.
 102. Martin Marietta Corp., p. 106.
 103. Claussen and Wachs, p. 108.
-104. Martin-Marietta Corp., pp. 131-132.
+104. Martin-Marietta Corp., pp. 131--132.
 105. Martin-Marietta Corp., p. 110.
 106. Martin-Marietta Corp., p. 111.
 107. Martin-Marietta Corp., p. 114.

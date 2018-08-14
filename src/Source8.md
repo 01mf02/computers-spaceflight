@@ -68,7 +68,7 @@
 66. M. Forthoffer, "A Comparison of Time-Shared vs. Batch Development of Space Software," Proceedings of 12th International Symposium on Space Technology and Science, Tokyo, Japan, 16-20 May 1977, National Aerospace Laboratory, Chofu, Tokyo, 1977, pp. 1056, 1057, 1059.
 67. James, "Evolution of Real-Time Computer Systems," p. 419.
 68. Pollen interview, June 13, 1983; Interview with Gene Campbell, IBM, Houston, TX, June 13, 1983; Interview with Fred Riddle, IBM, Johnson Space Center, June 13, 1983.
-69. Frank Hughes (JSC) and Kristan Lattu (JPL), A Comparative Study of the Evolution of Command and Control Activities for Manned and Unmanned Spaceflight Operations, AIAA-83-294, given by Lattu at International Aerospace Foundation Meeting, Budapest, October 10-15, 1983, pp. 2-3.
+69. Frank Hughes (JSC) and Kristan Lattu (JPL), A Comparative Study of the Evolution of Command and Control Activities for Manned and Unmanned Spaceflight Operations, AIAA-83-294, given by Lattu at International Aerospace Foundation Meeting, Budapest, October 10-15, 1983, pp. 2--3.
 70. Interview with Ann Merwarth, Goddard Spaceflight Center, July 3, 1984.
 71. Interview with Carl Johnson, Jet Propulsion Laboratory, May 23, 1984.
 72. See Corliss, Histories of the Space Tracking and Data Acquisition Network; N.A. Renzetti, ed., A History of the Deep Space Network From Inception to January 1, 1969, Jet Propulsion Laboratory TR 32-1533, September 1, 1971.
@@ -76,7 +76,7 @@
 74. C. Johnson interview, May 23, 1984.
 75. W.D. Menrick; E. Rechtin; R. Stevens; and W.K. Victor, "Deep Space Communications," IRE Trans. Military Electron., 160 (April/July 1960).
 76. Interview with George Gianopolis, Jet Propulsion Laboratory, June 4, 1984.
-77. NASA, Mariner-Venus 1962: Final Project Report, NASA SP-59, Washington, 1965, pp. 278-279, 294.
+77. NASA, Mariner-Venus 1962: Final Project Report, NASA SP-59, Washington, 1965, pp. 278--279, 294.
 78. NASA, Mariner-Venus 1962, 1965, p. 294.
 79. Eberhardt Rechtin, interviewed by Cargill Hall, 1970?, Hall's files in the JPL Library Vault.
 80. W.H. Pickering to multiple addresses, "Establishment of the Deep Space Network," December 24, 1963, memo. no. 218.
@@ -85,7 +85,7 @@
 83. NASA, Mariner Mars 1964.' Final Project Report, NASA SP-139, Washington, D.C., p. 216.
 84. Corliss, The Interplanetary Pioneers, Volume I: Summary, NASA SP-278, Washington, D.C., 1972, p. 85.
 85. Interview with Don Royer, Jet Propulsion Laboratory, June 7, 1984.
-86. NASA, Mariner Mars 1964: Final Project Report, pp. 224-225.
+86. NASA, Mariner Mars 1964: Final Project Report, pp. 224--225.
 87. Jet Propulsion Laboratory, "Spaceflight Operations Facility Data Processing System," Spec. no. SFOF 372-III-310, Jet Propulsion Laboratory, Pasadena, CA, October 1, 1963, p. 3.
 88. Gianopolis interview, June 4, 1984.
 89. NASA, Mariner Mars 1964: Final Project Report, p. 220.

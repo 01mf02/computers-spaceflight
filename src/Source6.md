@@ -13,7 +13,7 @@
 11. Interview with Roy Otamura, Jet Propulsion Laboratory, 29 May 1984.
 12. Interview with Dick Rice, Jet Propulsion Laboratory, 29 May 1984.
 13. Lingon, "Equipment-Computer Command Subsystem Hardware," p. 35; U.S. Lingon et al., Voyager Command Subsystem flight Software Design Description," Rev. G, Vol. I, No. 618-235, Pasadena, CA Jet Propulsion Laboratory, July 1983, p. 3.30-38.
-14. U.SA Lingon et al Voyager Computer Command Subsystem Flight Software Design Description," pp. 3.3-38.
+14. U.SA Lingon et al Voyager Computer Command Subsystem Flight Software Design Description," pp. 3.3--38.
 15. D. Linick to Laeser, R.P., "Preliminary List of MOS Concerns About Spacecraft Software Design." August 21, 1975, From the files of R.J. Rice, Jet Propulsion Laboratory.
 16. Otamura interview.
 17. Otamura interview.
@@ -42,11 +42,11 @@
 40. Interview with John Wooddell, Jet Propulsion Laboratory, May 21, 1984.
 41. B.D. Martin, "Data Systems for 12-Year Missions," Astronaut. Aeronaut., September 1970, p. 58.
 42. Interview with Don Johnson, Jet Propulsion laboratory, May 16 1984; Undated at the time, Wooddell thinks he wrote the "Design of a CMOS Process for Use in the Flight Data Subsystem of a Deep Space Probe" in 1974, which makes sense as the development process lasted from 1972 to 1974.
-43. J. Wooddell, "Design of a CMOS Processor," pp. 2-3, files of J. Wooddell.
+43. J. Wooddell, "Design of a CMOS Processor," pp. 2--3, files of J. Wooddell.
 44. J. Morecroft to K. Frewing, "FDS Programming," January 14, 1975, files of R.J. Rice, Jet Propulsion Lab.
 45. Rice interview.
-46. Wooddell, "Design of a CMOS Processor," pp. 8-9.
-47. Wooddell, "Design of a CMOS Processor," pp. 14-15.
+46. Wooddell, "Design of a CMOS Processor," pp. 8--9.
+47. Wooddell, "Design of a CMOS Processor," pp. 14--15.
 48. Wooddell interview.
 49. D. Johnson interview.
 50. Rice interview.
@@ -107,32 +107,32 @@
 105. Zipse interview.
 106. Zipse Interview.
 107. Jones and Landano, "Galileo Spacecraft System Design," p. 12.
-108. W.H. Kohl, Functional Requirement Galileo Orbiter Flight Equipment Command and Data Subsystem, No. GGL-4-2006, Pasadena, CA., Jet Propulsion Laboratory, March 5, 1981, pp. 101-102,
+108. W.H. Kohl, Functional Requirement Galileo Orbiter Flight Equipment Command and Data Subsystem, No. GGL-4-2006, Pasadena, CA., Jet Propulsion Laboratory, March 5, 1981, pp. 101--102,
 109. Zipse interview; O.W. Adams, Project Galileo: Software Requirements Document, Command and Data Subsystem, 625-340-006000, Rev. A, Jet Propulsion Laboratory, Pasadena, CA, January 16, 1984, p. 13.
 110. Zipse interview.
-111. Kohl, Galileo Orbiter Flight Equipment, pp. 89-90.
+111. Kohl, Galileo Orbiter Flight Equipment, pp. 89--90.
 112. Zipse interview.
 113. Kohl, Galileo Orbiter Flight Equipment, p. 48.
 114. D. Johnson interview.
-115. O.W. Adams, Project Galileo.- Software Requirements Document Command and Data Subsystem, 625-340-006000, Rev. A, Jet Propulsion Laboratory, Pasadena, CA, Jan 16, 1984, pp. 144-145.
+115. O.W. Adams, Project Galileo.- Software Requirements Document Command and Data Subsystem, 625-340-006000, Rev. A, Jet Propulsion Laboratory, Pasadena, CA, Jan 16, 1984, pp. 144--145.
 116. Adams, Project Galileo: Software Requirements, p.215.
 117. C. Chadwick to W.J. O'Neil, "Some Thoughts on the HAL/S System," June 19, 1978, Galileo file, Jet Propulsion Laboratory Record Center.
 118. Adams, Project Galileo: Software Requirements, p. 12.
 119. Henry Kleine, "Software Design and Development Language," Jet Propulsion Laboratory Publication 77-24, Rev. 1, August 1, 1979.
 120. C. A. Ericson, Apollo logic Diagram Analysis Guideline, Boeing Co., Seattle, WA, 1967, pp. 66.
 121. J.T. Buchman, Galileo: General Design Document, Attitude and Articulation Control Subsystem, 625-350-007000, Jet Propulsion Laboratory, Pasadena, CA, October 1, 1983.
-122. H.K. Bouvier and G.D. Pace, "Management of the Galileo Attitude and Articulation Control Plight Software Development," 3rd Computers in Aerospace Conference, AIAA, San Diego, CA, October 26-28, 1981, No. 81-2127, pp. 112-118.
+122. H.K. Bouvier and G.D. Pace, "Management of the Galileo Attitude and Articulation Control Plight Software Development," 3rd Computers in Aerospace Conference, AIAA, San Diego, CA, October 26-28, 1981, No. 81-2127, pp. 112--118.
 123. Charlan interview.
-124. Bouvier and Pace, "Galileo Attitude and Articulation Control Plight," pp. 112-118.
+124. Bouvier and Pace, "Galileo Attitude and Articulation Control Plight," pp. 112--118.
 125. Kopf interview.
 126. Kopf interview.
 127. ITEK, "ATAC-16M Principles of Operation," June 1979, p. 2.60.
 128. Kopf interview.
 129. ITEK, "ATAC-16M Principles of Operation," p. 1.8.
-130. Bouvier and Pace, "Galileo Attitude ad Articulation Control Flight," pp. 112-118.
+130. Bouvier and Pace, "Galileo Attitude ad Articulation Control Flight," pp. 112--118.
 131. E.H.Kopf, Galileo Real-Time AACS Operating System. "Gracos" Reference Manual, Jet Propulsion Laboratory, Pasadena, CA, September 1, 1983, p. 29.
 132. Buchman, Galileo. General Design Document. p. 1.6.
-133. Bouvier and Pace, "Galileo Attitude and Articulation Control Flight," pp. 112-118.
+133. Bouvier and Pace, "Galileo Attitude and Articulation Control Flight," pp. 112--118.
 134. Kopf interview.
 135. Kopf interview.
 136. Kopf interview.

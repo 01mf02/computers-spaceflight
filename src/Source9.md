@@ -40,26 +40,26 @@
 38. Emull interview, June 16, 1983.
 39. J. Boehm and H.H. Hosenthien, "Flight Simulation of Rockets and Spacecraft," in From Peenemunde to Outer Space, eds. E. Stuhlinger, et al., Marshall Space Flight Center, Huntsville, AL, March 23, 1962, p. 437.
 40. See James E. Tomayko, "Helmut Hoelzer's Fully Electronic Analog Computer, Ann. Hist. Comput., 7(3)227-240 (July, 1985).
-41. W.K. Polstroff and F.L. Vinz, "General-Purpose Simulation At Marshall Spaceflight Center," Presented to American Institute of Aeronaut. and Astronaut. Working Group on Flight Simulation Facilities at Marietta, Georgia, April 22, 1974, pp. 1-4; Interview with Jack Lucas, Marshall Space Center, June 21, 1983.
+41. W.K. Polstroff and F.L. Vinz, "General-Purpose Simulation At Marshall Spaceflight Center," Presented to American Institute of Aeronaut. and Astronaut. Working Group on Flight Simulation Facilities at Marietta, Georgia, April 22, 1974, pp. 1--4; Interview with Jack Lucas, Marshall Space Center, June 21, 1983.
 42. Lucas interview, June 21, 1983; Polstroff and Vinz, "General-Purpose Simulation At Marshall Spaceflight Center," April 22, 1974, p. 9.
 43. Interview with Frank Vinz, Marshall Space Center, June 21, 1983.
 44. P.W. Hampton and H.G. Vick, Space Shuttle Main Engine Hardware Simulation, Marshall Spaceflight Center, Huntsville, AL, no date, pp. 1, 2, 7, 8.
 45. T.V. Chambers, "Shuttle Avionics Integration Laboratory," AIAA Paper, 1977, p. 212.
 46. Mansfield interview, June 1, 1983.
-47. Chambers, "Shuttle Avionics Integration Laboratory," 1977, pp. 219-220.
-48. J.T.B. Mayer, "The Space Shuttle Vehicle Checkout Involving Flight Avionics Software," AIAA Paper no. 1981-2141, pp. 174-175.
+47. Chambers, "Shuttle Avionics Integration Laboratory," 1977, pp. 219--220.
+48. J.T.B. Mayer, "The Space Shuttle Vehicle Checkout Involving Flight Avionics Software," AIAA Paper no. 1981-2141, pp. 174--175.
 49. Chambers, "Shuttle Avionics Integration Laboratory," 1977, p. 216.
 50. Mansfield interview, June 1, 1983.
-51. Kenneth R. Castleman, Digital Image Processing, Prentice-Hall, Englewood Cliffs, NJ, 1979, p. 389. Castleman's book contains an excellent short history of the development of image processing at the Jet Propulsion Laboratory in his Appendix I, pp. 383-400, including an effective selected bibliography.
+51. Kenneth R. Castleman, Digital Image Processing, Prentice-Hall, Englewood Cliffs, NJ, 1979, p. 389. Castleman's book contains an excellent short history of the development of image processing at the Jet Propulsion Laboratory in his Appendix I, pp. 383--400, including an effective selected bibliography.
 52. Interview with Robert Nathan, Jet Propulsion Laboratory, May 30, 1984.
 53. J. A. Dunne et al., "Digital Processing of the Mariner 6 and 7 Pictures," J. Geophys. Res., 395(1976).
 54. Interview with Albert Zobrist, Jet Propulsion Laboratory, May 23, 1984.
 55. W.B. Green and D.A. O'Handley, "Recent Developments in Digital Image Processing at the Image Processing Laboratory at the Jet Propulsion Laboratory, Proc. IEEE,60(7)822 (July 1972).
 56. R.F. Stott, "Mariner Mars 1971: Real-Time Video Data Processing," April 4, 1972, from the files of R.F. Scott, p. 3A.
 57. Stott, "Mariner Mars 1971: Real-Time Video Data Processing," April 4, 1972, p. 6.
-58. Green and O'Handley, "Recent Developments in Digital image Processing," July 1972, pp. 821-823.
+58. Green and O'Handley, "Recent Developments in Digital image Processing," July 1972, pp. 821--823.
 59. Stott, "Mariner Mars 1971: Real-Time Video Data Processing," April 4, 1972. p. 4.
-60. For a description of VICAR and its subroutines, see Chambers, Digital Image Processing, pp. 52-67, 401-411.
+60. For a description of VICAR and its subroutines, see Chambers, Digital Image Processing, pp. 52--67, 401--411.
 61. Zobrist interview, May 23, 1984.
 62. Nathan interview, May 30, 1984.
 63. R. Nathan, "Large Array VLSI Filter," Reprinted from 1983 IEEE Computer Society Workshop on Computer Architecture for Pattern Analysis and Image Database Management-CAPAIDM, Silver Spring, MD, p. 15.

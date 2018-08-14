@@ -43,14 +43,14 @@
 41. Interview with Pam Biegert, Kennedy Space Center, June 30, 1983.
 42. Deming interview.
 43. H.C. Paul, "A Standard Language for Test and Ground Operations," Proceedings of the Space Shuttle Integrated Electronics Conference, 2:355-358, Kennedy Space Center, Cocoa Beach, FL, p.358.
-44. H.C. Paul, "Launch Processing System Transition from Development to Operation," Proceedings of the 14th Space Congress, Cocoa Beach, FL, 27-29 April 1977, pp. 7.1-7.3, Canaveral Council of Technical Societies, Cocoa Beach, p. 7.3.
+44. H.C. Paul, "Launch Processing System Transition from Development to Operation," Proceedings of the 14th Space Congress, Cocoa Beach, FL, 27-29 April 1977, pp. 7.1--7.3, Canaveral Council of Technical Societies, Cocoa Beach, p. 7.3.
 45. Interview with Al Parrish, Kennedy Space Center, June 28, 1983.
 46. Space Shuttle Launch Operations Center Study, NASA-TM-X-67292, Kennedy Space Center, Cocoa Beach, FL, November 4, 1970, pp. 6.5, 6.11.
 47. A.B. Sloan, "Vandenberg Planning for the Space Transportation System," Astronaut. Aeronaut., 47 (November 1981).
 48. Interview with R.C. Bulkley, IBM, Kennedy Space Center, June 27 and 29, 1983.
 49. W.E. Parsons, "Kennedy Launch Processing System," Technology Today and Tomorrow: Canaveral Council of Technical Societies, Proceedings of the Eighth Space Congress, Cocoa Beach, FL, 19-23 April 1971, 1:11.31-11.40, Canaveral Council of Technical Societies, Cocoa Beach, FL, 1971, p. 11.34.
 50. Space Shuttle Launch Operations Center Study, pp. 2.1, 4.2.
-51. E.A. Dalke, "Unified Test Equipment: A Concept for the Shuffle Ground Test System," NASA Manned Space Center Proceedings of the Space Shuttle integrated Electronics Conference, vol. 2, pp. 329-354, Johnson Space Center, Houston, TX, p. 330.
+51. E.A. Dalke, "Unified Test Equipment: A Concept for the Shuffle Ground Test System," NASA Manned Space Center Proceedings of the Space Shuttle integrated Electronics Conference, vol. 2, pp. 329--354, Johnson Space Center, Houston, TX, p. 330.
 52. Dalke, "Unified Test Equipment," p. 348.
 53. General Electric Co., "Summary Report for the Universal Control and Display Console," NASA CR-1 15350, July 1971.
 54. Interview with Henry Paul, Kennedy Space Center, July 7, 1983.
@@ -66,7 +66,7 @@
 64. Walton interview; Paul interview.
 65. KSC-DD\~LPS\~007, October 12, 1973.
 66. Interview with Fred Heddens, IBM, Kennedy Space Center, June 27 and 29, 1983.
-67. H.C. Paul, "LPS-A System to Support the Space Shuttle," Technology Today and Tomorrow: Proceedings of the Twelfth Space Congress, Cocoa Beach, FL, 9-11 April 1975, pp. 8.3-8.7, Canaveral Council of Technical Societies, Cocoa Beach p. 8.3; Bailey interview.
+67. H.C. Paul, "LPS-A System to Support the Space Shuttle," Technology Today and Tomorrow: Proceedings of the Twelfth Space Congress, Cocoa Beach, FL, 9-11 April 1975, pp. 8.3--8.7, Canaveral Council of Technical Societies, Cocoa Beach p. 8.3; Bailey interview.
 68. Paul letter.
 69. Cunningham and Welsh, "Launch Processing System," p. 10.
 70. Bulkley interview; Bailey interview.
@@ -103,7 +103,7 @@
 101. Byrne interview, June 29, 1983.
 102. Biegert interview.
 103. Parrish interview.
-104. T.E. Utsman, "KSC Ground Support Operation and Equipment for the Space Transportation System," Shuttle Propulsion Systems Proceedings of the Winter Annual Meeting, Phoenix, AZ, 14-19 November 1982, pp. 73-77, American Society of Mechanical Engineers, New York, 1982, p. 76.
+104. T.E. Utsman, "KSC Ground Support Operation and Equipment for the Space Transportation System," Shuttle Propulsion Systems Proceedings of the Winter Annual Meeting, Phoenix, AZ, 14-19 November 1982, pp. 73--77, American Society of Mechanical Engineers, New York, 1982, p. 76.
 105. Bailey interview.
 106. Bailey interview.
 107. D.A. Springer, "The Launch Processing System for Space Shuttle," AIAA, ASME and SAE Joint Space Mission Planning and Execution Meeting, Denver, CO, July 10-12, 1973, p. 4.
@@ -113,7 +113,7 @@
 111. Interview with Jane Steams, Kennedy Space Center, June 30, 1983.
 112. Steams interview.
 113. Interview with Bobby Bruckner, Kennedy Space Center June 30, 1983.
-114. Biegert interview; T.E. Utsman, "KSC Ground Support Operation and Equipment for the Space Transportation System," Shuttle Propulsion Systems Proceedings of the Winter Annual Meeting. Phoenix, AZ, 14-19 November 1982, pp. 73-77, American Society of Mechanical Engineers, New York, 1982, p. 76.
+114. Biegert interview; T.E. Utsman, "KSC Ground Support Operation and Equipment for the Space Transportation System," Shuttle Propulsion Systems Proceedings of the Winter Annual Meeting. Phoenix, AZ, 14-19 November 1982, pp. 73--77, American Society of Mechanical Engineers, New York, 1982, p. 76.
 115. Bruckner interview.
 116. H.C. Paul, "Launch Processing System Transition from Development to Operation," p. 7.2.
 117. Walton interview.
