@@ -2,6 +2,8 @@
 
 ## Epilogue: Themes in NASA's Computing Experience {-}
 
+\pagebreakon{300}
+
 Running throughout the individual histories of American
 space flight computer systems are five themes that encapsulate NASA's
 intentions and experiences. Developing and evolving over the last
@@ -18,7 +20,7 @@ NASA had no choice but to become a leader in the development of
 real-time systems, beginning with the decision to use computers to
 support manned and unmanned flights. Including a computer on-board
 spacecraft further sealed NASA's fate as a developer and user of
-embedded computer systems-computers within larger systems replacing or
+embedded computer systems---computers within larger systems replacing or
 enhancing existing hardware. Therefore, it is in this field of computing
 that NASA has had its greatest impact.
 
@@ -54,7 +56,7 @@ custom-designed computers, NASA sought to acquire proven processors
 wherever possible. As a result, flight systems are often years behind
 the current state-of-the-art. Nevertheless, they can complete the
 missions for which they were purchased. In long-term programs, such as
-the Shuttle, processors are being replaced by newer (but not the newest)
+the Shuttle, processors are being replaced by newer (but not the *newest*)
 equipment where possible.
 
 #### Distributed Processing
