@@ -130,7 +130,7 @@ the true scale of things is established in the mind.
 The remainder of this bibliographic note is a topic-by-topic summary of
 the main sources.
 
-#### THE GEMINI DIGITAL COMPUTER
+### The Gemini Digital Computer
 
 The most useful written source for the hardware section of the chapter
 on Gemini is the NASA Project Gemini Familiarization Manual, Volume 2,
@@ -148,7 +148,7 @@ in identifying development problems and procedures. Lastly, interviews
 with Gene Cernan and John Young provided information about the system
 from the user standpoint.
 
-#### THE APOLLO COMPUTER SYSTEMS
+### The Apollo Computer Systems
 
 Sources for this chapter were primarily technical reports issued by the
 MIT Instrumentation Lab, memos on file at the Johnson Space Center, and
@@ -171,7 +171,7 @@ Experience Report: Guidance and Control Systems-Lunar Module Abort
 Guidance System (NASA-TN-D-7990, Johnson Space Center, Houston, TX, July
 1975).
 
-#### THE SKYLAB COMPUTER SYSTEM
+### The Skylab Computer System
 
 The Skylab chapter is overwhelmingly based on two excellent sources,
 both produced by IBM Corporation. They are the Design and Operational
@@ -195,7 +195,7 @@ of Johnson Space Center was able to give a perspective on the system
 from the flight controller's angle and was especially helpful regarding
 the first 2 weeks of the primary mission before the crew arrived.
 
-#### THE SHUTTLE DATA PROCESSING SYSTEM
+### The Shuttle Data Processing System
 
 At the time this volume was being written, the Shuttle was an ongoing
 project. Therefore, abundant primary source materials in the form of
@@ -214,7 +214,7 @@ specific person or a time. Everyone asked about the subject said "it
 just evolved," or "no one person thought it up," both of which are true,
 but frustrating!
 
-#### NASA STANDARD SPACECRAFT COMPUTER-1
+### NASA Standard Spacecraft Computer-1
 
 Since the origination and development of this computer took place at one
 place, Goddard Spaceflight Center, it was relatively simple to find
@@ -223,13 +223,13 @@ were the key informants in describing the design and capabilities of
 this device. Stewart led me to a documents distribution point where I
 was able to get copies of Merwarth's guide to the executive. A fine
 source of information is an article in the September 1984 issue of
-Communications of the ACM, authored by Merwarth, Stewart, and others,
+*Communications of the ACM*, authored by Merwarth, Stewart, and others,
 which tried to show the evolution of the system from its beginnings in
 the mid-1960s. A chapter on this computer, which was written for an
 early draft of the volume was later deleted because it was too much a
 restatement of previously published materials.
 
-#### COMPUTERS ON DEEP SPACE PROBES
+### Computers On Deep Space Probes
 
 The Jet Propulsion Laboratory has three methods of archiving
 documentation. One is the "Vellum File," located in the basement of the
@@ -258,7 +258,7 @@ my travels. Engineers at JPL are more introspective and more history
 conscious than others I have met. Their help is reflected in the actual
 notes to Chapters 5 and 6.
 
-#### EVOLUTION OF LAUNCH PROCESSING
+### Evolution Of Launch Processing
 
 Documentation for this chapter was hard to come by, both because the
 information was scattered among Johnson, Marshall, and Kennedy Space
@@ -275,7 +275,7 @@ the common data buffer, and Henry Paul, who headed the development
 effort. A short manuscript history by Bill Bailey of Kennedy and an
 interview with him were also very helpful.
 
-#### MISSION CONTROL
+### Mission Control
 
 Fortunately, a fair amount of original source material is available on
 the subject of mission control. Documentation for the Mercury Control
@@ -298,7 +298,7 @@ description of control considerations. George Gianopolis, Richard
 Moulder, Lloyd Jennings, Frank Singleton, Carl Johnson, and Don Royer,
 all of JPL, each contributed informative interviews for this section.
 
-#### SIMULATIONS AND IMAGE PROCESSING
+### Simulations and Image Processing
 
 Again, interviews are the backbone of my understanding any materials
 analyzed for this chapter. Jim Raney, Bob Ernull, and Ken Mansfield of
