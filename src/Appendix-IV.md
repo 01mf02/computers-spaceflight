@@ -1,6 +1,6 @@
 \pagebreakon{404}
 
-### Appendix IV: Mariner Mars 1969 Flight Program
+# Appendix IV: Mariner Mars 1969 Flight Program {-}
 
 ![Figure IV-1](images/p404.jpg)
 

@@ -225,7 +225,7 @@ makepart = heads/Part$(part) Part$(part)-intro \
 SOURCES = heads/Sources $(sort $(call hngnames,Source[0-9]))
 BOOK = $(PROLOGUE) heads/FigA \
        $(foreach part,$(PARTS),$(call makepart,$(part))) \
-       heads/Reset Epilogue $(SOURCES) heads/Reset $(POSTSRCS)
+       heads/Reset Epilogue $(SOURCES) $(POSTSRCS)
 BOOK_MD = $(BOOK:%=src/%.md)
 
 book.tex: header.tex prologue.tex meta.yaml latex.yaml $(BOOK_MD)

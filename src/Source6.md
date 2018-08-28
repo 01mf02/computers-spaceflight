@@ -1,4 +1,4 @@
-### Source Notes: Chapter Six
+#### Chapter Six
 
 1.  See General Electric Missile and Space Division, "Final Report, Voyager Spacecraft, "Volume 1, Volume IV, Book 3, Volume VII, Book 3; October 16,
 2.  E. Greenberg to T. Gottlieb, "A Proposal for the Development of a New Spacecraft System Concept," December 8, 1972. From the files of E. Greenberg.

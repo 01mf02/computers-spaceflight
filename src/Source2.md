@@ -1,4 +1,4 @@
-### Source Notes: Chapter Two
+#### Chapter Two
 
 1.  D. G. Hoag, *Apollo Navigation Guidance Computer Systems*, Report E-2411 MIT, Cambridge, MA, April 1969, p. 2.
 2.  A. L. Hopkins, "Electronic Navigator Charts Man's Path to the Moon," *Electronics*, 109 (January 9, 1967); Ralph Ragan interview, MIT, Cambridge, MA, by Ivan Ertel, April 28, 1966, Johnson Space Center transcript.

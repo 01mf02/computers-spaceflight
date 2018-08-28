@@ -1,4 +1,4 @@
-### Appendix I: Glossary Of Computer Terms
+# Appendix I: Glossary Of Computer Terms {-}
 
 \[**377-392**\]
 

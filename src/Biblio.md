@@ -1,4 +1,4 @@
-### Bibliographic Note
+# Bibliographic Note {-}
 
 The detailed references to sources given with each numbered note in the
 text serve as the primary record of the evidence used in writing this
@@ -313,9 +313,9 @@ Processing of Remotely Sensed Images, by Johannes G. Moik (NASA SP-431),
 is a good reference for NASA's work in this field.
 
 
-### Interview List
+# Interview List {-}
 
-Note: Unless identified otherwise, all persons on this list were NASA
+**Note:** Unless identified otherwise, all persons on this list were NASA
 employees at the time they were interviewed. Locations are also
 indicated at the time of the interview.
 

@@ -1,4 +1,4 @@
-### Appendix III: GOAL, A Language for Launch Processing
+# Appendix III: GOAL, A Language for Launch Processing {-}
 
 \[**399-401**\]
 
