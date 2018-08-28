@@ -1,6 +1,6 @@
 \newpageon{xi}
 
-### Acknowledgements
+# Acknowledgements {-}
 
 No author can fool himself into thinking that his work is
 entirely of his own making. In a project of this size and length, many

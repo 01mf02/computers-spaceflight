@@ -1,6 +1,6 @@
 \newpageon{vii}
 
-### Foreword
+# Foreword {-}
 
 The Editors have taken the unusual step of devoting an
 entire Supplement volume of the Encyclopedia to a single topic:

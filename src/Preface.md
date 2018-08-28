@@ -1,6 +1,6 @@
 \newpageon{ix}
 
-### Preface
+# Preface {-}
 
 NASA's use of computers in spaceflight operations is a very
 important and large topic. Any attempt to tell the complete story of the

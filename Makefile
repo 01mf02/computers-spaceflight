@@ -1,6 +1,6 @@
 .SECONDARY:
 
-PROLOGUE = Foreword Preface Acknow heads/Main Computing
+PROLOGUE = Foreword Preface Acknow heads/Main heads/Reset Computing
 POSTSRCS = Biblio Appendix-I Appendix-II Appendix-III Appendix-IV
 WILDFILES = $(PROLOGUE) Part?-intro Ch?-? Epilogue Source? $(POSTSRCS)
 
