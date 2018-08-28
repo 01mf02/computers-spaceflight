@@ -21,11 +21,11 @@ oral interviews, with the addition of an extensive list of technical
 material.
 
 Identification of source materials was conducted in several cycles.
-First, a comprehensive search through standard references, such as The
-Applied Science and Technology Index, was made to identify secondary
+First, a comprehensive search through standard references, such as
+*The Applied Science and Technology Index*, was made to identify secondary
 sources that dealt with NASA's use of computers. The period surveyed was
-1945 to 1981. Articles were found in journals such as Electronics,
-Journal of Spacecraft and Rockets, Journal of Guidance and Control, and
+1945 to 1981. Articles were found in journals such as *Electronics*,
+*Journal of Spacecraft and Rockets*, *Journal of Guidance and Control*, and
 various IBM, American Institute of Aeronautics and Astronautics, and
 American Federation of Information Processing Societies publications.
 This search revealed that even though NASA is critically dependent on
@@ -34,8 +34,8 @@ amounts of material have been written on the space program in general,
 relatively little has been published in public journals or in books on
 spaceflight specifically treating the use of computers. Most of what has
 been published is short and far from comprehensive. In books about space
-projects heavily dependent on computers, such as NASA's own Chariots for
-Apollo, generally nothing is said about the configuration, programming,
+projects heavily dependent on computers, such as NASA's own *Chariots for
+Apollo*, generally nothing is said about the configuration, programming,
 or operation of those computers. Thus, the general public, even the
 technically sophisticated public, is largely in the dark about the
 specifics of NASA's computer use. That, of course, is one reason why
@@ -133,12 +133,12 @@ the main sources.
 ### The Gemini Digital Computer
 
 The most useful written source for the hardware section of the chapter
-on Gemini is the NASA Project Gemini Familiarization Manual, Volume 2,
+on Gemini is the *NASA Project Gemini Familiarization Manual*, Volume 2,
 published by McDonnell Corporation in 1965. This manual contains a
 detailed hardware description of the Gemini digital computer, its
 location in the spacecraft, and drawings of the user interfaces. For the
 software development cycle and contents of the Gemini software loads,
-Project Gemini: A Technical Summary, (NASA CR-1106, 1968) by P. W. Malik
+*Project Gemini: A Technical Summary*, (NASA CR-1106, 1968) by P. W. Malik
 and G. A. Souris, is the most comprehensive. Ivan Ertel, then of the
 Manned Spacecraft Center History Office, conducted extensive interviews
 with IBM personnel who worked on the Gemini computer during a visit to
@@ -153,10 +153,10 @@ from the user standpoint.
 Sources for this chapter were primarily technical reports issued by the
 MIT Instrumentation Lab, memos on file at the Johnson Space Center, and
 some very illuminating interviews. The best hardware description of the
-Block II computer is in R. Alonso and A. L. Hopkins, The Apollo Guidance
-Computer (NASA-CR-1 18183, August 1963). An introduction to developing
-software for the computer is B. I. Savage and A. Drake, AGC4 Basic
-Training Manual (MIT, January 1967). Copies of these are available at
+Block II computer is in R. Alonso and A. L. Hopkins, *The Apollo Guidance
+Computer* (NASA-CR-118183, August 1963). An introduction to developing
+software for the computer is B. I. Savage and A. Drake, *AGC4 Basic
+Training Manual* (MIT, January 1967). Copies of these are available at
 Johnson Space Center. For NASA's view of the hardware and software
 difficulties in developing the onboard computer, the files of Howard W.
 Tindall are the most helpful. These are also at Johnson. The best
@@ -166,17 +166,17 @@ development effort and later in the Shuttle program. Both were extremely
 candid and very informative. Transcribed interviews of David Hoag and
 Ralph Ragan of MIT were also helpful. Astronaut users Vance Brand, Gene
 Cernan, and John Young gave good insights in their interviews. For the
-Abort Guidance Section, the best source is P. M. Kurten, Apollo
-Experience Report: Guidance and Control Systems-Lunar Module Abort
-Guidance System (NASA-TN-D-7990, Johnson Space Center, Houston, TX, July
+Abort Guidance Section, the best source is P. M. Kurten, *Apollo
+Experience Report: Guidance and Control Systems---Lunar Module Abort
+Guidance System* (NASA-TN-D-7990, Johnson Space Center, Houston, TX, July
 1975).
 
 ### The Skylab Computer System
 
 The Skylab chapter is overwhelmingly based on two excellent sources,
-both produced by IBM Corporation. They are the Design and Operational
-Assessment of Skylab ATMDC/WCIU Flight Hardware and Software (IBM No.
-74W-00103, May 9, 1974) and the Skylab Reactivation Mission (IBM No.
+both produced by IBM Corporation. They are the *Design and Operational
+Assessment of Skylab ATMDC/WCIU Flight Hardware and Software* (IBM No.
+74W-00103, May 9, 1974) and the *Skylab Reactivation Mission* (IBM No.
 79W-0005, September 12, 1979). The Skylab hardware and software
 development was an operation largely local to Huntsville, Alabama, where
 IBM had a continuing corporate presence since the early 1960s when work
@@ -250,7 +250,7 @@ project director refused to let me examine his and his chief deputy's
 office files. No reason was given. In the face of the existence of the
 actual documents, I thought it was foolish to speculate on any matters
 possibly contained within them, as a later historian can examine the
-materials after they are retired-assuming, that is, that they are not
+materials after they are retired---assuming, that is, that they are not
 destroyed beforehand.
 
 Personal contacts at the Lab were among the most satisfying I had in all
@@ -265,8 +265,8 @@ information was scattered among Johnson, Marshall, and Kennedy Space
 Centers, and because pre-Shuttle primary sources at both Marshall and
 Johnson had been destroyed. However, the current Launch Processing
 System is heavily documented as to function because it is still
-operating. Also, Kennedy preliminary studies such as the Space Shuttle
-Launch Operations Study are in archives, and published summaries by IBM
+operating. Also, Kennedy preliminary studies such as the *Space Shuttle
+Launch Operations Study* are in archives, and published summaries by IBM
 tended to be historical in nature. Therefore, the present System is easy
 to describe. For specifics of origin, though, I am again indebted to my
 informants, particularly Thomas S. Walton, who lived through the entire
@@ -308,8 +308,8 @@ helped with the engineering simulators located there. Finally, Bob
 Nathan of JPL, founder of image processing, and his colleague Al Zobrist
 clarified the complex world of digital imaging. Almost all written
 materials used as sources for this chapter were either given to me by
-these informants, or they directed me to them. The monograph Digital
-Processing of Remotely Sensed Images, by Johannes G. Moik (NASA SP-431),
+these informants, or they directed me to them. The monograph *Digital
+Processing of Remotely Sensed Images*, by Johannes G. Moik (NASA SP-431),
 is a good reference for NASA's work in this field.
 
 
