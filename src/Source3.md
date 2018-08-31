@@ -28,7 +28,7 @@
 26. IBM, Design and Operation Assessment, p. 1.1.24.
 27. Ibid., p. 1.1.3.
 28. For the complete story, see Frederick P. Brooks, The Mythical Man-Month, Addison-Wesley, Reading, MA, 1975, Harlan D. Mills, Software Productivity, Little, Brown, and Co., Boston, MA, 1983.
-29. Madeline S. Johnson, MIT's Role in Project Apollo: The Software Effort, Charles Stark Draper Laboratory, Cambridge, MA, 1971, vol., 5, p. 18.
+29. Madeline S. Johnson, MIT's Role in Project Apollo: The Software Effort, Charles Stark Draper Laboratory, Cambridge, MA, 1971, vol. 5, p. 18.
 30. Copeland interview.
 31. IBM, Design and Operation Assessment, p. 1.2.8.
 32. Ibid., p. 1.2.9.
