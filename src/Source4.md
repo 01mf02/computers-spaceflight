@@ -130,7 +130,7 @@
 128. C.C. Kraft jr. "Automatic Data Processing Equipment (ADPE) Acquisition Plan for the Software Production Facility (SPF), Memorandum, Johnson Space Center, Houston, TX, April 18, 1980, JSC History Office.
 129. Garman, *Managing the Software Development*, p. 6.
 130. Aaron interview.
-131. Sullivan interview,
+131. Sullivan interview.
 132. J.R. Garman, "Software Production Facility: Management Summary---Concepts and Schedule Status," NASA Data Systems and Analysis Directorate, Spacecraft Software Division, February 10, 1981, p. 12.
 133. Sullivan interview.
 134. Macina interview.
@@ -161,7 +161,7 @@
 159. Aaron interview.
 160. Hughes interview.
 161. Interview with Vance Brand, Johnson Space Center, June 2, 1983.
-162. Interview with Henry Hartsfield, Johnson Space Center, June 2, 1983. 41
+162. Interview with Henry Hartsfield, Johnson Space Center, June 2, 1983.
 163. Young interview; Brand interview; Interview with Terry Hart, Johnson Space Center, June 10, 1983.
 164. Hart interview.
 165. "Main Engine Controller Location," undated charts, no author, obtained from Russ Mattox, Marshall Space Flight Center.

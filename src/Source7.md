@@ -92,8 +92,8 @@
 90. Paul interview; Byrne, et al., "Launch Processing System," p. 82.
 91. Byrne interview, June 29, 1983.
 92. Paul interview.
-93. Byrne interview, June 29, 1983
-94. Byrne interview, June 29, 1983
+93. Byrne interview, June 29, 1983.
+94. Byrne interview, June 29, 1983.
 95. Byrne interview, July 8, 1983.
 96. CCMS Hardware Project Requirements, p. 197.
 97. Byrne interview, July 8, 1983.

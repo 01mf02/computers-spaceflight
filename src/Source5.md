@@ -12,7 +12,7 @@
 10. N.H. Herman and U.S. Lingon, "Mariner 4 Timing and Sequencing." Astronaut. Aeronaut., 40 (October 1965).
 11. Interview with Edward Greenberg, Jet Propulsion Laboratory, May 30, 1984.
 12. Greenberg interview.
-13. J.R. Scull, "Mariner Mars 1969 Navigation, Guidance, and Control," Jet Propulsion Lab, Pasadena, CA, 1970; A.J. Aukstikalnis, "Spacecraft Computers: A Survey," Astronaut. Aeronaut., 33 (July-August 1974); C.R. Koppes, The Jet Propulsion Laboratory and the American Space Program, Yale University Press, New Haven, CT, 1982.
+13. J.R. Scull, "Mariner Mars 1969 Navigation, Guidance, and Control," Jet Propulsion Lab, Pasadena, CA, 1970; A.J. Aukstikalnis, "Spacecraft Computers: A Survey," Astronaut. Aeronaut., 33 (July--August 1974); C.R. Koppes, The Jet Propulsion Laboratory and the American Space Program, Yale University Press, New Haven, CT, 1982.
 14. Malm interview.
 15. Jet Propulsion Laboratory, Mariner Mars 1969 Final Project Report: Development, Design, and Test, Volume 1, Tech. Rep. no. 32-1460, Pasadena CA, November 1, 1970.
 16. Jet Propulsion Laboratory, Development, Design. and Test, p. 325.
@@ -37,7 +37,7 @@
 35. A.J. Hooke, "Mariner Mission to Venus and Mercury," p. 29.
 36. Jet Propulsion Laboratory, Development and Testing of the Central Computer and Sequencer for the Mariner Mars 1971 Spacecraft, p. 4.
 37. Hooke, "Mariner 10 Spacecraft Computer," p. 285.
-38. A. Avizienis, F.P. Mathur, D. A. Rennels, and J.A. Rohr, "Automatic Maintenance of Aerospace Computers and Spacecraft Information and Control Systems," Tech. Rep. no. 32-1449, Jet Propulsion Laboratory, Pasadena, CA, 1969, p.1.
+38. A. Avizienis, F.P. Mathur, D. A. Rennels, and J.A. Rohr, "Automatic Maintenance of Aerospace Computers and Spacecraft Information and Control Systems," Tech. Rep. no. 32-1449, Jet Propulsion Laboratory, Pasadena, CA, 1969, p. 1.
 39. Avizienis et al., "Automatic Maintenance of Aerospace Computers," pp. 10--11.
 40. Avizienis et al., "Automatic Maintenance of Aerospace Computers," p. 10.
 41. A. Avizienis, "Design Methods for Fault-Tolerant Navigation Computers," Tech Rep. no. 32-1409, Jet Propulsion Laboratory, Pasadena, CA, October 15, 1969, p. 4.
@@ -46,7 +46,7 @@
 44. Avizienis et al, "Automatic Maintenance of Aerospace. Computers," p. 10.
 45. Avizienis, An Experimental Self-Repairing Computer, p. E31.
 46. Avizienis, An Experimental Self-Repairing Computer. p. E32.
-47. A. Avizienis, "The STAR Computer: A Self-Testing-and-Repairing Computer for spacecraft Guidance, Control, and Automatic Maintenance," in The Application of Digital Computers to Guidance and Control, AGARD, London, June 2, 1970, p.17.1
+47. A. Avizienis, "The STAR Computer: A Self-Testing-and-Repairing Computer for spacecraft Guidance, Control, and Automatic Maintenance," in The Application of Digital Computers to Guidance and Control, AGARD, London, June 2, 1970, p. 17.1.
 48. Avizienis, An Experimental Self-Repairing Computer, p. E3 1.
 49. Avizienis et al., "Automatic Maintenance of Aerospace Computers," p. 3; Avizienis, "Design Methods for Fault-Tolerant Navigation Computers," p. 7.
 50. Avizienis et al., "The STAR (Self-Testing and Repairing) Computer: An Investigationof the Theory and Practice of Fault-Tolerant Computer Design," IEEE Trans. Comput., C (1971), p. 1316.
@@ -90,7 +90,7 @@
 88. Kohl, Functional Requirement Viking Orbiter 1975 Flight Equipment Computer Command Subsystem Hardware; Kohl, Functional Requirement Viking Orbiter 1975 Flight Equipment Computer Command Subsystem Software.
 89. Proud et al., Viking 75 Orbiter Computer Command Subsystem Flight Software Design Description, p. 4.2.
 90. Proud et al., Viking 75 Orbiter Computer Command Subsystem Flight Software Design Description, p. 4.1.
-91. Proud et al., Viking 75 Orbiter Computer Command Subsystem Flight Software Design Description, p.4.4
+91. Proud et al., Viking 75 Orbiter Computer Command Subsystem Flight Software Design Description, p. 4.4.
 92. Proud et al., Viking 75 Orbiter Computer Command Subsystem Flight software Design Description, p. 5.7.
 93. Martin-Marietta Corp., Viking Software Data, Rome Air Development Center, TR-77-168, p. 107.
 94. B.A. Claussen II and R.E. Wachs, "Software First: Our Viking Experience and Continuing Research," Proceedings of the 1977 Summer Computer Simulation Conference, New York: AIAA, 1977, p. 108.

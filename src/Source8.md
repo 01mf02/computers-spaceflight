@@ -35,7 +35,7 @@
 33. Philco Corporation', "IMCC Systems and Performance Requirements," p. 4.3.5.1.
 34. IBM Corporation, Real-Time Computer Complex for NASA Manned Spacecraft Center, Houston, Texas, IBM Federal Systems Division, Rockville, MD, September 1, 1962, pp. 1.1, 1.2, 2.5, 2.53.
 35. IBM Corporation, Project Gemini Final Report-Summary, NASA CR-72180, no date, p. 2.
-36. IBM Corporation, Project Gemini Final Report-Summary, no date, p. 2; IBM Corporation, Real-Time Computer Complex for NASA Manned Spacecraft Center,
+36. IBM Corporation, Project Gemini Final Report-Summary, no date, p. 2; IBM Corporation, Real-Time Computer Complex for NASA Manned Spacecraft Center, pp. 2.51, 3.5.
 37. IBM Corporation, Project Gemini Final Report-Summary, no date, p, 39.
 38. Corliss, Space Tracking and Data Acquisition Network, p. 145.
 39. Stokes interview, June 1, 1983.
@@ -53,7 +53,7 @@
 51. James, "Evolution of Real-Time Computer Systems," p. 424.
 52. B.C. Hacker and J.M. Grimwood, [On the Shoulders of Titans](http://www.hq.nasa.gov/office/pao/History/SP-4203/cover.htm), NASA SP-4203, 1977, p. 386.
 53. Stokes interview, June 14, 1983.
-54. R.C. Seamans, RTCC Computer Requirement for Project Apollo, memorandum, Washington, D.C., October 7, 1965, Johnson Space Center History Office,
+54. R.C. Seamans, RTCC Computer Requirement for Project Apollo, memorandum, Washington, D.C., October 7, 1965, Johnson Space Center History Office.
 55. Pollen interview, June 13, 1983.
 56. Stokes, "Managing the Development of Large Software Systems-Apollo Real-Time Control Center," IEEE Proc., A/3 1-A/3 15, p. 1(1970).
 57. Stokes interview, June 14, 1983.

@@ -1,6 +1,6 @@
 #### Chapter Six
 
-1.  See General Electric Missile and Space Division, "Final Report, Voyager Spacecraft, "Volume 1, Volume IV, Book 3, Volume VII, Book 3; October 16,
+1.  See General Electric Missile and Space Division, "Final Report, Voyager Spacecraft, "Volume 1, Volume IV, Book 3, Volume VII, Book 3; October 16, 1967.
 2.  E. Greenberg to T. Gottlieb, "A Proposal for the Development of a New Spacecraft System Concept," December 8, 1972. From the files of E. Greenberg.
 3.  Interview with Edward H. Kopf, Jet Propulsion Laboratory, May 18, 1984.
 4.  E. C. Litty and R.D. Rasmussen, "A Voyager Attitude Control Perspective on Fault Tolerant Systems," AIAA Paper 81-1812, 1981.
@@ -26,7 +26,7 @@
 24. Kopf interview, May 18, 1984.
 25. Charlan interview.
 26. Interview with Edward Greenberg, Jet Propulsion Laboratory, May 30, 1984.
-27. Telephone interview with Wayne Kohl, Jet Propulsion Laboratory, January
+27. Telephone interview with Wayne Kohl, Jet Propulsion Laboratory, January 31, 1985.
 28. Kopf interview.
 29. Telephone interview with Sam Deese, Jet Propulsion Laboratory, January 31, 1985.
 30. Raymond L. Heacock, comments on the draft of this chapter, July 23, 1985.
@@ -96,7 +96,7 @@
 94. P. Lecoq and F. Lesh, "Software Techniques for a Distributed Real-Time Processing System," NAECON \`76 Record, New York: IEEE, 1976, p. 291.
 95. Rennels et al., Unified Data System" p. 285.
 96. Kopf interview.
-97. P.H. Stakem, "One Step Forward - Three Steps Backup: Computing in the U.S. Space Program," Byte, September 1981, p. 118
+97. P.H. Stakem, "One Step Forward - Three Steps Backup: Computing in the U.S. Space Program," *Byte*, September 1981, p. 118.
 98. Kohl, Galileo Orbiter Flight Equipment, p. 144.
 99. Stakem, "One Step Forward - Three Steps Backup," p. 132.
 100. Interview with John Zipse, Jet Propulsion Laboratory, May 22, 1984.
@@ -107,7 +107,7 @@
 105. Zipse interview.
 106. Zipse Interview.
 107. Jones and Landano, "Galileo Spacecraft System Design," p. 12.
-108. W.H. Kohl, Functional Requirement Galileo Orbiter Flight Equipment Command and Data Subsystem, No. GGL-4-2006, Pasadena, CA., Jet Propulsion Laboratory, March 5, 1981, pp. 101--102,
+108. W.H. Kohl, Functional Requirement Galileo Orbiter Flight Equipment Command and Data Subsystem, No. GGL-4-2006, Pasadena, CA., Jet Propulsion Laboratory, March 5, 1981, pp. 101--102.
 109. Zipse interview; O.W. Adams, Project Galileo: Software Requirements Document, Command and Data Subsystem, 625-340-006000, Rev. A, Jet Propulsion Laboratory, Pasadena, CA, January 16, 1984, p. 13.
 110. Zipse interview.
 111. Kohl, Galileo Orbiter Flight Equipment, pp. 89--90.
