@@ -92,7 +92,7 @@
 90. Interview with Frank Jordan, Jet Propulsion Laboratory, May 31, 1984.
 91. NASA, Mariner-Venus 1967: Final Project Report, NASA SP-190, Washington, D.C., 1971, pp. 166, 182.
 92. Jet Propulsion Laboratory, Surveyor Final Project Report, Volume I, Tech. Rep. no. 32-1265, Jet Propulsion Laboratory, Pasadena, CA, July 1, 1969, p. 142.
-93. Jet Propulsion Laboratory, Mariner Mars 1969 Final Project Report: Development, Design, and Test, Vol. 1, Tech. Rep. no. 32-1460, Jet Propulsion Laboratory, Pasadena, CA, November 1, 1970, p.556.
+93. Jet Propulsion Laboratory, Mariner Mars 1969 Final Project Report: Development, Design, and Test, Vol. 1, Tech. Rep. no. 32-1460, Jet Propulsion Laboratory, Pasadena, CA, November 1, 1970, p. 556.
 94. Royer interview, June 7, 1984; Jet Propulsion Laboratory, Mariner Mars 1971 Project Final Report, Vol. III, Tech. Rep. No. 32-1550, Jet Propulsion Laboratory, Pasadena, CA, July 1, 1973, p. 27; Interview with Richard Moulder, Jet Propulsion Laboratory, May 21, 1984.
 95. Royer interview, June 7, 1984.
 96. Jet Propulsion Laboratory, The Deep Space Network, Space Programs Summary 37-66, Vol. II, Jet Propulsion Laboratory, Pasadena, CA, November 30, 1970, p. 91.
@@ -106,7 +106,7 @@
 104. Royer interview, June 7, 1984; Interview with Frank Singleton, Jet Propulsion Laboratory, May 17, 1984.
 105. Carl W. Johnson, letter to the author, September 12, 1985.
 106. Moulder interview, May 21, 1984; Interview with Lloyd Jennings, Jet Propulsion Laboratory, May 15, 1984.
-107. G.A. Madrid and P.T. Westmoreland, "Adaptation of a Software Development Methodology to the Implementation of a Large-Scale Data Acquisition and Control System," AIAA paper 83-2412, 1983, p.360.
+107. G.A. Madrid and P.T. Westmoreland, "Adaptation of a Software Development Methodology to the Implementation of a Large-Scale Data Acquisition and Control System," AIAA paper 83-2412, 1983, p. 360.
 108. Gianopolis interview, June 4, 1984.
 109. Jet Propulsion laboratory, Mariner Mars 1969 Final Project Report, November 1, 1970,vol. 1, p. 554.
 110. C. Johnson interview, May 23, 1984.

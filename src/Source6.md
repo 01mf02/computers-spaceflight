@@ -85,12 +85,12 @@
 83. Kopf interview, May 18, 1984.
 84. B. Larman, Functional Requirement Galileo Orbiter Data System Intercommunication Requirements, GLL-3-270, Rev. A, Pasadena, CA Jet Propulsion Lab, March 27, 1981, p. 35.
 85. Larman, Functional Requirement Galileo Orbiter Data System Intercommunication Requirements, p. 37.
-86. Larman, Functional Requirement Galileo Orbiter Data System Intercommunication Requirements, p.34.
+86. Larman, Functional Requirement Galileo Orbiter Data System Intercommunication Requirements, p. 34.
 87. Telephone Interview with Bill Tindal, Washington, D.C., August 10, 1984.
 88. D. A. Rennels, B. Riss-Vestergaard, and V.C. Tyree, "The Unified Data System: A Distributed Processing Network for Control and Data Handling on a Spacecraft," NAECON \`76 Record, New York: IEEE, 1976, p. 283.
 89. Greenberg interview; Rennels et al Unified Data System," p. 283.
-90. D.A. Rennels, "Reconfigurable Modular Computer Networks for Spacecraft On-board Processing," Computer, July 1978, p.57.
-91. Rennels et al., "Unified Data System," p.284.
+90. D.A. Rennels, "Reconfigurable Modular Computer Networks for Spacecraft On-board Processing," Computer, July 1978, p. 57.
+91. Rennels et al., "Unified Data System," p. 284.
 92. Rennels, "Reconfigurable Modular Computer Networks," p. 54.
 93. Rennels, "Reconfigurable Modular Computer Networds, p. 49.
 94. P. Lecoq and F. Lesh, "Software Techniques for a Distributed Real-Time Processing System," NAECON \`76 Record, New York: IEEE, 1976, p. 291.
@@ -115,7 +115,7 @@
 113. Kohl, Galileo Orbiter Flight Equipment, p. 48.
 114. D. Johnson interview.
 115. O.W. Adams, Project Galileo.- Software Requirements Document Command and Data Subsystem, 625-340-006000, Rev. A, Jet Propulsion Laboratory, Pasadena, CA, Jan 16, 1984, pp. 144--145.
-116. Adams, Project Galileo: Software Requirements, p.215.
+116. Adams, Project Galileo: Software Requirements, p. 215.
 117. C. Chadwick to W.J. O'Neil, "Some Thoughts on the HAL/S System," June 19, 1978, Galileo file, Jet Propulsion Laboratory Record Center.
 118. Adams, Project Galileo: Software Requirements, p. 12.
 119. Henry Kleine, "Software Design and Development Language," Jet Propulsion Laboratory Publication 77-24, Rev. 1, August 1, 1979.

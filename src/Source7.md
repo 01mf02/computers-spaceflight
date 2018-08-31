@@ -33,16 +33,16 @@
 31. W.O. Robeson to Mr. Siepert, Deputy Director of NASA Kennedy Space Center, "Optimum Computer Support to NASA," IBM Corp., Cape Canaveral, FL, July II, 1965, Kennedy Archives.
 32. Deming interview.
 33. IBM Corporation, Saturn Software Systems Development Study, December 8, 1972, p. 5.1.
-34. IBM Corporation, Saturn Software Systems, p.5.2.
+34. IBM Corporation, Saturn Software Systems, p. 5.2.
 35. Deming interview.
 36. IBM Corporation, Saturn Software Systems, December 8, 1972.
 37. IBM Corporation, Saturn Software Systems, p. 4.16.
 38. IBM Corporation, Saturn Software Systems, pp. 4.18, 2.3.
-39. James J. Hart "Analysis Apollo Launch Operating Experience" in Space Shuttle Technology Conference, ASA, Kennedy Space Center, TR-1113, May 3, 1971, p.15.
+39. James J. Hart "Analysis Apollo Launch Operating Experience" in Space Shuttle Technology Conference, ASA, Kennedy Space Center, TR-1113, May 3, 1971, p. 15.
 40. Hart, "Analysis of Apollo Launch Operating Experience," p. 26.
 41. Interview with Pam Biegert, Kennedy Space Center, June 30, 1983.
 42. Deming interview.
-43. H.C. Paul, "A Standard Language for Test and Ground Operations," Proceedings of the Space Shuttle Integrated Electronics Conference, 2:355-358, Kennedy Space Center, Cocoa Beach, FL, p.358.
+43. H.C. Paul, "A Standard Language for Test and Ground Operations," Proceedings of the Space Shuttle Integrated Electronics Conference, 2:355-358, Kennedy Space Center, Cocoa Beach, FL, p. 358.
 44. H.C. Paul, "Launch Processing System Transition from Development to Operation," Proceedings of the 14th Space Congress, Cocoa Beach, FL, 27-29 April 1977, pp. 7.1--7.3, Canaveral Council of Technical Societies, Cocoa Beach, p. 7.3.
 45. Interview with Al Parrish, Kennedy Space Center, June 28, 1983.
 46. Space Shuttle Launch Operations Center Study, NASA-TM-X-67292, Kennedy Space Center, Cocoa Beach, FL, November 4, 1970, pp. 6.5, 6.11.

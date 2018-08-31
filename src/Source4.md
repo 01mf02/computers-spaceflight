@@ -30,7 +30,7 @@
 28. Killingbeck interview.
 29. "New Family of Computers: Military and Aerospace," *Electronics*, 42 (October 31, 1966).
 30. IBM, *Space Shuttle Advanced System/4 Pi Model AP-101 Central Processor Unit*, File no. 75-A97-001, 1975, 4.64; see also Cooper, "Shuttle Computer Complex," p. 7.
-31. A.J. Macina "Space Shuttle Program," Part I, Memorandum, IBM Federal Systems Division, Houston, p. 16; see also Cooper, "Shuttle Computer Complex," p.5.
+31. A.J. Macina "Space Shuttle Program," Part I, Memorandum, IBM Federal Systems Division, Houston, p. 16; see also Cooper, "Shuttle Computer Complex," p. 5.
 32. IBM, *Model AP-101 Central Processor Unit*, 1.2, 2.8.
 33. Marina, "Space Shuttle," Part I, p. 16.
 34. Cooper, "Shuttle Computer Complex", p. 4.
@@ -122,7 +122,7 @@
 120. David Gifford and Alfred Spector, ed., "Case Study: The Space Shuttle Primary Computer System," *Commun. ACM*, 27, 881 (September 1984).
 121. Boehm, *Information Processing Implications*, p. 35.
 122. Gifford and Spector, "Case Study," p. 885.
-123. J.R. Garman, *Managing the Software Development for the Space Shuttle Orbiter*, Johnson Space Center, Houston, TX, December 9, 1981, JSC History Office, p.10.
+123. J.R. Garman, *Managing the Software Development for the Space Shuttle Orbiter*, Johnson Space Center, Houston, TX, December 9, 1981, JSC History Office, p. 10.
 124. Garman interview, June 1, 1983.
 125. Sullivan interview.
 126. Macina interview.

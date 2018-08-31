@@ -89,12 +89,12 @@
 87. Battin and Martin, "Computer Controlled Steering," p. 403.
 88. Hopkins, "Electronic Navigator," p. 117.
 89. Copps, Recovery From Transient Failures, p. 3.
-90. D. J. Bowler, Apollo Guidance Computer Improvement Study-Apollo Guidance, Navigation, and Control, NASA CR-114898, MIT, Cambridge, MA, 1970, p.2.
+90. D. J. Bowler, Apollo Guidance Computer Improvement Study-Apollo Guidance, Navigation, and Control, NASA CR-114898, MIT, Cambridge, MA, 1970, p. 2.
 91. George W. Cherry to multiple addresses, "Exegesis of the 1201 and 1202 Alarms Which Occurred During the \[Mission G\] Lunar Landing," memo no. 370-69, MIT Instrumentation Lab, Cambridge, MA, August 4, 1969, JSC History Office.
 92. Hopkins, "Electronic Navigator," p. 117; T. Lawton and C.A. Muntz, Organization of Computation and Control of the Apollo Guidance Computer, MIT Instrumentation Lab., Cambridge, MA, E-1758, 1965, p. 15.
 93. Drake and Savage, AGC4, p. 1.21.
 94. Garman interview.
-95. Hopkins, "Design Concepts," June 1963, pp. 2.8--2.9; Lawton and Muntz, Computation and Control, p.15.
+95. Hopkins, "Design Concepts," June 1963, pp. 2.8--2.9; Lawton and Muntz, Computation and Control, p. 15.
 96. Gatman interview.
 97. Raytheon Corporation, Final Report, p. 2.32.
 98. Howard "Bill Tidall to multiple addresses, "Spacecraft Computer Program Names," memo, May 23, 1967, JSC History Office.
