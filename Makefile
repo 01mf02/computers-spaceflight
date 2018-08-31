@@ -235,4 +235,4 @@ book.pdf: book.tex
 	latexmk -pdf $<
 
 book.%: $(BOOK_MD)
-	pandoc -s --toc meta.yaml $(BOOK_MD) -o $@
+	pandoc -s --smart --toc meta.yaml $(BOOK_MD) -o $@
