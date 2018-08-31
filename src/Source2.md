@@ -3,28 +3,28 @@
 1.  D. G. Hoag, *Apollo Navigation Guidance Computer Systems*, Report E-2411 MIT, Cambridge, MA, April 1969, p. 2.
 2.  A. L. Hopkins, "Electronic Navigator Charts Man's Path to the Moon," *Electronics*, 109 (January 9, 1967); Ralph Ragan interview, MIT, Cambridge, MA, by Ivan Ertel, April 28, 1966, Johnson Space Center transcript.
 3.  Hoag, *Apollo Navigation Systems*, p. 3.
-4.  Hoag, *Apollo Navigation Systems*, pp. 3--4
+4.  Hoag, *Apollo Navigation Systems*, pp. 3--4.
 5.  P. Hersch, "Engineers Reassessing Electronic Hardware in the Light of Some Near Failures on Apollo 12" *IEEE Spec.*, 23 (January 1970).
 6.  B. K. Thomas, Jr., "Apollo 8 Proves Value of Onboard Control," *Aviation Week*, 43 (January 20, 1969).
 7.  Steve Bales interview, Johnson Space Center, Houston, TX, May 31, 1983; Howard W. Tindall, notes in review of draft chapter, August 1985.
 8.  John R. Garman interview, Johnson Space Center, Houston, TX, May 25, 1983 and June 1, 1983.
-9.  C. G. Brooks, L. S. Grimwood, and L. S. Swenson, Jr., [Chariots or Apollo: A History of Manned Lunar Spacecraft](http://www.hq.nasa.gov/office/pao/History/SP-4205/cover.html); NASA SP-205 Washington, D.C., 1979, p. 355.
+9.  C. G. Brooks, L. S. Grimwood, and L. S. Swenson, Jr., [*Chariots for Apollo: A History of Manned Lunar Spacecraft*](http://www.hq.nasa.gov/office/pao/History/SP-4205/cover.html); NASA SP-4205 Washington, D.C., 1979, p. 355.
 10. Hopkins, "Electronic Navigator," p. 116.
-11. Brooks, Grimwood, and Swenson, [Chariots for Apollo](http://www.hq.nasa.gov/office/pao/History/SP-4205/cover.html), pp. 38--39
+11. Brooks, Grimwood, and Swenson, [*Chariots for Apollo*](http://www.hq.nasa.gov/office/pao/History/SP-4205/cover.html), pp. 38--39.
 12. Ragan interview.
 13. Hoag, Apollo Navigation Systems, p. 5.
 14. Ragan interview.
-15. Eldon Hall lecture, "The Apollo Guidance Computer-A Designer's View," Digital Computer Museum, Marlboro, MA, June 10, 1982, transcript at museum's Boston location, p. 4.
-16. P. G. Felleman and D. C. Fraser, "Digital Fly-by-Wire: Computers Lead the Way," Astronaut. and Aeronaut., 30 (July-August 1974).
+15. Eldon Hall lecture, "The Apollo Guidance Computer---A Designer's View," Digital Computer Museum, Marlboro, MA, June 10, 1982, transcript at museum's Boston location, p. 4.
+16. P. G. Felleman and D. C. Fraser, "Digital Fly-by-Wire: Computers Lead the Way," *Astronaut. and Aeronaut.*, 30 (July--August 1974).
 17. H. J. Goett to G. Low, "Recommendations for Apollo On-board Guidance Computer," June 6, 1961, JSC History Office.
 18. L. A. Wood to R. Chilton, NASA Space Task Group, "Information of RCA Computers Adaptable to Guidance," June 6, 1961, JSC History Office.
 19. R. G. Chilton to multiple addresses, NASA Space Task Group, "Discussions at Goddard of a Possible Joint Development Program for Airborne Computers for OAO and Apollo," memo, June 6, 1961, JSC History Office.
 20. R. Alonso to multiple addresses, MIT, "Review of Saturn Computer Discussions," memo, June 27, 1961, JSC History Office.
 21. D. W. Gilbert to multiple addresses, JSC, "Guidance Computer for Apollo," memo, July 9, 1963, JSC.
-22. Maj. Gen. Samuel C. Phillips, deputy director of the Apollo Program, reported on a meeting to discuss the use of the triple modular redundant Saturn launch vehicle computer in Apollo. S. C. Phillips to multiple addresses, "Saturn V/Apollo Spacecraft Guidance Computer Conference," memo, May 14, 1964, JSC History Office.
+22. Maj. Gen. Samuel C. Phillips, deputy director of the Apollo Program, reported on a meeting to discuss the use of the triple modular redundant Saturn launch vehicle computer in Apollo. S. C. Phillips to multiple addresses, "*Saturn V*/Apollo Spacecraft Guidance Computer Conference," memo, May 14, 1964, JSC History Office.
 23. Hopkins, "Electronic Navigator", p. 110.
 24. Ragan interview.
-25. E. C. Hall, Reliability History of the Apollo Guidance Computer;. NASA CR-140340 MIT, Cambridge, MA,1972, p. 25.
+25. E. C. Hall, *Reliability History of the Apollo Guidance Computer*, NASA CR-140340 MIT, Cambridge, MA, 1972, p. 25.
 26. C. D. Brady to multiple addresses, "Integrated Circuit Packages for the AGC," memo, June 19, 1964, JSC History Office.
 27. D. G. Hoag interview, MIT, Cambridge, MA, by Ivan Ertel, April 29, 1966, Johnson Space Center transcript.
 28. Brooks, Grimwood, and Swenson, [Chariots for Apollo](http://www.hq.nasa.gov/office/pao/History/SP-4205/cover.html), p. 187.
@@ -153,7 +153,7 @@
 151. Hopkins, " Electronic Navigator, " p. 116.
 152. Hopkins, "Electronic Navigator," p. 117.
 153. Copps, Recovery From Transient Failures, p. 2.
-154. Garman interview
+154. Garman interview.
 155. Gene Cernan, telephone interview from Houston, November 7, 1983.
 156. Vance Brand interview, Johnson Space Center, Houston, TX, June 2, 1983; John Young interview, telephone from Houston, TX, March 2, 1984.
 157. Ragan interview.
