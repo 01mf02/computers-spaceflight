@@ -50,7 +50,7 @@
 48. Wooddell interview.
 49. D. Johnson interview.
 50. Rice interview.
-51. Wooddell, "Design of a CMOS Processor," p. 9-11.
+51. Wooddell, "Design of a CMOS Processor," pp. 9--11.
 52. Interview with John Morecroft, Jet Propulsion Laboratory, 29 May, 1984.
 53. D. Johnson interview.
 54. Wooddell to multiple addressees, "FDS Processor Changes Allowing Better Utilization of the Added Memory," June 6, 1975, files of R.J. Rice, Jet Propulsion Lab.
@@ -78,7 +78,7 @@
 76. Interview with Gentry Lee, Jet Propulsion Laboratory, June 1, 1984.
 77. Kopf interview, May 18, 1984.
 78. Charlan interview; Kopf interview, May 18, 1984.
-79. C.P. Jones and M.R. Landano, "The Galileo Spacecraft System Design," Proceedings of the AIAA 21st Aerospace Science Meeting, Reno, Nevada, January 10-13, 1983, p. 19.
+79. C.P. Jones and M.R. Landano, "The Galileo Spacecraft System Design," Proceedings of the AIAA 21st Aerospace Science Meeting, Reno, Nevada, January 10--13, 1983, p. 19.
 80. Jones and Landano, "Galileo Spacecraft System Design," p. 17.
 81. Kohl interview.
 82. D. Johnson interview.
@@ -121,7 +121,7 @@
 119. Henry Kleine, "Software Design and Development Language," Jet Propulsion Laboratory Publication 77-24, Rev. 1, August 1, 1979.
 120. C. A. Ericson, Apollo logic Diagram Analysis Guideline, Boeing Co., Seattle, WA, 1967, pp. 66.
 121. J.T. Buchman, Galileo: General Design Document, Attitude and Articulation Control Subsystem, 625-350-007000, Jet Propulsion Laboratory, Pasadena, CA, October 1, 1983.
-122. H.K. Bouvier and G.D. Pace, "Management of the Galileo Attitude and Articulation Control Plight Software Development," 3rd Computers in Aerospace Conference, AIAA, San Diego, CA, October 26-28, 1981, No. 81-2127, pp. 112--118.
+122. H.K. Bouvier and G.D. Pace, "Management of the Galileo Attitude and Articulation Control Plight Software Development," 3rd Computers in Aerospace Conference, AIAA, San Diego, CA, October 26--28, 1981, No. 81-2127, pp. 112--118.
 123. Charlan interview.
 124. Bouvier and Pace, "Galileo Attitude and Articulation Control Plight," pp. 112--118.
 125. Kopf interview.

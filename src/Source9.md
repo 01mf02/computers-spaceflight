@@ -39,7 +39,7 @@
 37. Emull interview, June 16, 1983; Raney interview, May 31, 1983.
 38. Emull interview, June 16, 1983.
 39. J. Boehm and H.H. Hosenthien, "Flight Simulation of Rockets and Spacecraft," in From Peenemunde to Outer Space, eds. E. Stuhlinger, et al., Marshall Space Flight Center, Huntsville, AL, March 23, 1962, p. 437.
-40. See James E. Tomayko, "Helmut Hoelzer's Fully Electronic Analog Computer, Ann. Hist. Comput., 7(3)227-240 (July, 1985).
+40. See James E. Tomayko, "Helmut Hoelzer's Fully Electronic Analog Computer, *Ann. Hist. Comput.*, 7 (3) 227--240 (July, 1985).
 41. W.K. Polstroff and F.L. Vinz, "General-Purpose Simulation At Marshall Spaceflight Center," Presented to American Institute of Aeronaut. and Astronaut. Working Group on Flight Simulation Facilities at Marietta, Georgia, April 22, 1974, pp. 1--4; Interview with Jack Lucas, Marshall Space Center, June 21, 1983.
 42. Lucas interview, June 21, 1983; Polstroff and Vinz, "General-Purpose Simulation At Marshall Spaceflight Center," April 22, 1974, p. 9.
 43. Interview with Frank Vinz, Marshall Space Center, June 21, 1983.

@@ -55,7 +55,7 @@
 53. Stokes interview, June 14, 1983.
 54. R.C. Seamans, RTCC Computer Requirement for Project Apollo, memorandum, Washington, D.C., October 7, 1965, Johnson Space Center History Office.
 55. Pollen interview, June 13, 1983.
-56. Stokes, "Managing the Development of Large Software Systems-Apollo Real-Time Control Center," IEEE Proc., A/3 1-A/3 15, p. 1(1970).
+56. Stokes, "Managing the Development of Large Software Systems---Apollo Real-Time Control Center," *IEEE Proc.*, A/31--A/315, p. 1 (1970).
 57. Stokes interview, June 14, 1983.
 58. Dunseith interview, June 9, 1983.
 59. Stokes interview, June 14, 1983.
@@ -65,10 +65,10 @@
 63. James, "Evolution of Real-Time Computer Systems," p. 419.
 64. Stokes interview, June 14, 1983.
 65. James, "Evolution of Real-Time Computer Systems," p. 424.
-66. M. Forthoffer, "A Comparison of Time-Shared vs. Batch Development of Space Software," Proceedings of 12th International Symposium on Space Technology and Science, Tokyo, Japan, 16-20 May 1977, National Aerospace Laboratory, Chofu, Tokyo, 1977, pp. 1056, 1057, 1059.
+66. M. Forthoffer, "A Comparison of Time-Shared vs. Batch Development of Space Software," Proceedings of 12th International Symposium on Space Technology and Science, Tokyo, Japan, 16--20 May 1977, National Aerospace Laboratory, Chofu, Tokyo, 1977, pp. 1056, 1057, 1059.
 67. James, "Evolution of Real-Time Computer Systems," p. 419.
 68. Pollen interview, June 13, 1983; Interview with Gene Campbell, IBM, Houston, TX, June 13, 1983; Interview with Fred Riddle, IBM, Johnson Space Center, June 13, 1983.
-69. Frank Hughes (JSC) and Kristan Lattu (JPL), A Comparative Study of the Evolution of Command and Control Activities for Manned and Unmanned Spaceflight Operations, AIAA-83-294, given by Lattu at International Aerospace Foundation Meeting, Budapest, October 10-15, 1983, pp. 2--3.
+69. Frank Hughes (JSC) and Kristan Lattu (JPL), A Comparative Study of the Evolution of Command and Control Activities for Manned and Unmanned Spaceflight Operations, AIAA-83-294, given by Lattu at International Aerospace Foundation Meeting, Budapest, October 10--15, 1983, pp. 2--3.
 70. Interview with Ann Merwarth, Goddard Spaceflight Center, July 3, 1984.
 71. Interview with Carl Johnson, Jet Propulsion Laboratory, May 23, 1984.
 72. See Corliss, Histories of the Space Tracking and Data Acquisition Network; N.A. Renzetti, ed., A History of the Deep Space Network From Inception to January 1, 1969, Jet Propulsion Laboratory TR 32-1533, September 1, 1971.
@@ -102,7 +102,7 @@
 100. R. Scott to W.J. Koselka, "History of the MCIF," memorandum no. RS-75- 103, Jet Propulsion Laboratory, August 27, 1975, files of R. Scott.
 101. JPL, Mariner Mars 1971 Final Report, p. .7.
 102. Martin Marietta Corp., Viking Software Data, Rome Air Development Center, TR-77-168, May 1977, pp. 5, 6.
-103. Hughes and Lattu, Evolution of Command and Control Activities, October 10-15, 1983, pp. 5, 6.
+103. Hughes and Lattu, Evolution of Command and Control Activities, October 10--15, 1983, pp. 5, 6.
 104. Royer interview, June 7, 1984; Interview with Frank Singleton, Jet Propulsion Laboratory, May 17, 1984.
 105. Carl W. Johnson, letter to the author, September 12, 1985.
 106. Moulder interview, May 21, 1984; Interview with Lloyd Jennings, Jet Propulsion Laboratory, May 15, 1984.

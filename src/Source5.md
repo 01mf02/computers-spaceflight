@@ -1,6 +1,6 @@
 #### Chapter Five
 
-1.  J.R. Casani, A.G. Conrad, and R.A. Neilson, "Mariner 4 - A Point of Departure," Astronaut. Aeronaut., 16-24, (August 1965).
+1.  J.R. Casani, A.G. Conrad, and R.A. Neilson, "Mariner 4 - A Point of Departure," Astronaut. Aeronaut., 16--24, (August 1965).
 2.  Interview with Richard Malm, Jet Propulsion Laboratory, May 31, 1984.
 3.  Malm interview.
 4.  Casani et al, "Mariner 4 - A Point of Departure," p. 17.
@@ -62,18 +62,18 @@
 60. Avizienis et al., "The STAR (Self-Testing and Repairing) Computer: An Investigation of the Theory and Practice of Fault-Tolerant Computer Design," p. 1320.
 61. "A Star is Born," Time (Decemher 7, 1970).
 62. Carole McKelvey, "JPL's STAR Computer is Out of This World," Glendale News-Press, 3-594 (May 29, 1971).
-63. H. Hecht, "Fault-Tolerant Computers for Spacecraft," J. Spacecr. Rockets, 14, 579-586 (1977).
+63. H. Hecht, "Fault-Tolerant Computers for Spacecraft," J. Spacecr. Rockets, 14, 579--586 (1977).
 64. Avizienis, "The STAR Computer: A Self-Testing-and-Repairing Computer for Spacecraft Guidance, Control, and Automatic Maintenance," p. 17.8.
 65. Interview with William Stewart, Goddard Spaceflight Center, July 10, 1984.
 66. J. Rhea, "Space Electronics: Electronics Research Center is Focal Point of Future Efforts," Aerospace Tech., 54 (November 20, 1967).
 67. Greenberg interview.
 68. Samuel K. Deese, letter to the author, June 3, 1985.
-69. The complete story of the Viking project can be found in Edward and Linda Ezell's history, [On Mars: Exploration of the Red Planet: 1958-1978](http://www.hq.nasa.gov/office/pao/History/SP-4212/on-mars.html), NASA SP-4212, Washington, D.C., 1984.
+69. The complete story of the Viking project can be found in Edward and Linda Ezell's history, [On Mars: Exploration of the Red Planet: 1958--1978](http://www.hq.nasa.gov/office/pao/History/SP-4212/on-mars.html), NASA SP-4212, Washington, D.C., 1984.
 70. Greenberg interview.
 71. Greenberg interview.
 72. W.H. Kohl, Functional Requirement Viking Orbiter 1975 Flight Equipment Computer Command Subsystem Hardware, No. V075-4-2005-2A, Pasadena, CA Jet Propulsion Lab, Jan 17, 1975, p. 20.
 73. Greenberg interview.
-74. Kohl, Functional Requirement Viking Orbiter 1975 Flight Equipment Computer Command Subsystem Hardware, p. 20; Kohl, Functional Requirement Viking Orbiter 1975 Flight Equipment Computer Command Subsystem Software, No. 075-4.2005-2A, Pasadena, CA Jet Propulsion Lab, January 17, 1975, p. 7.
+74. Kohl, Functional Requirement Viking Orbiter 1975 Flight Equipment Computer Command Subsystem Hardware, p. 20; Kohl, Functional Requirement Viking Orbiter 1975 Flight Equipment Computer Command Subsystem Software, No. 075-4-2005-2A, Pasadena, CA Jet Propulsion Lab, January 17, 1975, p. 7.
 75. Kohl, Functional Requirement Viking Orbiter 1975 Flight Equipment Computer Command Subsystem Hardware, p. 13.
 76. R.A. Proud et al., Viking 75 Orbiter Computer Command Subsystem Flight Software Design Description, 612-28 (DRL Line Item No. N4-SE24), Vol. 1, Pasadena, CA Jet Propulsion Lab, November 20, 1974, pp. A.1.21--22; Kohl, Functional Requirement Viking Orbiter 1975 Flight Equipment Computer Command Subsystem Software, p. 30.
 77. Kohl, Functional Requirement Viking Orbiter 1975 Flight Equipment Computer Command Subsystem Hardware, p. 13.
