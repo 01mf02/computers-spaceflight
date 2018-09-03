@@ -44,7 +44,7 @@ of the SCHEDULE statement are the task name, start time, priority, and
 frequency. The statement "SCHEDULE ERROR0 ON RUPT0 PRIORITY(22);" tells
 the operating system to execute the task ERROR0 when an interrupt named
 RUPT0 occurs with a relative priority of 22. A different form of the
-SCHEDULE statement is "SCHEDULE RGl PRIORITY(12), REPEAT EVERY 6.190,"
+SCHEDULE statement is "SCHEDULE RG1 PRIORITY(12), REPEAT EVERY 6./90,"
 which initiates the task handling the highest frequency rate group and
 repeats it 15 times per second. The statement TERMINATE cancels a
 specified task upon a designated interrupt or time.
@@ -69,17 +69,17 @@ languages.
 More information on the HAL/S language is contained in the following
 sources:
 
-- Intermetrics, Inc., HAL/S-360 Compiler System Specification, Version
-IR-60-7, February 23,1981.
+Intermetrics, Inc., *HAL/S-360 Compiler System Specification*,
+Version IR-60-7, February 23, 1981.
 
-- Intermetrics, Inc, HAL/S Language Specification, Version IR-542,
-September 1980.
+Intermetrics, Inc., *HAL/S Language Specification*,
+Version IR-542, September 1980.
 
-- Intermetrics, Inc., HAL/S Programmer's Guide, Version IR-63-5,
-December 1981.
+Intermetrics, Inc., *HAL/S Programmer's Guide*,
+Version IR-63-5, December 1981.
 
-- Ryer, Michael J., Programming in HAL/SIntermetrics, Inc., Cambridge,
-MA, 1978.
+Ryer, Michael J., *Programming in HAL/S*, Intermetrics, Inc.,
+Cambridge, MA, 1978.
 
 ![Figure II-1](images/p395.jpg)
 
