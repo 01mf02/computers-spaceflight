@@ -21,7 +21,7 @@
 19. Interview with Ted Kopf, Jet Propulsion Laboratory, May 18, 1984.
 20. Interview with William Charlen, Jet Propulsion Laboratory, May 18, 1984.
 21. Kopf interview, May 18, 1984.
-22. E.H. Kopf and L.S. Smith, "The Development and Demonstration of Hybrid Programmable Attitude Control Electronics with Adaptable Analog/Digital Design Approach," AGARD Real-Time Computer-Based Systems,: Kopf interview May 18, 1984.
+22. E.H. Kopf and L.S. Smith, "The Development and Demonstration of Hybrid Programmable Attitude Control Electronics with Adaptable Analog/Digital Design Approach," *AGARD Real-Time Computer-Based Systems*; Kopf interview, May 18, 1984.
 23. Kopf interview, May 18, 1984.
 24. Kopf interview, May 18, 1984.
 25. Charlan interview.

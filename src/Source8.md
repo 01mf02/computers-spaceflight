@@ -3,9 +3,9 @@
 1.  Interview with John Morton, Goddard Spaceflight Center, June 27, 1984.
 2.  Frederick P. Brooks, Jr., The Mythical Man-Month, Addison-Wesley, Reading, MA, 1975, p. 56.
 3.  Morton interview, June 27, 1984.
-4.  S,E, James, "Evolution of Real-Time Computer Systems for Manned Spaceflight," IBM J. Res. Devel., 25, 418 (1981).
+4.  S.E, James, "Evolution of Real-Time Computer Systems for Manned Spaceflight," *IBM J. Res. Devel.*, 25, 418 (1981).
 5.  W.R. Corliss, Histories of the Space Tracking and Data Acquisition Network (STADAN), The Manned Space Flight Network (MSFN), and the NASA Communications Network (NASCOM), NASA CR-140390, September 1974. p. 29.
-6.  Western Electric, Inc., Final Project Report to NASA: Progress Mercury, NAS1-430,June 196I,p. 1.
+6.  Western Electric, Inc., *Final Project Report to NASA: Progress Mercury*, NAS1-430, June 1961, p. 1.
 7.  Interview with James Stokes, Johnson Space Center, June 14, 1983.
 8.  H.R. Karp, "NASA Plans Global Range to Track Man in Space," Control Eng., 22 (July 1959).
 9.  Stokes interview, June 14, 1983.
@@ -25,7 +25,7 @@
 23. Chambers interview, June 28, 1984.
 24. Stokes interview, June 14, 1983.
 25. Chambers interview, June 28, 1984; P. Herget, The Computation of Orbits, Cincinnati, by the author, 1948.
-26. IBM, Goddard Monitor Programs, Project Mercury,. 1.2; Stokes interview, June 14, 1983; IBM Corporation, IBM Launch Monitor Subsystem, MS 124, May 1, 1962, pp. 1.2, 1.3; James, "Evolution of Real-Time Computer Systems for Manned Spaceflight," 25 418 (1981).
+26. IBM, Goddard Monitor Programs, *Project Mercury*, p. 1.2; Stokes interview, June 14, 1983; IBM Corporation, *IBM Launch Monitor Subsystem*, MS 124, May 1, 1962, pp. 1.2, 1.3; James, "Evolution of Real-Time Computer Systems for Manned Spaceflight," 25 418 (1981).
 27. Chambers interview, June 28, 1984.
 28. Stokes interview, June 14, 1983.
 29. J. Grimwood, B.C. Hacker, and P.J. Vorzimmer, Project Gemini: Technology and Operations, GPO, Washington, D.C., 1969, p. 23.
@@ -108,7 +108,7 @@
 106. Moulder interview, May 21, 1984; Interview with Lloyd Jennings, Jet Propulsion Laboratory, May 15, 1984.
 107. G.A. Madrid and P.T. Westmoreland, "Adaptation of a Software Development Methodology to the Implementation of a Large-Scale Data Acquisition and Control System," AIAA paper 83-2412, 1983, p. 360.
 108. Gianopolis interview, June 4, 1984.
-109. Jet Propulsion laboratory, Mariner Mars 1969 Final Project Report, November 1, 1970,vol. 1, p. 554.
+109. Jet Propulsion laboratory, *Mariner Mars 1969 Final Project Report*, November 1, 1970, vol. 1, p. 554.
 110. C. Johnson interview, May 23, 1984.
 111. JPL, Mariner Mars 1971 Final Report, p. 27.
 112. Martin Marietta Corp., Viking Software Data, p. 10.

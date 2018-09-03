@@ -10,11 +10,11 @@
 8.  James McMillion interview, Marshall Space Center, Huntsville, AL, June 22, 1983.
 9.  Charles Swearingen interview, Huntsville, AL, June 21, 1983.
 10. IBM, Design and Operation Assessment, p. 1.1.14.
-11. Martin Marietta Corporation, Skylab Data Handbook, Marshall Space Center, Huntsville, AL, n.d,, p. 4.13.
+11. Martin Marietta Corporation, Skylab Data Handbook, Marshall Space Center, Huntsville, AL, n.d., p. 4.13.
 12. IBM, Design and Operation Assessment, p. 1.1.3.
 13. John Copeland interview, IBM at Marshall Space Center, June 23, 1983.
 14. IBM, Design and Operation Assessment, p. 1.1.22.
-15. Ibid.,p. 1.1.1.
+15. Ibid., p. 1.1.1.
 16. Copeland interview.
 17. IBM, Design and Operation Assessment, p. 1.1.12.
 18. Ibid., p. 1.1.1.

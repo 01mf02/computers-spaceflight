@@ -52,9 +52,9 @@
 50. Mansfield interview, June 1, 1983.
 51. Kenneth R. Castleman, Digital Image Processing, Prentice-Hall, Englewood Cliffs, NJ, 1979, p. 389. Castleman's book contains an excellent short history of the development of image processing at the Jet Propulsion Laboratory in his Appendix I, pp. 383--400, including an effective selected bibliography.
 52. Interview with Robert Nathan, Jet Propulsion Laboratory, May 30, 1984.
-53. J. A. Dunne et al., "Digital Processing of the Mariner 6 and 7 Pictures," J. Geophys. Res., 395(1976).
+53. J. A. Dunne et al., "Digital Processing of the Mariner 6 and 7 Pictures," *J. Geophys. Res.*, 395 (1976).
 54. Interview with Albert Zobrist, Jet Propulsion Laboratory, May 23, 1984.
-55. W.B. Green and D.A. O'Handley, "Recent Developments in Digital Image Processing at the Image Processing Laboratory at the Jet Propulsion Laboratory, Proc. IEEE,60(7)822 (July 1972).
+55. W.B. Green and D.A. O'Handley, "Recent Developments in Digital Image Processing at the Image Processing Laboratory at the Jet Propulsion Laboratory, *Proc. IEEE*, 60 (7) 822 (July 1972).
 56. R.F. Stott, "Mariner Mars 1971: Real-Time Video Data Processing," April 4, 1972, from the files of R.F. Scott, p. 3A.
 57. Stott, "Mariner Mars 1971: Real-Time Video Data Processing," April 4, 1972, p. 6.
 58. Green and O'Handley, "Recent Developments in Digital image Processing," July 1972, pp. 821--823.
