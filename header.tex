@@ -30,6 +30,10 @@
 % space between lines
 \linespread{0.8}
 
+% set inter-word space, see:
+% https://tex.stackexchange.com/questions/23921/how-to-shorten-shrink-spaces-between-words
+\fontdimen2\font=0.35em
+
 % for Numberstring
 \usepackage{fmtcount}
 
@@ -52,4 +56,5 @@
 \renewcommand{\partheadendvskip}{\vspace{1.5em}\hrule\vspace{1.5em}}
 \renewcommand{\partheademptypage}{}
 
-\setkomafont{section}{\large\MakeUppercase}
+\setkomafont{section}{\normalfont\normalsize\bfseries\MakeUppercase}
+\setkomafont{subsection}{\normalfont\normalsize\bfseries}
