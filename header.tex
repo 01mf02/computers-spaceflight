@@ -18,7 +18,7 @@
 \clearpairofpagestyles
 \lehead{\thepage\ \MakeUppercase{Computers in Spaceflight: The NASA Experience}}
 \rohead{\MakeUppercase{\leftmark}\ \thepage}
-\setkomafont{pagehead}{\normalfont \footnotesize \bfseries}
+\setkomafont{pagehead}{\normalfont \scriptsize \bfseries}
 %% omit "chapter n: " prefix in front of chapter name in header
 %% https://tex.stackexchange.com/questions/228362/get-sectionmark-in-fancyhdr-without-chapter-number/228363#228363
 \renewcommand{\chaptermark}[1]{\markboth{#1}{}}
@@ -38,10 +38,12 @@
 }
 \renewcommand*{\partformat}{\partname~\Numberstring{part}:}
 \renewcommand*{\partheadmidvskip}{ }
-\addtokomafont{partnumber}{\normalfont\raggedright\sffamily}
+\addtokomafont{partnumber}{\normalfont\raggedright}
 \addtokomafont{part}{\huge\raggedright}
 
 \renewcommand*{\chapterformat}{\quad \thechapter}
+%\addtokomafont{chapternumber}{\normalfont\raggedright}
+\addtokomafont{chapter}{\normalfont}
 
 \RedeclareSectionCommand[
     beforeskip=6em,
