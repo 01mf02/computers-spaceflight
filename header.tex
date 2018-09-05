@@ -1,5 +1,5 @@
 \usepackage{mdframed}
-\newenvironment{inbox}{\begin{mdframed}}{\end{mdframed}}
+\newenvironment{inbox}{\begin{mdframed}\small\setlength{\parskip}{1ex}}{\end{mdframed}}
 \newcommand{\newpageon}[1]{\newpage}
 \newcommand{\pagebreakon}[1]{\pagebreak}
 
@@ -18,6 +18,8 @@
 %% https://tex.stackexchange.com/questions/228362/get-sectionmark-in-fancyhdr-without-chapter-number/228363#228363
 \renewcommand{\chaptermark}[1]{\markboth{#1}{}}
 
+% indentation of new paragraphs
+\setlength{\parindent}{2em}
 % space between paragraphs
 \setlength{\parskip}{0pt}
 % space between lines
@@ -26,7 +28,11 @@
 % for Numberstring
 \usepackage{fmtcount}
 
+\renewcommand*{\partheadstartvskip}{%
+\null\vskip-\baselineskip
+}
 \renewcommand*{\partformat}{\partname~\Numberstring{part}:}
+\renewcommand*{\partheadmidvskip}{ }
 \addtokomafont{partnumber}{\normalfont\raggedright\sffamily}
 \addtokomafont{part}{\huge\raggedright}
 
