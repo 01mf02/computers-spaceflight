@@ -1,1 +1,1 @@
-## The Gemini Computer: First Machine in Space
+## The Gemini Computer: \newline First Machine in Space

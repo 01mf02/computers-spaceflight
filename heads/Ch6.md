@@ -1,1 +1,1 @@
-## Distributed Computing On Board Voyager and Galileo
+## Distributed Computing \newline On Board Voyager and Galileo

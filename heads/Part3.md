@@ -1,3 +1,3 @@
 \newpageon{205}
 
-# Ground Based Computers for Space Flight Operations
+# \newline Ground-Based Computers \newline For Spaceflight Operations

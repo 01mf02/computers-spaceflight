@@ -1,1 +1,1 @@
-## The Evolution of Automated Launch Processing
+## The Evolution of \newline Automated Launch Processing
