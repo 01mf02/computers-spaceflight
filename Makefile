@@ -234,5 +234,5 @@ book.tex: header.tex prologue.tex meta.yaml latex.yaml $(BOOK_MD)
 book.pdf: book.tex
 	latexmk -pdf $<
 
-book.%: $(BOOK_MD)
-	pandoc -s --smart --toc meta.yaml $(BOOK_MD) -o $@
+book.html: meta.yaml style.css $(BOOK_MD)
+	pandoc -s --smart --toc meta.yaml --css style.css $(BOOK_MD) -o $@
