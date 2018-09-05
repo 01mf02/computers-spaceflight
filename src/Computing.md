@@ -1,6 +1,6 @@
 \newpageon{1}
 
-## Computing and Spaceflight: An Introduction {-}
+## Computing and Spaceflight: An\ Introduction {-}
 
 \newpageon{2}
 
