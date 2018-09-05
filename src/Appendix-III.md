@@ -1,4 +1,4 @@
-# Appendix III: GOAL, A Language for Launch Processing {-}
+# Appendix III: GOAL, A\ Language\ for\ Launch\ Processing {-}
 
 \[**399-401**\]
 
@@ -12,7 +12,7 @@ test procedures. GOAL superseded that language in the early 1970s.
 Fig. III-1 is a segment of a GOAL program used to safe various
 spacecraft systems if a NOGO condition causes the final countdown to be
 suspended. Note that names of data items held in common in the Launch
-Processing System appear within brackets, &lt;&gt;, and data local to
+Processing System appear within brackets, <>, and data local to
 the program is named between parentheses, (). Statements familiar to
 high-level programming language users, such as READ, IF-THEN-ELSE, and
 LET, have similar functions in GOAL. Additional statements, such as
@@ -38,13 +38,13 @@ duration of the Shuttle program.
 
 Further information about GOAL is contained in the following documents:
 
-- IBM Corporation, Launch Processing System Checkout, Control and
+IBM Corporation, *Launch Processing System Checkout, Control and
 Monitor Subsystem Detailed Software Design Specifications, Book 2, Part
-1: GOAL Language Processor, KSC-LPS-IB-070-2, pt. 1, release S33, Cape
+1: GOAL Language Processor*, KSC-LPS-IB-070-2, pt. 1, release S33, Cape
 Canaveral, FL, June 3, 1983.
 
-- IBM Corporation, Launch Processing System Checkout, Control, and
-Monitor Subsystem: GOAL On-Board Interface Language, KSC-LPS-OP-033-4,
+IBM Corporation, *Launch Processing System Checkout, Control, and
+Monitor Subsystem*: GOAL On-Board Interface Language, KSC-LPS-OP-033-4,
 release S33, Cape Canaveral, FL, April 27, 1983.
 
 ![Figure III-1](images/p400.jpg)

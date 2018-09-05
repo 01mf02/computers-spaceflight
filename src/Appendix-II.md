@@ -1,4 +1,4 @@
-# Appendix II: HAL/S, A Real-Time Language for Spaceflight {-}
+# Appendix II: HAL/S, A\ Real-Time\ Language\ for\ Spaceflight {-}
 
 \[**393-397**\]
 
