@@ -3,6 +3,11 @@
 \newcommand{\newpageon}[1]{\newpage}
 \newcommand{\pagebreakon}[1]{\pagebreak}
 
+% make an environment called "abstract" that ignores its contents,
+% because the book class does not provide an "abstract" environment
+\usepackage{comment}
+\excludecomment{abstract}
+
 \usepackage{caption}
 \captionsetup[figure]{labelformat=empty}
 

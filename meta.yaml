@@ -1,8 +1,29 @@
 ---
-title: "Computers in Spaceflight: The NASA Experience"
+title: |
+  Computers in Spaceflight  
+  *The NASA Experience*
+title-meta: "Computers in Spaceflight: The NASA Experience"
 author: |
   James E. Tomayko  
-  Wichita State University  
-  Wichita, Kansas
+  *Wichita State University*  
+  *Wichita, Kansas*
+author-meta: James E. Tomayko
 date: March 1988
+abstract:
+  This book examines the computer systems used in actual spaceflight or in
+  close support of it. Computer systems used in administration and in
+  aeronautical and other research not directly related to spaceflight are
+  ignored. Each chapter deals with either a specific program, such as
+  Gemini or Apollo onboard computers, or a closely related set of systems,
+  such as launch processing or mission control. A glossary of computer terms
+  is included.
+keywords:
+  - assembly language
+  - core memory
+  - core rope
+  - image processing
+  - bubble memory
+  - modularization
+  - virtual memory
+  - time-slice method
 ---
