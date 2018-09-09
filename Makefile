@@ -229,7 +229,7 @@ BOOK = $(PROLOGUE) heads/FigA \
 BOOK_MD = $(BOOK:%=src/%.md)
 
 book.tex: header.tex prologue.tex meta.yaml latex.yaml $(BOOK_MD)
-	pandoc -H header.tex -B prologue.tex --toc --top-level-division=part -F pandoc_latex_environment.py meta.yaml latex.yaml $(BOOK_MD) -o $@
+	pandoc -H header.tex -B prologue.tex --toc --top-level-division=part -F all.py meta.yaml latex.yaml $(BOOK_MD) -o $@
 
 book.pdf: book.tex
 	latexmk -pdf $<
