@@ -1,6 +1,6 @@
 #### Chapter Five
 
-1.  J.R. Casani, A.G. Conrad, and R.A. Neilson, "Mariner 4 - A Point of Departure," Astronaut. Aeronaut., 16--24, (August 1965).
+1.  J.R. Casani, A.G. Conrad, and R.A. Neilson, "Mariner 4---A Point of Departure," *Astronaut. Aeronaut.*, 16--24, (August 1965).
 2.  Interview with Richard Malm, Jet Propulsion Laboratory, May 31, 1984.
 3.  Malm interview.
 4.  Casani et al, "Mariner 4 - A Point of Departure," p. 17.
