@@ -6,7 +6,7 @@ A cleaned version of the book "Computers in Spaceflight: The NASA Experience"
 * Render inline image captions in HTML.
 * Render footnotes as stars.
 * Make page breaks absolute.
-* Increase line spacing for headlines
+* Increase line spacing for headlines (but not always, see p. 258 in Ch8-3)
 * Increase paragraph spacing for boxes.
 * Do not break paragraphs after boxes that are in-between text
   (for example Box 4-6 in Ch4-7)
