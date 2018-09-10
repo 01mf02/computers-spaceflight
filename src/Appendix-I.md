@@ -1,6 +1,6 @@
-# Appendix I: Glossary Of Computer Terms {-}
+\pagebreakon{377}
 
-\[**377-392**\]
+# Appendix I: Glossary Of Computer Terms {-}
 
 Accumulator
 :   The register in the central processing unit of a

@@ -1,6 +1,6 @@
-# Appendix III: GOAL, A\ Language\ for\ Launch\ Processing {-}
+\pagebreakon{399}
 
-\[**399-401**\]
+# Appendix III: GOAL, A\ Language\ for\ Launch\ Processing {-}
 
 GOAL is a high-level language that uses the terminology of test
 engineers to write tests and procedures to certify that a Shuttle
@@ -47,6 +47,10 @@ IBM Corporation, *Launch Processing System Checkout, Control, and
 Monitor Subsystem*: GOAL On-Board Interface Language, KSC-LPS-OP-033-4,
 release S33, Cape Canaveral, FL, April 27, 1983.
 
+\pagebreakon{400}
+
 ![Figure III-1](images/p400.jpg)
+
+\pagebreakon{401}
 
 ![Figure III-1 (Continued)](images/p401.jpg)

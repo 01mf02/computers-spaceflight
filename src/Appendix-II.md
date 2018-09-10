@@ -1,6 +1,6 @@
-# Appendix II: HAL/S, A\ Real-Time\ Language\ for\ Spaceflight {-}
+\pagebreakon{393}
 
-\[**393-397**\]
+# Appendix II: HAL/S, A\ Real-Time\ Language\ for\ Spaceflight {-}
 
 HAL/S is a high-level programming language commissioned by NASA in the
 late 1960s to meet the real-time programming needs of the Agency. At the
@@ -43,8 +43,8 @@ the master scheduling for the entire program. Note that the components
 of the SCHEDULE statement are the task name, start time, priority, and
 frequency. The statement "SCHEDULE ERROR0 ON RUPT0 PRIORITY(22);" tells
 the operating system to execute the task ERROR0 when an interrupt named
-RUPT0 occurs with a relative priority of 22. A different form of the
-SCHEDULE statement is "SCHEDULE RG1 PRIORITY(12), REPEAT EVERY 6./90,"
+RUPT0 occurs with a relative priority of 22. A different form of the SCHEDULE
+\pagebreakon{394} statement is "SCHEDULE RG1 PRIORITY(12), REPEAT EVERY 6./90,"
 which initiates the task handling the highest frequency rate group and
 repeats it 15 times per second. The statement TERMINATE cancels a
 specified task upon a designated interrupt or time.
@@ -81,8 +81,14 @@ Version IR-63-5, December 1981.
 Ryer, Michael J., *Programming in HAL/S*, Intermetrics, Inc.,
 Cambridge, MA, 1978.
 
-![Figure II-1](images/p395.jpg)
+\pagebreakon{395}
 
-![Figure II-I (Continued)](images/p396.jpg)
+![**Figure II-1**](images/p395.jpg)
 
-![Figure II-2](images/p397.jpg)
+\pagebreakon{396}
+
+![**Figure II-I (Continued)**](images/p396.jpg)
+
+\pagebreakon{397}
+
+![**Figure II-2**](images/p397.jpg)
