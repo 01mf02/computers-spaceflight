@@ -26,8 +26,9 @@ I use the flavour of the *Pandoc* document converter,
 which allows conversion of Pandoc to several formats such as
 HTML, PDF, ePub and so on.
 
-To generate a PDF/HTML, you need Pandoc.
+To generate a PDF/HTML, you need Pandoc with pandocfilters.
 I use the version 1.19.2.4, which is shipped with Ubuntu 18.04 LTS.
+It can be installed via `sudo apt install pandoc python-pandocfilters`.
 For PDF generation, you need a TeX distribution, such as TeX Live.
 
 Generation of PDF is just a `make` away.
