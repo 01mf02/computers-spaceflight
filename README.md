@@ -17,10 +17,9 @@ that can be used to yield both HTML and PDF versions.
 These versions are smaller (in file size) than their originals,
 easy to navigate (containing a hyperlinked index), and
 they fix several mistakes.
-In addition, the PDF reproduces the page numbers and layout of the original
-book[^pages], so references to pages of the original book remain valid.
-
-[^pages]: Page numbers are reproduced until the "source notes" on page 303.
+In addition, the PDF reproduces the page numbers
+(until the "source notes" on page 303) and layout of the original book,
+so references to pages of the original book remain valid.
 
 The format of choice to represent the book is *Markdown*.
 I use the flavour of the *Pandoc* document converter,
