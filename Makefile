@@ -236,3 +236,6 @@ book.pdf: book.tex
 
 book.html: meta.yaml style.css $(BOOK_MD)
 	pandoc -s --smart --toc meta.yaml --css style.css $(BOOK_MD) -o $@
+
+book.%: meta.yaml $(BOOK_MD)
+	pandoc -s --smart --toc meta.yaml $(BOOK_MD) -o $@
