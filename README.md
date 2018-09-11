@@ -42,7 +42,6 @@ This is work in progress. Help with the following points is welcome.
 Just compare the output of the original PDF with the generated PDF.
 KOMA-Script experience is particularly helpful.
 
-* Render inline image captions in HTML.
 * Finish correcting source notes.
 * Make page breaks absolute.
 * Increase line spacing for headlines (but not always, see p. 258 in Ch8-3).
