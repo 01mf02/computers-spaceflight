@@ -18,8 +18,13 @@
 \def\fps@figure{!htbp}
 \makeatother
 
-% footnote symbols
-\renewcommand*{\thefootnote}{\fnsymbol{footnote}}
+% footnotes with stars
+\usepackage{alphalph}
+\makeatletter
+\newcommand*{\fnsymbolsingle}[1]{\ensuremath{\ifcase#1\or *\else\@ctrerr\fi}}
+\makeatother
+\newalphalph{\fnsymbolmult}[mult]{\fnsymbolsingle}{}
+\renewcommand*{\thefootnote}{\fnsymbolmult{\value{footnote}}}
 
 % to reset chapters to root (startatroot)
 \usepackage{bookmark}
