@@ -121,7 +121,7 @@
 119. Henry Kleine, "Software Design and Development Language," Jet Propulsion Laboratory Publication 77-24, Rev. 1, August 1, 1979.
 120. C. A. Ericson, *Apollo Logic Diagram Analysis Guideline*, Boeing Co., Seattle, WA, 1967, pp. 66.
 121. J.T. Buchman, *Galileo: General Design Document, Attitude and Articulation Control Subsystem*, 625-350-007000, Jet Propulsion Laboratory, Pasadena, CA, October 1, 1983.
-122. H.K. Bouvier and G.D. Pace, "Management of the Galileo Attitude and Articulation Control Plight Software Development," *3rd Computers in Aerospace Conference*, AIAA, San Diego, CA, October 26--28, 1981, No. 81-2127, pp. 112--118.
+122. H.K. Bouvier and G.D. Pace, "Management of the Galileo Attitude and Articulation Control Flight Software Development," *3rd Computers in Aerospace Conference*, AIAA, San Diego, CA, October 26--28, 1981, No. 81-2127, pp. 112--118.
 123. Charlan interview.
 124. Bouvier and Pace, "Galileo Attitude and Articulation Control Flight," pp. 112--118.
 125. Kopf interview.
