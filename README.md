@@ -15,8 +15,9 @@ making it also hard to print.
 This project has created a representation of the book
 that can be used to yield both HTML and PDF versions.
 These versions are smaller (in file size) than their originals,
-easy to navigate (containing a hyperlinked index), and
-they fix several mistakes.
+easy to navigate (containing a hyperlinked index),
+can be easily printed, and
+fix several mistakes.
 In addition, the PDF reproduces the page numbers
 (until the "source notes" on page 303) and layout of the original book,
 so references to pages of the original book remain valid.
