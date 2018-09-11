@@ -43,9 +43,7 @@ KOMA-Script experience is particularly helpful.
 
 * Render inline image captions in HTML.
 * Finish correcting source notes.
-* Render footnotes as stars.
-* Make references non-bold.
-* Fix reference links.
+* Fix reference links in PDF.
 * Make page breaks absolute.
 * Increase line spacing for headlines (but not always, see p. 258 in Ch8-3).
 * Increase paragraph spacing for boxes.
