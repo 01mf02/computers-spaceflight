@@ -1,4 +1,4 @@
-#### Chapter Seven
+#### Chapter Seven {#source7}
 
 1.  Interview with Dr. Helmut Hoelzer, Huntsville, AL, June 24, 1983.
 2.  Interview with Charles Swearingen, Huntsville, AL, June 21, 1983.

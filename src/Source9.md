@@ -1,4 +1,4 @@
-#### Chapter Nine
+#### Chapter Nine {#source9}
 
 1.  C.H. Woodling et al., Apollo Experience Report. Simulation of Manned Space Flight for Crew Training, NASA MSC-07036, 1972, p. 2.
 2.  Interview with John Erickson, Johnson Space Center, June 14, 1983.
