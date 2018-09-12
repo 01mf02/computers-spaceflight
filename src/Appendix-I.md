@@ -401,7 +401,7 @@ Logic Circuit Board
 which circuits are plugged representing the logic of a device.
 
 Logic Gate
-:   See Gate.
+:   See *Gate*.
 
 Machine Code
 :   The representation of instructions as a series of
@@ -409,7 +409,7 @@ bits, which cause the computer to execute the specified actions. Machine
 code is idiosyncratic to a particular type of computer.
 
 Machine Cycle
-:   See Cycle Time.
+:   See *Cycle Time*.
 
 Machine Time
 :   The amount of time a computer takes to execute a
@@ -506,7 +506,7 @@ on its inputs and then complements the result (reverses the value)
 before outputting it.
 
 Object Code
-:   See Binary Object Code.
+:   See *Binary Object Code*.
 
 Octal
 :   Representation of numbers in base eight. Octal digits range
@@ -540,7 +540,7 @@ parity. If it detects odd parity, it requests a retransmission of the
 data that failed the parity test.
 
 Parity Bit
-:   See Parity.
+:   See *Parity*.
 
 Peripheral Device
 :   Hardware associated with a computer used for
@@ -548,7 +548,7 @@ input, output, or memory functions, such as disk drives, printers,
 terminals, and card readers.
 
 Pixel
-:   Short for picture element. One dot of a digital image.
+:   Short for *picture element*. One dot of a digital image.
 
 Plated-Wire Memory
 :   A type of nonvolatile computer memory using areas
@@ -556,10 +556,10 @@ of wires plated with material that can be magnetically polarized to
 store bits. Its function and advantages are similar to core memory.
 
 Primary Memory
-:   See Main Memory.
+:   See *Main Memory*.
 
 Primary Storage
-:   See Main Memory.
+:   See *Main Memory*.
 
 Procedural Language
 :   A computer language that can represent
@@ -615,7 +615,7 @@ Secondary Memory
 than main memory.
 
 Secondary Storage
-:   See Secondary Memory.
+:   See *Secondary Memory*.
 
 Semiconductor
 :   Name for the electronic devices made of semiconducting
@@ -634,7 +634,7 @@ Serial Access
 :   Transmission of information one bit at a time.
 
 Serial Data
-:   See Serial Access.
+:   See *Serial Access*.
 
 Sign Bit
 :   A bit of a computer word reserved for indicating the sign
@@ -756,7 +756,7 @@ Uplink
 :   Sending signals from the ground to a spacecraft.
 
 Uplink Telemetry
-:   See Uplink.
+:   See *Uplink*.
 
 User Friendliness
 :   A term relating to the degree of ease in the use
@@ -770,7 +770,7 @@ Virtual Machine
 :   A system of managing machine resources so that many
 users have the impression that each has the full attention of the
 computer when in actuality it is rapidly servicing the processing needs
-of all of them. See Virtual Memory.
+of all of them. See *Virtual Memory*.
 
 Virtual Memory
 :   A system of memory management in which small segments
