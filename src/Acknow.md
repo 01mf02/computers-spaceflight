@@ -46,8 +46,8 @@ John Young.
 
 At each site individuals opened doors for me and found office space
 where none was available. I want to especially thank Wanda Thrower of
-Johnson Space Center, Bob Sheppard of Marshall \pagebreakon{xii} Flight
-Center, Harriet Brown and Mike Konjevich of Kennedy Space Center, and
+Johnson Space Center, Bob Sheppard of Marshall Space \pagebreakon{xii}
+Flight Center, Harriet Brown and Mike Konjevich of Kennedy Space Center, and
 Andrew Danni of the Jet Propulsion Laboratory for their hospitality.
 Frank Penovich of Kennedy was especially helpful in obtaining a tour of
 the Shuttle facilities.
