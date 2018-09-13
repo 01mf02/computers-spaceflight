@@ -1,3 +1,4 @@
+% boxes
 \usepackage{mdframed}
 \newenvironment{inbox}{\begin{mdframed}\small\setlength{\parskip}{1ex}}{\end{mdframed}}
 \newcommand{\newpageon}[1]{\newpage}
@@ -26,9 +27,15 @@
 \newalphalph{\fnsymbolmult}[mult]{\fnsymbolsingle}{}
 \renewcommand*{\thefootnote}{\fnsymbolmult{\value{footnote}}}
 
+% reset footnotes after starting a new part (important on page 136)
+\makeatletter
+\@addtoreset{footnote}{part}
+\makeatother
+
 % to reset chapters to root (startatroot)
 \usepackage{bookmark}
 
+% headers
 \usepackage{scrlayer-scrpage}
 \clearpairofpagestyles
 \lehead{\thepage\ \MakeUppercase{Computers in Spaceflight: The NASA Experience}}
@@ -43,6 +50,8 @@
 \setlength{\parindent}{2em}
 % space between lines
 \linespread{0.8}
+% do not "stretch" page content to fill page
+\raggedbottom
 
 % for Numberstring
 \usepackage{fmtcount}
