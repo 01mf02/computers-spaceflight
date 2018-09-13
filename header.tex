@@ -40,33 +40,32 @@
 
 % indentation of new paragraphs
 \setlength{\parindent}{2em}
-% space between paragraphs
-\setlength{\parskip}{0pt}
 % space between lines
 \linespread{0.8}
 
 % for Numberstring
 \usepackage{fmtcount}
 
-\renewcommand*{\partheadstartvskip}{%
-\null\vskip-\baselineskip
-}
+\RedeclareSectionCommand[
+    beforeskip=0em,
+    innerskip=0em
+]{part}
 \renewcommand*{\partformat}{\partname~\Numberstring{part}:}
-\renewcommand*{\partheadmidvskip}{ }
 \renewcommand*\raggedpart{\raggedright}
 \addtokomafont{partnumber}{\normalfont}
-
-\renewcommand*{\chapterformat}{\quad \thechapter}
-\addtokomafont{chapter}{\normalfont}
-
-\RedeclareSectionCommand[
-    beforeskip=6em,
-    innerskip=10pt
-]{part}
 \makeatletter
 \renewcommand{\partheadendvskip}{\vskip\@tempskipa\hrule\vspace{1.5em}}
 \makeatother
 \renewcommand{\partheademptypage}{}
+
+\RedeclareSectionCommand[
+    innerskip=1em
+]{chapter}
+\renewcommand*{\chapterformat}{\quad \thechapter}
+\addtokomafont{chapter}{\normalfont}
+\makeatletter
+\renewcommand*{\chapterheadendvskip}{\vskip\@tempskipa\newpage}
+\makeatother
 
 \setkomafont{section}{\normalfont\normalsize\bfseries\MakeUppercase}
 \setkomafont{subsection}{\normalfont\normalsize\bfseries}
