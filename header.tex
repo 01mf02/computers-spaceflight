@@ -53,18 +53,19 @@
 }
 \renewcommand*{\partformat}{\partname~\Numberstring{part}:}
 \renewcommand*{\partheadmidvskip}{ }
-\addtokomafont{partnumber}{\normalfont\raggedright}
-\addtokomafont{part}{\normalfont\huge\raggedright}
+\renewcommand*\raggedpart{\raggedright}
+\addtokomafont{partnumber}{\normalfont}
 
 \renewcommand*{\chapterformat}{\quad \thechapter}
-%\addtokomafont{chapternumber}{\normalfont\raggedright}
 \addtokomafont{chapter}{\normalfont}
 
 \RedeclareSectionCommand[
     beforeskip=6em,
     innerskip=10pt
 ]{part}
-\renewcommand{\partheadendvskip}{\vspace{1.5em}\hrule\vspace{1.5em}}
+\makeatletter
+\renewcommand{\partheadendvskip}{\vskip\@tempskipa\hrule\vspace{1.5em}}
+\makeatother
 \renewcommand{\partheademptypage}{}
 
 \setkomafont{section}{\normalfont\normalsize\bfseries\MakeUppercase}

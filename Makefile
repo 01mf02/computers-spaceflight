@@ -223,9 +223,9 @@ makechap = heads/Ch$(1) $(sort $(call hngnames,Ch$(1)*))
 makepart = heads/Part$(part) Part$(part)-intro \
 	   $(foreach ch,$(PART$(part)),$(call makechap,$(ch)))
 SOURCES = heads/Sources $(sort $(call hngnames,Source[0-9]))
-BOOK = $(PROLOGUE) heads/FigA \
+BOOK = heads/Smallpart $(PROLOGUE) heads/FigA heads/Largepart \
        $(foreach part,$(PARTS),$(call makepart,$(part))) \
-       heads/Reset Epilogue $(SOURCES) $(POSTSRCS)
+       heads/Reset heads/Smallpart Epilogue $(SOURCES) $(POSTSRCS)
 BOOK_MD = $(BOOK:%=src/%.md)
 
 book.tex: header.tex prologue.tex meta.yaml latex.yaml $(BOOK_MD)
