@@ -313,9 +313,9 @@ Processing of Remotely Sensed Images*, by Johannes G. Moik (NASA SP-431),
 is a good reference for NASA's work in this field.
 
 
-<!-- TODO: make this headline a bit smaller -->
+\newpageon{371}
 
-# Interview List {-}
+##### Interview List
 
 **Note:** Unless identified otherwise, all persons on this list were NASA
 employees at the time they were interviewed. Locations are also
@@ -532,3 +532,36 @@ YOUNG, JOHN, telephone interview from Johnson Spaceflight Center, March 6, 1984.
 ZIPSE, JOHN, Jet Propulsion Laboratory, 22 May 1984.
 
 ZOBRIST, ALBERT, Jet Propulsion Laboratory, May 23, 1984.
+
+
+\newpageon{376}
+
+##### Interviews Conducted by Other Persons
+
+BACHMAN, DALE F., interviewed by John J. Lenz, at IBM, Owego, NY, April 25, 1968; transcript at Johnson Space Center.
+
+BARTON, JOHN, interviewed by James Grimwood, at Motorola Aerospace Center, Scottsdale, AZ, July 11, 1966, transcript at Johnson Space Center.
+
+DODGE, HAROLD E., interviewed by John J. Lenz, at IBM, Owego, NY, April 25, 1968; transcript at Johnson Space Center.
+
+DRAPER, C. STARK, interviewed by Ivan Ertel at Cambridge, MA, April 23, 1968.
+
+HOAG, DAVID G., interviewed by Ivan Ertel, at MIT, Cambridge, MA, May 15, 1967; transcript at Johnson Space Center.
+
+HUTCHISON, HOMER W., interviewed by Ivan Ertel, at IBM, Owego, NY, April 25, 1968; transcript at Johnson Space Center.
+
+JACKSON, LEE, interviewed by Ivan Ertel, at IBM, Owego, NY, April 25, 1968; transcript at Johnson Space Center.
+
+JIMERSON, LEROY S. jr., interviewed by Ivan Ertel, at IBM, Owego, NY, April 26, 1968; transcript at Johnson Space Center.
+
+JOACHIM, JAMES, interviewed by Ivan Ertel, at IBM, Owego, NY, April 25, 1968; transcript at Johnson Space Center.
+
+LENZ, JOHN J., with JOHN L. SWEENEY, CHARLES E. DUNN, and CONRAD D. BABB, interviewed by Ivan Ertel, at IBM, Owego, NY, April 25, 1968; transcript at Johnson Space Center.
+
+MILLER, JOHN E., interviewed by Ivan Ertel, at MIT, Cambridge, MA, April 28, 1966; transcript at Johnson Space Center.
+
+RAGAN, RALPH, interviewed by Ivan Ertel, at MIT, Cambridge, MA, April 27, 1966; transcript at Johnson Space Center.
+
+RECHTIN, EBERHARDT, interviewed by Cargill Hall, Jet Propulsion Laboratory, c. 1970?; transcript in the Jet Propulsion Laboratory Library Vault.
+
+WESTKAEMPER, ROBERT M., with LEE JACKSON, interviewed by Ivan Ertel, at IBM, Owego, NY, April 25, 1968; transcript at Johnson Space Center.
