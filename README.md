@@ -42,12 +42,12 @@ This is work in progress. Help with the following points is welcome.
 Just compare the output of the original PDF with the generated PDF.
 KOMA-Script experience is particularly helpful.
 
+* Fix page numbers in prologue (by making TOC smaller?).
 * Make page breaks absolute.
 * Increase line spacing for headlines (but not always, see p. 258 in Ch8-3).
 * Increase paragraph spacing for boxes.
 * Do not break paragraphs after boxes that are in-between text
   (for example Box 4-6 in Ch4-7)
-* Decrease size of unnumbered parts (part*).
 * Indent first paragraph of a section/subsection.
 * Fix figure placement (see for example p. 196 in Ch6-3).
 * Center box headlines and make them bold.
