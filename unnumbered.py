@@ -16,7 +16,6 @@ def unnumbered(key, value, format, meta):
     #eprint("Key: " + key)
     if key == 'Header':
         [level, [ident, classes, kvs], inlines] = value
-        eprint(inlines)
         if level <= 2 and 'unnumbered' in classes:
             cmd = 'addpart' if level == 1 else 'addchap'
             return \
