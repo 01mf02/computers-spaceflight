@@ -1,4 +1,4 @@
-\pagebreakon{393}
+\newpageon{393}
 
 # Appendix II: HAL/S, A\ Real-Time\ Language\ for\ Spaceflight {-}
 

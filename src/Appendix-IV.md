@@ -1,4 +1,4 @@
-\pagebreakon{404}
+\newpageon{404}
 
 # Appendix IV: Mariner Mars 1969 Flight Program {-}
 
