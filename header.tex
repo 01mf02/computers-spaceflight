@@ -60,13 +60,13 @@
 \usepackage{fmtcount}
 
 \RedeclareSectionCommand[
-    beforeskip=0em,
-    innerskip=0em
+    beforeskip=0em
 ]{part}
 \renewcommand*{\partformat}{\partname~\Numberstring{part}:}
 \renewcommand*\raggedpart{\raggedright}
 \addtokomafont{partnumber}{\normalfont}
 \makeatletter
+\renewcommand*{\partheadmidvskip}{ }
 \renewcommand{\partheadendvskip}{\vskip\@tempskipa\hrule\vspace{1.5em}}
 \makeatother
 \renewcommand{\partheademptypage}{}
