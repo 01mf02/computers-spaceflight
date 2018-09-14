@@ -321,247 +321,133 @@ is a good reference for NASA's work in this field.
 employees at the time they were interviewed. Locations are also
 indicated at the time of the interview.
 
-AARON, JOHN, Johnson Space Center, June 17, 1983.
-
-ALDRICH, ARNOLD, Johnson Space Center, June 13, 1983.
-
-AZZOLINI, JOHN, Goddard Spaceflight Center, July 2, 1984.
-
-BAILEY, WILLIAM, Kennedy Space Center, June 30, 1983.
-
-BALES, STEVEN, Johnson Space Center, May 31, 1983.
-
-BIEGERT, PAMELA, Kennedy Space Center, June 30, 1983.
-
-BLIZZARD, EDGAR, Jet Propulsion Laboratory, May 29, 1984.
-
-BOGAN, JACK, IBM, Kennedy Space Center, June 29, 1983.
-
-BORNCAMP, FRANZ, Jet Propulsion Laboratory.
-
-BRADFORD, CLIFFORD, Marshall Space Center, June 20, 1983.
-
-BRAND, VANCE, Johnson Space Center, June 2, 1983.
-
-BULKLEY, R.C., IBM, Kennedy Space Center, June 27 and 29, 1983.
-
-BRUCKNER, BOBBY, Kennedy Space Center, June 30, 1983.
-
-BYRNE, FRANK, Kennedy Space Center, June 29, and July 8, 1983.
-
-CAMPBELL, GENE, IBM, Houston, June 13, 1983.
-
-CERNAN, GENE, telephone interview from Houston, November 7, 1983.
-
-CHAMBERS, J. PERRY, Goddard Spaceflight Center, June 28, 1984.
-
-CHARLEN, WILLIAM, Jet Propulsion Laboratory, May 18, 1984.
-
-CHUBB, WILLIAM, Marshall Space Center, June 22, 1983.
-
-CLAYTON, ELDON, Johnson Space Center, June 1, 1983.
-
-COPELAND, JOHN, IBM, Marshall Space Center, June 23, 1983.
-
-COX, KENNETH, Johnson Space Center, June 14, 1983.
-
-DEESE, SAMUEL, Jet Propulsion Laboratory, telephone interview, January 31, 1985.
-
-DEETS, DWAIN, Dryden Flight Research Center, May 25, 1984.
-
-DELAUNE, CARL, Kennedy Space Center, July 5, 1983.
-
-DEMING, JAMES E., Kennedy Space Center, July 6, 1983.
-
-DUNSEITH, LYNWOOD, Johnson Space Center, June 2 and 9, 1983.
-
-EISENMAN, DAVID, Jet Propulsion Laboratory, May 21, 1984.
-
-ERICKSON, JOHN, Johnson Space Center, June 14, 1983.
-
-ERNULL, ROBERT, Johnson Space Center, June 16, 1983.
-
-FOY, LYNNE, Johnson Space Center, June 16 and 17, 1983.
-
-GARMAN, JOHN R., Johnson Space Center, May 25, and June 1, 1983.
-
-GIANOPOLIS, GEORGE, Jet Propulsion Laboratory, June 4, 1984.
-
-GREENBERG, EDWARD, Jet Propulsion Laboratory, May 30, 1984.
-
-HART, TERRY, Johnson Space Center, June 10, 1983.
-
-HARTSFIELD, HENRY, Johnson Space Center, June 2, 1983.
-
-HEDDINS, FREDERICK, IBM, Kennedy Space Center, June 27 and 29, 1983.
-
-HINSON SHIRLEY, Johnson Space Center, June 16, 1983.
-
-HOELZER, HELMUT, Huntsville, Ala., June 24, 1983.
-
-HUGHES, BRAD, Kennedy Space Center, July 5, 1983.
-
-HUGHES, FRANK, Johnson Space Center, June 2, 1983.
-
-JENNINGS, LLOYD, Jet Propulsion Laboratory, May 15, 1984.
-
-JOHNSON, CARL, Jet Propulsion Laboratory, May 23, 1984.
-
-JOHNSON, DONALD, Jet Propulsion Laboratory, May 16, 1984.
-
-JORDAN, FRANK, Jet Propulsion Laboratory, May 31, 1984.
-
-KILLINGBECK, LYNN, IBM, Houston, June 7, 1983.
-
-KOHL, WAYNE, Jet Propulsion Laboratory, telephone interview, January 31, 1985.
-
-KOPF, EDWARD H., Jet Propulsion Laboratory, May 18, 1984, telephone interview, January 31, 1985.
-
-LANIER, RONALD, Johnson Space Center, June 16, 1983.
-
-LEE, B. GENTRY, Jet Propulsion Laboratory, June 1, 1984.
-
-LEMON, RICHARD, Jet Propulsion Laboratory, May 29, 1984.
-
-LEWIS, JAMES, Marshall Space Center, June 20, 1983.
-
-LINEBERRY, EDWARD, Johnson Space Center, June 2, 1983.
-
-LOCK, WILTON, Dryden Flight Research Center, May 24, 1984.
-
-LOUSMA, JACK, telephone interview from Houston, July 5, 1983.
-
-LUCAS, JACK, Marshall Space Center, June 21, 1983.
-
-MACINA, ANTHONY, IBM, Houston, June 7, 1983.
-
-MALM, RICHARD, Jet Propulsion Laboratory, May 31, 1984.
-
-MANN, STANLEY, Johnson Space Center, June 6 and 8, 1983.
-
-MANSFIELD, KENNETH, Johnson Space Center, June 1, 1983.
-
-MATTOX, RUSSELL, Marshall Space Center, June 23, 1983, telephone interview, November 16, 1984.
-
-MAZUR, RAYMOND, Goddard Spaceflight Center, June 28, 1984.
-
-McMILLION, JAMES, Marshall Space Center, June 22, 1983.
-
-MERWARTH, ANN, Goddard Spaceflight Center, July 3, 1984.
-
-MILLER, BRUCE, Kennedy Space Center, July 5, 1983.
-
-MITCHELL, WALTER, Marshall Space Center, June 23, 1983.
-
-MORECROF'T, JOHN, Jet Propulsion Laboratory, May 29, 1984.
-
-MORTON, JOHN, Goddard Spaceflight Center, June 27, 1984.
-
-MOULDER, RICHARD, Jet Propulsion Laboratory, May 21, 1984.
-
-NATHAN, ROBERT, Jet Propulsion Laboratory, May 30, 1984.
-
-OTAMURA, ROY, Jet Propulsion Laboratory, May 29, 1984.
-
-PALIKOWSKY, RAYMOND, Singer, Houston, June 10, 1983.
-
-PANCIERA, ROBERT, Marshall Space Center, June 20, 1983.
-
-PARRISH, ALBERT, Kennedy Space Center, June 28, 1983.
-
-PARTEN, RICHARD, Johnson Space Center, June 3 and 16, 1983.
-
-PAUL, HENRY, Kennedy Space Center, July 7, 1983.
-
-PENDLETON, THOMAS, Johnson Space Center, June 9, 1983.
-
-PENOVICH, FRANK, Kennedy Space Center, July 1, 1983.
-
-PETYNIA, WILLIAM, League City, TX, June 8, 1983.
-
-POLLEN, DUB, IBM, Houston, June 13, 1983.
-
-RAINES, GARY K., telephone interview from Houston, November 1, 1985.
-
-RANDALL, JOSEPH, Marshall Space Center, June 20, 1983.
-
-RANEY, JAMES, Johnson Space Center, May 31, 1983.
-
-RICE, RICHARD, Jet Propulsion Laboratory, May 29, 1984.
-
-RIDDLE, FREDERICK, IBM, Houston, June 13, 1983.
-
-RONE, KYLE, IBM, Houston, June 3, 1983.
-
-ROYER, DONALD, Jet Propulsion Laboratory, June 7, 1984.
-
-SINGLETON, FRANK, Jet Propulsion Laboratory, May 17, 1984.
-
-SMITH, GEORGE, IBM, Kennedy Space Center, June 27 and 29, 1983.
-
-STEARNS, JANE, Kennedy Space Center, June 30, 1983.
-
-STEWART, WILLIAM, Goddard Spaceflight Center, July 10, 1984.
-
-STOKES, JAMES, Johnson Space Center, June 14, 1983.
-
-STORY, SCOTT, Ford Aerospace, Johnson Space Center, June 16, 1983.
-
-STOTT, RUSSELL, Jet Propulsion Laboratory, May 16, 1984.
-
-SULLIVAN, WILLIAM, Johnson Space Center, June 14, 1983.
-
-SWEARINGEN, CHARLES, Huntsville, AL, June 21, 1983.
-
-TINDALL HOWARD W., telephone interview from Washington, D.C., August 10, 1984.
-
-VICK, H.G., Marshall Space Center, June 21, 1983.
-
-VINZ, FRANK, Marshall Space Center, June 21, 1983.
-
-WALTON, THOMAS S., Kennedy Space Center, July 6, 1983.
-
-WILLBANKS, JAMES, IBM, Kennedy Space Center, June 29, 1983.
-
-WOODDELL, JOHN, Jet Propulsion Laboratory, May 21, 1984.
-
-YARBOROUGH, ROBERT, Kennedy Space Center, July 6, 1983.
-
-YOUNG, JOHN, telephone interview from Johnson Spaceflight Center, March 6, 1984.
-
-ZIPSE, JOHN, Jet Propulsion Laboratory, 22 May 1984.
-
-ZOBRIST, ALBERT, Jet Propulsion Laboratory, May 23, 1984.
+<!-- disable bullets of itemize and set left margin to zero -->
+\renewcommand\labelitemi{}
+\setlist[itemize]{leftmargin=0pt, itemindent=0pt}
+
+* AARON, JOHN, Johnson Space Center, June 17, 1983.
+* ALDRICH, ARNOLD, Johnson Space Center, June 13, 1983.
+* AZZOLINI, JOHN, Goddard Spaceflight Center, July 2, 1984.
+* BAILEY, WILLIAM, Kennedy Space Center, June 30, 1983.
+* BALES, STEVEN, Johnson Space Center, May 31, 1983.
+* BIEGERT, PAMELA, Kennedy Space Center, June 30, 1983.
+* BLIZZARD, EDGAR, Jet Propulsion Laboratory, May 29, 1984.
+* BOGAN, JACK, IBM, Kennedy Space Center, June 29, 1983.
+* BORNCAMP, FRANZ, Jet Propulsion Laboratory.
+* BRADFORD, CLIFFORD, Marshall Space Center, June 20, 1983.
+* BRAND, VANCE, Johnson Space Center, June 2, 1983.
+* BULKLEY, R.C., IBM, Kennedy Space Center, June 27 and 29, 1983.
+* BRUCKNER, BOBBY, Kennedy Space Center, June 30, 1983.
+* BYRNE, FRANK, Kennedy Space Center, June 29, and July 8, 1983.
+* CAMPBELL, GENE, IBM, Houston, June 13, 1983.
+* CERNAN, GENE, telephone interview from Houston, November 7, 1983.
+* CHAMBERS, J. PERRY, Goddard Spaceflight Center, June 28, 1984.
+* CHARLEN, WILLIAM, Jet Propulsion Laboratory, May 18, 1984.
+* CHUBB, WILLIAM, Marshall Space Center, June 22, 1983.
+* CLAYTON, ELDON, Johnson Space Center, June 1, 1983.
+* COPELAND, JOHN, IBM, Marshall Space Center, June 23, 1983.
+* COX, KENNETH, Johnson Space Center, June 14, 1983.
+* DEESE, SAMUEL, Jet Propulsion Laboratory, telephone interview, January 31, 1985.
+* DEETS, DWAIN, Dryden Flight Research Center, May 25, 1984.
+* DELAUNE, CARL, Kennedy Space Center, July 5, 1983.
+* DEMING, JAMES E., Kennedy Space Center, July 6, 1983.
+* DUNSEITH, LYNWOOD, Johnson Space Center, June 2 and 9, 1983.
+* EISENMAN, DAVID, Jet Propulsion Laboratory, May 21, 1984.
+* ERICKSON, JOHN, Johnson Space Center, June 14, 1983.
+* ERNULL, ROBERT, Johnson Space Center, June 16, 1983.
+* FOY, LYNNE, Johnson Space Center, June 16 and 17, 1983.
+* GARMAN, JOHN R., Johnson Space Center, May 25, and June 1, 1983.
+* GIANOPOLIS, GEORGE, Jet Propulsion Laboratory, June 4, 1984.
+* GREENBERG, EDWARD, Jet Propulsion Laboratory, May 30, 1984.
+* HART, TERRY, Johnson Space Center, June 10, 1983.
+* HARTSFIELD, HENRY, Johnson Space Center, June 2, 1983.
+* HEDDINS, FREDERICK, IBM, Kennedy Space Center, June 27 and 29, 1983.
+* HINSON SHIRLEY, Johnson Space Center, June 16, 1983.
+* HOELZER, HELMUT, Huntsville, Ala., June 24, 1983.
+* HUGHES, BRAD, Kennedy Space Center, July 5, 1983.
+* HUGHES, FRANK, Johnson Space Center, June 2, 1983.
+* JENNINGS, LLOYD, Jet Propulsion Laboratory, May 15, 1984.
+* JOHNSON, CARL, Jet Propulsion Laboratory, May 23, 1984.
+* JOHNSON, DONALD, Jet Propulsion Laboratory, May 16, 1984.
+* JORDAN, FRANK, Jet Propulsion Laboratory, May 31, 1984.
+* KILLINGBECK, LYNN, IBM, Houston, June 7, 1983.
+* KOHL, WAYNE, Jet Propulsion Laboratory, telephone interview, January 31, 1985.
+* KOPF, EDWARD H., Jet Propulsion Laboratory, May 18, 1984, telephone interview, January 31, 1985.
+* LANIER, RONALD, Johnson Space Center, June 16, 1983.
+* LEE, B. GENTRY, Jet Propulsion Laboratory, June 1, 1984.
+* LEMON, RICHARD, Jet Propulsion Laboratory, May 29, 1984.
+* LEWIS, JAMES, Marshall Space Center, June 20, 1983.
+* LINEBERRY, EDWARD, Johnson Space Center, June 2, 1983.
+* LOCK, WILTON, Dryden Flight Research Center, May 24, 1984.
+* LOUSMA, JACK, telephone interview from Houston, July 5, 1983.
+* LUCAS, JACK, Marshall Space Center, June 21, 1983.
+* MACINA, ANTHONY, IBM, Houston, June 7, 1983.
+* MALM, RICHARD, Jet Propulsion Laboratory, May 31, 1984.
+* MANN, STANLEY, Johnson Space Center, June 6 and 8, 1983.
+* MANSFIELD, KENNETH, Johnson Space Center, June 1, 1983.
+* MATTOX, RUSSELL, Marshall Space Center, June 23, 1983, telephone interview, November 16, 1984.
+* MAZUR, RAYMOND, Goddard Spaceflight Center, June 28, 1984.
+* McMILLION, JAMES, Marshall Space Center, June 22, 1983.
+* MERWARTH, ANN, Goddard Spaceflight Center, July 3, 1984.
+* MILLER, BRUCE, Kennedy Space Center, July 5, 1983.
+* MITCHELL, WALTER, Marshall Space Center, June 23, 1983.
+* MORECROF'T, JOHN, Jet Propulsion Laboratory, May 29, 1984.
+* MORTON, JOHN, Goddard Spaceflight Center, June 27, 1984.
+* MOULDER, RICHARD, Jet Propulsion Laboratory, May 21, 1984.
+* NATHAN, ROBERT, Jet Propulsion Laboratory, May 30, 1984.
+* OTAMURA, ROY, Jet Propulsion Laboratory, May 29, 1984.
+* PALIKOWSKY, RAYMOND, Singer, Houston, June 10, 1983.
+* PANCIERA, ROBERT, Marshall Space Center, June 20, 1983.
+* PARRISH, ALBERT, Kennedy Space Center, June 28, 1983.
+* PARTEN, RICHARD, Johnson Space Center, June 3 and 16, 1983.
+* PAUL, HENRY, Kennedy Space Center, July 7, 1983.
+* PENDLETON, THOMAS, Johnson Space Center, June 9, 1983.
+* PENOVICH, FRANK, Kennedy Space Center, July 1, 1983.
+* PETYNIA, WILLIAM, League City, TX, June 8, 1983.
+* POLLEN, DUB, IBM, Houston, June 13, 1983.
+* RAINES, GARY K., telephone interview from Houston, November 1, 1985.
+* RANDALL, JOSEPH, Marshall Space Center, June 20, 1983.
+* RANEY, JAMES, Johnson Space Center, May 31, 1983.
+* RICE, RICHARD, Jet Propulsion Laboratory, May 29, 1984.
+* RIDDLE, FREDERICK, IBM, Houston, June 13, 1983.
+* RONE, KYLE, IBM, Houston, June 3, 1983.
+* ROYER, DONALD, Jet Propulsion Laboratory, June 7, 1984.
+* SINGLETON, FRANK, Jet Propulsion Laboratory, May 17, 1984.
+* SMITH, GEORGE, IBM, Kennedy Space Center, June 27 and 29, 1983.
+* STEARNS, JANE, Kennedy Space Center, June 30, 1983.
+* STEWART, WILLIAM, Goddard Spaceflight Center, July 10, 1984.
+* STOKES, JAMES, Johnson Space Center, June 14, 1983.
+* STORY, SCOTT, Ford Aerospace, Johnson Space Center, June 16, 1983.
+* STOTT, RUSSELL, Jet Propulsion Laboratory, May 16, 1984.
+* SULLIVAN, WILLIAM, Johnson Space Center, June 14, 1983.
+* SWEARINGEN, CHARLES, Huntsville, AL, June 21, 1983.
+* TINDALL HOWARD W., telephone interview from Washington, D.C., August 10, 1984.
+* VICK, H.G., Marshall Space Center, June 21, 1983.
+* VINZ, FRANK, Marshall Space Center, June 21, 1983.
+* WALTON, THOMAS S., Kennedy Space Center, July 6, 1983.
+* WILLBANKS, JAMES, IBM, Kennedy Space Center, June 29, 1983.
+* WOODDELL, JOHN, Jet Propulsion Laboratory, May 21, 1984.
+* YARBOROUGH, ROBERT, Kennedy Space Center, July 6, 1983.
+* YOUNG, JOHN, telephone interview from Johnson Spaceflight Center, March 6, 1984.
+* ZIPSE, JOHN, Jet Propulsion Laboratory, 22 May 1984.
+* ZOBRIST, ALBERT, Jet Propulsion Laboratory, May 23, 1984.
 
 
 \newpageon{376}
 
 ##### Interviews Conducted by Other Persons
 
-BACHMAN, DALE F., interviewed by John J. Lenz, at IBM, Owego, NY, April 25, 1968; transcript at Johnson Space Center.
-
-BARTON, JOHN, interviewed by James Grimwood, at Motorola Aerospace Center, Scottsdale, AZ, July 11, 1966, transcript at Johnson Space Center.
-
-DODGE, HAROLD E., interviewed by John J. Lenz, at IBM, Owego, NY, April 25, 1968; transcript at Johnson Space Center.
-
-DRAPER, C. STARK, interviewed by Ivan Ertel at Cambridge, MA, April 23, 1968.
-
-HOAG, DAVID G., interviewed by Ivan Ertel, at MIT, Cambridge, MA, May 15, 1967; transcript at Johnson Space Center.
-
-HUTCHISON, HOMER W., interviewed by Ivan Ertel, at IBM, Owego, NY, April 25, 1968; transcript at Johnson Space Center.
-
-JACKSON, LEE, interviewed by Ivan Ertel, at IBM, Owego, NY, April 25, 1968; transcript at Johnson Space Center.
-
-JIMERSON, LEROY S. jr., interviewed by Ivan Ertel, at IBM, Owego, NY, April 26, 1968; transcript at Johnson Space Center.
-
-JOACHIM, JAMES, interviewed by Ivan Ertel, at IBM, Owego, NY, April 25, 1968; transcript at Johnson Space Center.
-
-LENZ, JOHN J., with JOHN L. SWEENEY, CHARLES E. DUNN, and CONRAD D. BABB, interviewed by Ivan Ertel, at IBM, Owego, NY, April 25, 1968; transcript at Johnson Space Center.
-
-MILLER, JOHN E., interviewed by Ivan Ertel, at MIT, Cambridge, MA, April 28, 1966; transcript at Johnson Space Center.
-
-RAGAN, RALPH, interviewed by Ivan Ertel, at MIT, Cambridge, MA, April 27, 1966; transcript at Johnson Space Center.
-
-RECHTIN, EBERHARDT, interviewed by Cargill Hall, Jet Propulsion Laboratory, c. 1970?; transcript in the Jet Propulsion Laboratory Library Vault.
-
-WESTKAEMPER, ROBERT M., with LEE JACKSON, interviewed by Ivan Ertel, at IBM, Owego, NY, April 25, 1968; transcript at Johnson Space Center.
+* BACHMAN, DALE F., interviewed by John J. Lenz, at IBM, Owego, NY, April 25, 1968; transcript at Johnson Space Center.
+* BARTON, JOHN, interviewed by James Grimwood, at Motorola Aerospace Center, Scottsdale, AZ, July 11, 1966, transcript at Johnson Space Center.
+* DODGE, HAROLD E., interviewed by John J. Lenz, at IBM, Owego, NY, April 25, 1968; transcript at Johnson Space Center.
+* DRAPER, C. STARK, interviewed by Ivan Ertel at Cambridge, MA, April 23, 1968.
+* HOAG, DAVID G., interviewed by Ivan Ertel, at MIT, Cambridge, MA, May 15, 1967; transcript at Johnson Space Center.
+* HUTCHISON, HOMER W., interviewed by Ivan Ertel, at IBM, Owego, NY, April 25, 1968; transcript at Johnson Space Center.
+* JACKSON, LEE, interviewed by Ivan Ertel, at IBM, Owego, NY, April 25, 1968; transcript at Johnson Space Center.
+* JIMERSON, LEROY S. jr., interviewed by Ivan Ertel, at IBM, Owego, NY, April 26, 1968; transcript at Johnson Space Center.
+* JOACHIM, JAMES, interviewed by Ivan Ertel, at IBM, Owego, NY, April 25, 1968; transcript at Johnson Space Center.
+* LENZ, JOHN J., with JOHN L. SWEENEY, CHARLES E. DUNN, and CONRAD D. BABB, interviewed by Ivan Ertel, at IBM, Owego, NY, April 25, 1968; transcript at Johnson Space Center.
+* MILLER, JOHN E., interviewed by Ivan Ertel, at MIT, Cambridge, MA, April 28, 1966; transcript at Johnson Space Center.
+* RAGAN, RALPH, interviewed by Ivan Ertel, at MIT, Cambridge, MA, April 27, 1966; transcript at Johnson Space Center.
+* RECHTIN, EBERHARDT, interviewed by Cargill Hall, Jet Propulsion Laboratory, c. 1970?; transcript in the Jet Propulsion Laboratory Library Vault.
+* WESTKAEMPER, ROBERT M., with LEE JACKSON, interviewed by Ivan Ertel, at IBM, Owego, NY, April 25, 1968; transcript at Johnson Space Center.
