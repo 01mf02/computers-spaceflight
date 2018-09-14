@@ -49,8 +49,8 @@ release S33, Cape Canaveral, FL, April 27, 1983.
 
 \pagebreakon{400}
 
-![Figure III-1](images/p400.jpg)
+![](images/p400.jpg)
 
 \pagebreakon{401}
 
-![Figure III-1 (Continued)](images/p401.jpg)
+![](images/p401.jpg)

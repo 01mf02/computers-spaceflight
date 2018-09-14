@@ -83,12 +83,12 @@ Cambridge, MA, 1978.
 
 \pagebreakon{395}
 
-![**Figure II-1**](images/p395.jpg)
+![](images/p395.jpg)
 
 \pagebreakon{396}
 
-![**Figure II-I (Continued)**](images/p396.jpg)
+![](images/p396.jpg)
 
 \pagebreakon{397}
 
-![**Figure II-2**](images/p397.jpg)
+![](images/p397.jpg)
