@@ -22,8 +22,8 @@ in automobiles, computers now ride along. Where once the only solution
 was the large, centralized computing center, distributed computers now
 share the load.
 
-Since NASA is well known as an extensive user of computers- mainly
-because spaceflight would not be possible without them- there is a
+Since NASA is well known as an extensive user of computers---mainly
+because spaceflight would not be possible without them---there is a
 common sense that at least part of the reason for the rapid growth and
 innovation in the computer industry is that NASA has served as a main
 driver due to its requirements. Actually, the situation is not so
