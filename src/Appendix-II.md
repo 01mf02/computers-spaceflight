@@ -83,12 +83,179 @@ Cambridge, MA, 1978.
 
 \pagebreakon{395}
 
+~~~ {caption="Figure II-1"}
+M: general:
+M: COMPOOL;
+M:  DECLARE num_vehicles CONSTANT(10);
+M:  STRUCTURE veh_state:
+M:     1 time SCALAR,
+M:     1 pos VECTOR,
+M:     1 v VECTOR,
+M:     1 accel VECTOR;
+M:  STRUCTURE vehicle:
+M:     1 status,
+M:        2 nav_state veh_state-STRUCTURE,
+M:        2 mass SCALAR,
+M:        2 electrical_systems BIT(12),
+M:        2 computer_systems BIT(5),
+M:        1 com_info,
+M:        2 pilot_name CHARACTER(30),
+M:        2 call_letters CHARACTER(10),
+M:        2 receive_frequency INTEGER;
+M:  DECLARE ship vehicle-STRUCTURE(num_vehicles) LOCK(1),
+M:          coord_trans MATRIX,
+M:          possible_collision EVENT LATCHED INITIAL(OFF),
+M:          nav_cycle EVENT,
+M:          guid_cycle EVENT;
+M: CLOSE general;
+-------------------------------------------------------------------------------
+M: read_accel:
+M: PROCEDURE ASSIGN(loc) REENTRANT;
+M:   DECLARE loc veh_state-STRUCTURE(num_vehicles);
+M:   DECLARE a BIT(30) AUTOMATIC;
+M:   DO FOR TEMPORARY veh = 1 TO num_vehicles;
+E:                                .
+M:     CALL get_accel(veh) ASSIGN(a);
+M:     loc.time    = RUNTIME;
+S:             veh
+E:            -             *                   .        .        .
+M:     loc.accel    = coord_trans VECTOR(SCALAR(a       ,a       ,a        ));
+S:              veh;                             10 AT 1  10 AT 1  10 AT 21
+M:   END;
+M: CLOSE read_accel;
+-------------------------------------------------------------------------------
+M: gnd_startup:
+M: PROGRAM;
+M:   STRUCTURE state:
+M:     1 time SCALAR,
+M:     1 pos VECTOR,
+M:     1 v VECTOR,
+M:     1 accel VECTOR;
+M:   DECLARE old_time ARRAY(num_vehicles) SCALAR,
+M:          state state-STRUCTURE(num_vehicles),
+M:          old_accel ARRAY(num_vehicles) VECTOR,
+M:          t ARRAY (num_vehicles) SCALAR;
+M:   DECLARE collision_check FUNCTION BOOLEAN;
+~~~
+
+<!--
 ![](images/p395.jpg)
+-->
 
 \pagebreakon{396}
 
+~~~ {caption="Figure II-1 (Continued)"}
+M:   CALL Kalman;
+M:   CALL new_state;
+E:
+M:   IF collision_check THEN
+M:     DO;
+C:            inform all interested processes of collision threat.
+M:       SET possible_collision;
+M:       SCHEDULE fast_nav IN 2 PRIORITY(35),
+M:            REPEAT EVERY 2 UNTIL 10 FLOOR(RUNTIME / 10) + 9;
+M:     END;
+M:   ELSE
+M:     RESET possible_collision;
+
+M: fast_nav:
+M: TASK;               /*perform a fast intermediate update of the state vectors*/
+M:   [t] = {time} - [old_time];
+E:                             +
+M:   CALL read_accel ASSIGN({state});
+C:           Update the entire array of position vectors and velocity vectors.
+E:     -       -      -                -          -          2
+M:   {pos} = {pos} + {v} [t] + .25 ({accel} +[old_accel]) [t] ;
+E:    -     -           -           -
+M:   {v} = {v} + .5 ({accel} + [old_accel]) [t];
+M:   CALL new_state;
+M: CLOSE fast_nav;
+
+M: new_state:
+M: PROCEDURE;                  / *internal procedure to update the state vectors*/
+M:   [old_time] = {time};
+E:        -           -
+M:   [old_accel] = {accel};
+
+M: UPDATE;         /*use update block to access shared data in controlled manner*/
+E:                    +           +
+M:   {ship.status.nav_state} = {state};
+M: CLOSE;
+
+M: collision_check:
+M: FUNCTION BOOLEAN;       /*check if any pair of vehicles is too close together*/
+M:   DECLARE too_close SCALAR INITIAL(5000);
+M:   DO FOR TEMPORARY veh = 1 TO num_vehicles;
+M:      DO FOR TEMPORARY other = veh = 1 TO num_vehicles;
+E:                    -         -
+M:         IF ABVAL (pos     - pos      ) < too_close THEN
+S:                      veh;      other;
+M:            RETURN TRUE;
+M:      END;
+M:   END;
+M:   RETURN FALSE;
+M: CLOSE collision_check;
+
+M: Kalman:
+M: PROCEDURE;            /*perform a sophisticated but slow navigation algorithm*/
+C:      .
+C:      .
+C:      .
+M: CLOSE Kalman;
+
+M: CLOSE nav;
+~~~
+
+<!--
 ![](images/p396.jpg)
+-->
 
 \pagebreakon{397}
 
+~~~ {caption="Figure II-2"}
+C                                                                      02880000
+C      SCHEDULE THE ERROR INTERRUPT SERVICE ROUTINE, ’RTI_UPT’.        02890000
+C                                                                      02900000
+C  112 CORRECTION #12                                                  02910000
+C  113 PROB 76                                                         02911000
+C                                                                      02912000
+ SCHEDULE ERRORF ON FAILURE PRIORITY(23);                              02920000
+ SCHEDULE ERROR0 ON RUPT0 PRIORITY(22);                                02930000
+ SCHEDULE ERROR1 ON RUPT1 PRIORITY(21);                                02940000
+C                                                                      02950000
+C      SCHEDULE THE RTI INTERRUPT SERVICE ROUTINE, ’RTI_UPT’.          02960000
+C                                                                      02970000
+ SCHEDULE RTI_RUPT ON RUPT4 PRIORITY(20);                              02980000
+C                                                                      02990000
+C      SCHEDULE THE STAR INTERRUPT SERVICE ROUTINE, ‘STAR_RUPT’.       03000000
+C                                                                      03010000
+ SCHEDULE STAR_RUPT ON RUPT5 PRIORITY(16);                             03020000
+C                                                                      03040000
+C SCHEDULE THE 33.33 MS. RATE-GROUP, ’RGO’                             03050000
+C                                                                      03051000
+C ITB PROB #128: TEMPORARY CHANGE FOR RGO                              03052003
+C FSW #210: 33 MSEC RATE GROUP AND SAFERATE VALUE                      03060003
+ SCHEDULE RGO PRIORITY(13), REPEAT EVERY 3/90                          03070000
+C                                                                      03090000
+C      SCHEDULE THE 66.66 MS. RATE-GROUP, ’RGI’                        03100000
+C                                                                      03110000
+ SCHEDULE RGI PRIORITY(12), REPEAT EVERY 6./90                         03120000
+C                                                                      03130000
+C      SCHEDULE THE 133.3 MS. RATE-GROUP, ’RG2’                        03140000
+C                                                                      03150000
+ SCHEDULE RG2 PRIORITY(11), REPEAT EVERY 12./90.;                      03160000
+C                                                                      03170000
+C      SCHEDULE THE 666.67 MS. RATE-GROUP, ’RG3’                       03180000
+C                                                                      03190000
+ SCHEDULE RG3 PRIORITY(8), REPEAT EVERY 2./3.;                         03200000
+C                                                                      03210000
+C      SCHEDULE THE RAM CHECKSUM FUCTION TO RUN CONTINUOUSLY           03220000
+C      (ONLY FOR AIAC NOT FOR FUNSIM)                                  03230000
+C                                                                      03240000
+A SCHEDULE CHKSUM PRIORITY(1);
+  CLOSE STARTUP;
+~~~
+
+<!--
 ![](images/p397.jpg)
+-->
