@@ -172,7 +172,7 @@ M:   CALL new_state;
 M: CLOSE fast_nav;
 
 M: new_state:
-M: PROCEDURE;                  / *internal procedure to update the state vectors*/
+M: PROCEDURE;                   /*internal procedure to update the state vectors*/
 M:   [old_time] = {time};
 E:        -           -
 M:   [old_accel] = {accel};
