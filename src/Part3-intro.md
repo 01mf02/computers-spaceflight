@@ -1,6 +1,6 @@
 NASA's ground computer systems are characterized by large
 size, by the implementation of real-time programming, and by the use of
-may computers connected together. The need for these three attributes
+many computers connected together. The need for these three attributes
 has caused NASA and its contractors to devise new techniques for
 computer applications, such as operating systems for mainframe computers
 capable of handling real-time processing and sophisticated networking.
