@@ -421,7 +421,7 @@ indicated at the time of the interview.
 * STOTT, RUSSELL, Jet Propulsion Laboratory, May 16, 1984.
 * SULLIVAN, WILLIAM, Johnson Space Center, June 14, 1983.
 * SWEARINGEN, CHARLES, Huntsville, AL, June 21, 1983.
-* TINDALL HOWARD W., telephone interview from Washington, D.C., August 10, 1984.
+* TINDALL, HOWARD W., telephone interview from Washington, D.C., August 10, 1984.
 * VICK, H.G., Marshall Space Center, June 21, 1983.
 * VINZ, FRANK, Marshall Space Center, June 21, 1983.
 * WALTON, THOMAS S., Kennedy Space Center, July 6, 1983.
