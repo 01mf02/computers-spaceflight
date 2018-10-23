@@ -36,12 +36,31 @@ Generation of PDF is just a `make` away.
 For HTML, run `make book.html`.
 
 
+## Image conversion
+
+To convert the images containing source code (in the appendices),
+I proceeded as follows.
+
+To crop away the figure caption:
+
+    convert p396.jpg -chop 0x180 p396s.jpg
+
+To perform OCR:
+
+    tesseract p396s.jpg p396.txt --oem 3 --psm 6 -c preserve_interword_spaces=1
+
+Finally, to remove unneeded blank lines introduced by the OCR:
+
+    sed -i '/^$/d' p396.txt.txt
+
+
 ## TODO
 
 This is work in progress. Help with the following points is welcome.
 Just compare the output of the original PDF with the generated PDF.
 KOMA-Script experience is particularly helpful.
 
+* Show code figure captions in HTML (e.g. in Appendix II).
 * Make page breaks absolute.
 * Increase line spacing for headlines (but not always, see p. 258 in Ch8-3).
 * Increase paragraph spacing for boxes.

@@ -35,6 +35,13 @@
 \@addtoreset{footnote}{part}
 \makeatother
 
+% set font of verbatim environments
+% https://tex.stackexchange.com/questions/120633/change-typeface-of-verbatim-environment/120694#120694
+\makeatletter
+\newcommand{\verbatimfont}[1]{\def\verbatim@font{#1}}%
+\makeatother
+\verbatimfont{\scriptsize\ttfamily}
+
 % to reset chapters to root (startatroot)
 \usepackage{bookmark}
 

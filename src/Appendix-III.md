@@ -49,8 +49,126 @@ release S33, Cape Canaveral, FL, April 27, 1983.
 
 \pagebreakon{400}
 
+~~~ {caption="Figure III-1"}
+                   GOAL LANGUAGE PROCESSOR SOURCE INPUT LISTING
+
+
+RECORD      SOURCE RECORD
+ 1951
+ 1952             SEND INTEGER <NO12INTGR> TO CONSOLE <GOXARM>;
+ 1953
+ 1954                $ SEND NOTIFICATION OF "OK TO START GOX ARM EXTEND"
+ 1955                  VIA REMOTE COMM INTERRUPTS TO ECS CONSOLE.     $
+ 1956
+ 1957             RECORD TEXT (BFS     PASS     LDB   ) TO <PAGE-B>
+ 1958                LINE 5 COLUMN 46 INVERT WHITE;
+ 1959
+ 1960             READ <NGPCLMCNFG>,
+ 1961                  <V98U2408C1>,
+ 1962                  <V90Q8001C1> AND SAVE AS (LDB), (BFS), (PASS);
+ 1963
+ 1964             VERIFY <SGPCAREA1> IS ON AND <SGPCFIDA1> = 21,
+ 1965               BEGIN SEQUENCE;
+ 1966
+ 1967                 IF (PASS) = 102,
+ 1968                    RECORD (PASS) TO <PAGE-B> LINE 5 COLUMN 60 INVERT RED;
+ 1969                 ELSE
+ 1970                    RECORD (PASS) TO <PAGE-B> LINE 5 COLUMN 60 INVERT GREEN;
+ 1971
+ 1972                END SEQUENCE;
+ 1973
+ 1974            ELSE
+ 1975                RECORD (PASS) TO <PAGE-B> LINE 5 COLUMN 60 INVERT WHITE;
+ 1976
+ 1977            VERIFY <SGPCAREA2> IS ON AND <AGPCFIDA2> IS BETWEEN 12 AND 13,
+ 1978              BEGIN SEQUENCE;
+ 1979
+ 1980                IF (BFS) =102,
+ 1981                   BEGIN SEQUENCE;
+ 1982
+ 1983                   ASSIGN (BFS SAFING) = ON;
+ 1984                   RECORD (BFS) TO <PAGE-B> LINE 5 COLUMN 50 INVERT RED;
+ 1985
+ 1986                   END SEQUENCE;
+ 1987                ELSE
+ 1988                   RECORD (BFS) TO <PAGE-B> LINE 5 COLUMN 50 INVERT GREEN;
+ 1989
+ 1990              END SEQUENCE;
+ 1991
+ 1992           ELSE RECORD (BFS) TO <PAGE-B> LINE 5 COLUMN 50 INVERT WHITE;
+ 1993
+ 1994           RECORD (LDB) TO <PAGE-B> LINE 5 COLUMN 69 INVERT GREEN;
+ 1995
+ 1996           INHIBIT PROGRAM LEVEL INTERRUPT CHECK FOR <PFPK2>
+ 1997                                                     <PFPK3>
+ 1998                                                     <PFPK5>;
+ 1999
+ 2000           LET (APUNOGO) = 0;
+~~~
+
+<!--
 ![](images/p400.jpg)
+-->
 
 \pagebreakon{401}
 
+~~~ {caption="Figure III-1 (Continued)"}
+                        GOAL PROCESSOR SOURCE INPUT LISTING
+
+
+RECORD     SOURCE RECORD
+ 2001
+ 2002             IF (GLS EVENT COMPLETED) IS GREATER THAN
+ 2003                (ET SRB RSS IGN S A TO ARM)  $  -04:58 $
+ 2004                THEN GO TO STEP 5150;  $ PRIMARY SAFING $
+ 2005                                     $ IMMEDIATE SAFING OF
+ 2006                                       SRB IGN S/A DEVICE REQUIRED ? $
+ 2007
+ 2008             IF (GLS EVENT COMPLETED) IS GREATER THAN
+ 2009                (FWD CMD DCDR PWR OFF)  $ -10 SEC $
+ 2010                THEN GO TO STEP 5103;
+ 2011
+ 2012             LET (C3ERR) = 0;
+ 2013
+ 2014             VERIFY <N03IS091E> IS ON, GO TO STEP 5103;
+ 2015
+ 2016             RECORD TEXT (CMD DECODERS PWR ON)
+ 2017                    TO <PAGE-B>
+ 2018                    LINE 5 COLUMN 0 YELLOW;
+ 2019
+ 2020             SET (PWR UP AFT CMD DECODER) FUNCTIONS TO ON;
+ 2021
+ 2022             DELAY 0.5 SEC;
+ 2023
+ 2024             SET (PWR UP FWD CMD DECODER) FUNCTIONS TO ON;
+ 2025
+ 2026             IF (C3ERR) IS NOT EQUAL TO 0 THEN GO TO STEP 5102;
+ 2027
+ 2028             MODIFY <PAGE-B> LINE 5 COLUMN 0 TO COLUMN 22 GREEN;
+ 2029
+ 2030             GO TO STEP 5103;
+ 2031
+ 2032    STEP5102 RECORD (CMDERR GSE)
+ 2033                    TO <PAGE-B>
+ 2034                    LINE 5 COLUMN 23 RED;
+ 2035
+ 2036    STEP5103 IF (GLS EVENT COMPLETED) IS GREATER THAN
+ 2037                (FWD MDM LOCKOUT)   $ -35 SEC $
+ 2038                THEN GO TO STEP 5107;
+ 2039
+ 2040             VERIFY <N03IS100E> IS ON, GO TO STEP 5107;
+ 2041
+ 2042             LET (3CERR) = 0;
+ 2043
+ 2044             RECORD TEXT (UNLOCK SRB FWD MDMS)
+ 2045                    TO <PAGE-B>
+ 2046                    LINE 6 COLUMN 0 YELLOW;
+ 2047
+ 2048             UNLOCK SRB MDM FOR <B75K3065XL> CRITICAL;
+ 2049
+ 2050             UNLOCK SRB MDM FOR <B75K3066XL> CRITICAL;
+~~~
+
+<!--
 ![](images/p401.jpg)
+-->

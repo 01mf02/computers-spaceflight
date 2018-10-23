@@ -41,7 +41,7 @@
 39. Kopf interview, May 18, 1984.
 40. Interview with John Wooddell, Jet Propulsion Laboratory, May 21, 1984.
 41. B.D. Martin, "Data Systems for 12-Year Missions," *Astronaut. Aeronaut.*, September 1970, p. 58.
-42. Interview with Don Johnson, Jet Propulsion laboratory, May 16 1984; Undated at the time, Wooddell thinks he wrote the "Design of a CMOS Process for Use in the Flight Data Subsystem of a Deep Space Probe" in 1974, which makes sense as the development process lasted from 1972 to 1974.
+42. Interview with Don Johnson, Jet Propulsion laboratory, May 16, 1984; Undated at the time, Wooddell thinks he wrote the "Design of a CMOS Process for Use in the Flight Data Subsystem of a Deep Space Probe" in 1974, which makes sense as the development process lasted from 1972 to 1974.
 43. J. Wooddell, "Design of a CMOS Processor," pp. 2--3, files of J. Wooddell.
 44. J. Morecroft to K. Frewing, "FDS Programming," January 14, 1975, files of R.J. Rice, Jet Propulsion Lab.
 45. Rice interview.

@@ -56,7 +56,7 @@ Center led development of the device over a 10-year period from the late
 (NASA photo)](images/p136.jpg)
 
 In contrast, machines built at JPL have had a longer and more related
-history. Although some reuse has occurred, the, various space probes
+history. Although some reuse has occurred, the various space probes
 built at JPL carried mission-unique computers of increasing \pagebreakon{137}
 power and complexity, paralleling the development of computers for
 manned spacecraft. Unlike the manned programs, however, JPL sponsored
