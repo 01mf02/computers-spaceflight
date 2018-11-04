@@ -83,7 +83,7 @@ various Centers. Short courses on software engineering topics are being
 taught routinely. The Jet Propulsion Laboratory has established a
 software resource center. Goddard Space Flight Center regularly sponsors
 a software engineering conference. Conferences have been held to get an
-early start on the use of the the Ada programming language in the Space
+early start on the use of the Ada programming language in the Space
 Station project. Obviously, NASA is committed to improvement and high
 quality in this field, as more and more functions on space flights are
 taken over by computers.
