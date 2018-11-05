@@ -20,7 +20,7 @@ forces using either mechanical or electrical means.
 
 Assembly Language
 :   A low-level programming language for computers
-that express algorithtms in statements consisting of mnemonics
+that express algorithms in statements consisting of mnemonics
 representing actions and numbers representing addresses. For example,
 the statement "ADD A,7FFF" tells a computer to add the contents of
 location 7FFF (a hexadecimal number) to the contents of the accumulator
@@ -267,7 +267,7 @@ for use in a computer.
 
 Flip-Flop
 :   A logic device that can change from containing a one to a
-zero and vice-versa depending on inputs. Hip-flops are often used in the
+zero and vice-versa depending on inputs. Flip-flops are often used in the
 central processing unit of a computer.
 
 Floating Point
