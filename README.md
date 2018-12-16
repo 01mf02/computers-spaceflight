@@ -26,7 +26,7 @@ so references to pages of the original book remain valid.
 
 The format of choice to represent the book is *Markdown*.
 I use the flavour of the *Pandoc* document converter,
-which allows conversion of Pandoc to several formats such as
+which allows conversion of Markdown to several formats such as
 HTML, PDF, ePub and so on.
 
 To generate a PDF/HTML, you need Pandoc with pandocfilters.
