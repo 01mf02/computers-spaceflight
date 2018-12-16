@@ -1,5 +1,7 @@
 # Computers in Spaceflight: The NASA Experience
 
+**Summary**: Get the book [here](https://github.com/01mf02/computers-spaceflight/releases/download/v1.0/cisf-20181105.pdf).
+
 This is a cleaned version of the book
 "Computers in Spaceflight: The NASA Experience",
 available as PDF from
@@ -7,9 +9,9 @@ available as PDF from
 and as HTML from
 <https://history.nasa.gov/computers/contents.html>.
 
-The PDF version is several hundreds of megabytes large,
+The original PDF version is several hundreds of megabytes large,
 making it hard to print and to navigate.
-On the other hand, the HTML version is not available on a single page,
+On the other hand, the original HTML version is not available on a single page,
 making it also hard to print.
 
 This project has created a representation of the book
