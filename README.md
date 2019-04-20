@@ -3,7 +3,7 @@
 **Summary**: Get the book [here](https://github.com/01mf02/computers-spaceflight/releases/download/v1.0/cisf-20181105.pdf).
 
 This is a cleaned version of the book
-"Computers in Spaceflight: The NASA Experience",
+"Computers in Spaceflight: The NASA Experience" by James E. Tomayko,
 available as PDF from
 <https://www.ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19880069935.pdf>
 and as HTML from
@@ -38,22 +38,11 @@ Generation of PDF is just a `make` away.
 For HTML, run `make book.html`.
 
 
-## Image conversion
+## Remaking Of
 
-To convert the images containing source code (in the appendices),
-I proceeded as follows.
 
-To crop away the figure caption:
-
-    convert p396.jpg -chop 0x180 p396s.jpg
-
-To perform OCR:
-
-    tesseract p396s.jpg p396.txt --oem 3 --psm 6 -c preserve_interword_spaces=1
-
-Finally, to remove unneeded blank lines introduced by the OCR:
-
-    sed -i '/^$/d' p396.txt.txt
+My motivation and the "remaking of" this book is further detailed in
+[a blog post of mine](http://gedenkt.at/blog/computers-spaceflight/).
 
 
 ## TODO
